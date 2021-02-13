@@ -100,6 +100,7 @@ if (/*@cc_on!@*/false || (!!window.MSInputMethodContext && !!document.documentMo
     </div>
 </noscript>
 
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/zyoushuo/Blog@master/hexo/css/GalMenu.css">
 </head>
 
   <body>
@@ -484,6 +485,24 @@ if (/*@cc_on!@*/false || (!!window.MSInputMethodContext && !!document.documentMo
 
           
         
+          
+            
+  <div class="new-meta-item wordcount">
+    <a class='notlink'>
+      <i class="fas fa-keyboard fa-fw" aria-hidden="true"></i>
+      <p>511 words</p>
+    </a>
+  </div>
+  <div class="new-meta-item readtime">
+    <a class='notlink'>
+      <i class="fas fa-hourglass-half fa-fw" aria-hidden="true"></i>
+      <p>1 min</p>
+    </a>
+  </div>
+
+
+          
+        
       </div>
     
   </div>
@@ -496,6 +515,7 @@ if (/*@cc_on!@*/false || (!!window.MSInputMethodContext && !!document.documentMo
 
 <p>刚念到成绩时，我的大脑一片空白。顿时，我的脑袋就像被炸了一样，眼泪如泉水涌了出来，80分的考卷如一座山压着我，令我无法呼吸。<br>回到家里，我头也不抬地写完了作业，泪水出现在每个角落。我绝望了，这是我人生中第一次遇到挫折。我用已经僵硬的手打开电脑，想要下盘棋转移注意力。我一开始只是漫无目的地挪动棋子，两眼失神，腿一直颤抖着，苍白的脸上没有一丝光泽，心中依然是无尽的悲伤。过了一会儿，我仿佛被赋予了生命，脑袋开始运转了起来，身体也能动了，浑身都有了力气，心里不再那么难受了。到了后来，我已经完全进入状态，将全身心投入到棋中，一点点悲伤也没有了。这小小的棋盘和棋子，仿佛有魔力一样，将我的灵魂带到了棋的世界里，快乐地漫游在其中。<br>在下棋的过程中，我受益良多：在这场游戏中，暂时的失利不代表永恒的失败，在比赛的任何时刻，你都有可能因为一步棋而失利，但是你也有机会再次夺回先机。考试也是如此，一次考试说明不了什么，人生的路很长，会遇到无数次考试，只要总体是好的，就是胜利了！<br>下完棋以后，我悲伤全无，还有一股隐形的力量鼓励我前行。短短的一盘棋使我得到了许多，这时的我已经不是一刻钟之前的我了。<br>棋，能令人投入进去，还能缓解情绪，更能告诉我们使人一生受用的道理！<br>我想，下棋，让生活更美好！</p>
 
+  
   
   
     
@@ -935,7 +955,7 @@ var loadCSS = function( href, before, media, attributes ){
         }
 	  function Pjax_backstretch(){
         
-          $('#cover-backstretch').backstretch(
+          $.backstretch(
             imgs,
           {
             duration: "10000",
@@ -1416,6 +1436,8 @@ volantis.pjax.send(()=>{
 
 
 
+<script src="//code.tidio.co/yqiejzisxe8raqgmfvzyrbqemxyfzrm2.js" async></script>
+
 
 <script>
 function listennSidebarTOC() {
@@ -1600,5 +1622,40 @@ document.addEventListener("pjax:success", listennSidebarTOC);
       console.error(err);
     })
 </script>
+
+    <div class="GalMenu GalDropDown">
+       <div class="circle" id="gal">
+         <div class="ring">
+           <a href="/" class="menuItem">首页</a>
+           <a href="javascript:history.go(1);" class="menuItem">前进</a>
+           <a href="javascript:$('html,body').animate({scrollTop:0},500);" class="menuItem">顶部</a>
+           <a href="javascript:location.reload();" class="menuItem">刷新</a>
+           <a href="javascript:history.go(-1);" class="menuItem">后退</a>
+         </div>
+         
+             <audio id="audio" src="https://cdn.jsdelivr.net/gh/zyoushuo/Blog@master/hexo/audio/niconiconi.mp3"></audio>
+         
+       </div>
+ </div>
+ <script type="text/javascript">
+ var items = document.querySelectorAll('.menuItem'); 
+ for (var i = 0, l = items.length; i < l; i++) {
+     items[i].style.left = (50 - 35 * Math.cos( - 0.5 * Math.PI - 2 * (1 / l) * i * Math.PI)).toFixed(4) + "%";
+     items[i].style.top = (50 + 35 * Math.sin( - 0.5 * Math.PI - 2 * (1 / l) * i * Math.PI)).toFixed(4) + "%"
+   }
+ </script>
+ <script>window.jQuery || document.write('<script src="https://cdn.jsdelivr.net/gh/zyoushuo/Blog@master/hexo/js/jquery-2.1.1.min.js"><\/script>')</script>	
+ 
+<script src="https://cdn.jsdelivr.net/gh/zyoushuo/Blog@master/hexo/js/GalMenu.js"></script>
+
+ <script type="text/javascript">
+     $(document).ready(function() {
+     $('body').GalMenu({
+       'menu': 'GalDropDown'
+     })
+   });
+ </script>
+
+<a target="_blank" rel="noopener" href="https://github.com/yaojinghao" class="github-corner" aria-label="View source on GitHub"><svg width="80" height="80" viewBox="0 0 250 250" style="fill:#151513; color:#fff; position: absolute; top: 0; border: 0; right: 0;" aria-hidden="true"><path d="M0,0 L115,115 L130,115 L142,142 L250,250 L250,0 Z"></path><path d="M128.3,109.0 C113.8,99.7 119.0,89.6 119.0,89.6 C122.0,82.7 120.5,78.6 120.5,78.6 C119.2,72.0 123.4,76.3 123.4,76.3 C127.3,80.9 125.5,87.3 125.5,87.3 C122.9,97.6 130.6,101.9 134.4,103.2" fill="currentColor" style="transform-origin: 130px 106px;" class="octo-arm"></path><path d="M115.0,115.0 C114.9,115.1 118.7,116.5 119.8,115.4 L133.7,101.6 C136.9,99.2 139.9,98.4 142.2,98.6 C133.8,88.0 127.5,74.4 143.8,58.0 C148.5,53.4 154.0,51.2 159.7,51.0 C160.3,49.4 163.2,43.6 171.4,40.1 C171.4,40.1 176.1,42.5 178.8,56.2 C183.1,58.6 187.2,61.8 190.9,65.4 C194.5,69.0 197.7,73.2 200.1,77.6 C213.8,80.2 216.3,84.9 216.3,84.9 C212.7,93.1 206.9,96.0 205.4,96.6 C205.1,102.4 203.0,107.8 198.3,112.5 C181.9,128.9 168.3,122.5 157.7,114.1 C157.9,116.9 156.7,120.9 152.7,124.9 L141.0,136.5 C139.8,137.7 141.6,141.9 141.8,141.8 Z" fill="currentColor" class="octo-body"></path></svg></a><style>.github-corner:hover .octo-arm{animation:octocat-wave 560ms ease-in-out}@keyframes octocat-wave{0%,100%{transform:rotate(0)}20%,60%{transform:rotate(-25deg)}40%,80%{transform:rotate(10deg)}}@media (max-width:500px){.github-corner:hover .octo-arm{animation:none}.github-corner .octo-arm{animation:octocat-wave 560ms ease-in-out}}</style>
   </body>
 </html>
