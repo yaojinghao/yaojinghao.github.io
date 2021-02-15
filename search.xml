@@ -1,23 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>P1000 超级玛丽游戏</title>
-    <url>/2021/02/01/P1000%E8%B6%85%E7%BA%A7%E7%8E%9B%E4%B8%BD%E6%B8%B8%E6%88%8F/</url>
-    <content><![CDATA[<h1 id="略。"><a href="#略。" class="headerlink" title="略。"></a>略。</h1><a id="more"></a>
-
-<p>开个玩笑，主要是这题实在太闷骚了，就是打字练习，没什么技术含量。但是经过我的百般思考之后……</p>
-<h3 id="我还是写了！"><a href="#我还是写了！" class="headerlink" title="我还是写了！"></a>我还是写了！</h3><p>请看下面这段不值得一看的代码。</p>
-<figure class="highlight cpp"><table><tr><td class="code"><pre><span class="line"><span class="meta">#<span class="meta-keyword">include</span> <span class="meta-string">&lt;iostream&gt;</span></span></span><br><span class="line"><span class="keyword">using</span> <span class="keyword">namespace</span> <span class="built_in">std</span>;</span><br><span class="line"><span class="function"><span class="keyword">int</span> <span class="title">main</span><span class="params">()</span></span></span><br><span class="line"><span class="function"></span>&#123;</span><br><span class="line">	<span class="built_in">cout</span>&lt;&lt;<span class="string">&quot;                ********&quot;</span>&lt;&lt;<span class="built_in">endl</span>;</span><br><span class="line">	<span class="built_in">cout</span>&lt;&lt;<span class="string">&quot;               ************&quot;</span>&lt;&lt;<span class="built_in">endl</span>;</span><br><span class="line">	<span class="built_in">cout</span>&lt;&lt;<span class="string">&quot;               ####....#.&quot;</span>&lt;&lt;<span class="built_in">endl</span>;</span><br><span class="line">	<span class="built_in">cout</span>&lt;&lt;<span class="string">&quot;             #..###.....##....&quot;</span>&lt;&lt;<span class="built_in">endl</span>;</span><br><span class="line">	<span class="built_in">cout</span>&lt;&lt;<span class="string">&quot;             ###.......######              ###            ###&quot;</span>&lt;&lt;<span class="built_in">endl</span>;</span><br><span class="line">	<span class="built_in">cout</span>&lt;&lt;<span class="string">&quot;                ...........               #...#          #...#&quot;</span>&lt;&lt;<span class="built_in">endl</span>;</span><br><span class="line">	<span class="built_in">cout</span>&lt;&lt;<span class="string">&quot;               ##*#######                 #.#.#          #.#.#&quot;</span>&lt;&lt;<span class="built_in">endl</span>;</span><br><span class="line">	<span class="built_in">cout</span>&lt;&lt;<span class="string">&quot;            ####*******######             #.#.#          #.#.#&quot;</span>&lt;&lt;<span class="built_in">endl</span>;</span><br><span class="line">	<span class="built_in">cout</span>&lt;&lt;<span class="string">&quot;           ...#***.****.*###....          #...#          #...#&quot;</span>&lt;&lt;<span class="built_in">endl</span>;</span><br><span class="line">	<span class="built_in">cout</span>&lt;&lt;<span class="string">&quot;           ....**********##.....           ###            ###&quot;</span>&lt;&lt;<span class="built_in">endl</span>;</span><br><span class="line">	<span class="built_in">cout</span>&lt;&lt;<span class="string">&quot;           ....****    *****....&quot;</span>&lt;&lt;<span class="built_in">endl</span>;</span><br><span class="line">	<span class="built_in">cout</span>&lt;&lt;<span class="string">&quot;             ####        ####&quot;</span>&lt;&lt;<span class="built_in">endl</span>;</span><br><span class="line">	<span class="built_in">cout</span>&lt;&lt;<span class="string">&quot;           ######        ######&quot;</span>&lt;&lt;<span class="built_in">endl</span>;</span><br><span class="line">	<span class="built_in">cout</span>&lt;&lt;<span class="string">&quot;##############################################################&quot;</span>&lt;&lt;<span class="built_in">endl</span>;</span><br><span class="line">	<span class="built_in">cout</span>&lt;&lt;<span class="string">&quot;#...#......#.##...#......#.##...#......#.##------------------#&quot;</span>&lt;&lt;<span class="built_in">endl</span>;</span><br><span class="line">	<span class="built_in">cout</span>&lt;&lt;<span class="string">&quot;###########################################------------------#&quot;</span>&lt;&lt;<span class="built_in">endl</span>;</span><br><span class="line">	<span class="built_in">cout</span>&lt;&lt;<span class="string">&quot;#..#....#....##..#....#....##..#....#....#####################&quot;</span>&lt;&lt;<span class="built_in">endl</span>;</span><br><span class="line">	<span class="built_in">cout</span>&lt;&lt;<span class="string">&quot;##########################################    #----------#&quot;</span>&lt;&lt;<span class="built_in">endl</span>;</span><br><span class="line">	<span class="built_in">cout</span>&lt;&lt;<span class="string">&quot;#.....#......##.....#......##.....#......#    #----------#&quot;</span>&lt;&lt;<span class="built_in">endl</span>;</span><br><span class="line">	<span class="built_in">cout</span>&lt;&lt;<span class="string">&quot;##########################################    #----------#&quot;</span>&lt;&lt;<span class="built_in">endl</span>;</span><br><span class="line">	<span class="built_in">cout</span>&lt;&lt;<span class="string">&quot;#.#..#....#..##.#..#....#..##.#..#....#..#    #----------#&quot;</span>&lt;&lt;<span class="built_in">endl</span>;</span><br><span class="line">	<span class="built_in">cout</span>&lt;&lt;<span class="string">&quot;##########################################    ############&quot;</span>;</span><br><span class="line">	<span class="keyword">return</span> <span class="number">0</span>;</span><br><span class="line">&#125;</span><br><span class="line"></span><br></pre></td></tr></table></figure>
-<p>这题我就不写注释了，写了也没人看……</p>
-]]></content>
-      <categories>
-        <category>题解</category>
-      </categories>
-      <tags>
-        <tag>C++</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>2019 CSP-J认证 复赛</title>
     <url>/2021/02/01/2019CSP-J%E8%AE%A4%E8%AF%81%E5%A4%8D%E8%B5%9B/</url>
     <content><![CDATA[<h4 id="个人信息"><a href="#个人信息" class="headerlink" title="个人信息"></a>个人信息</h4><p>姓名：姚景豪<br>年龄：10岁<br>年级：五年级<br><strong>我是旷课去CSP-J的。</strong></p>
@@ -44,27 +27,14 @@
       </tags>
   </entry>
   <entry>
-    <title>下棋让生活更美好</title>
-    <url>/2021/02/04/%E4%B8%8B%E6%A3%8B%E8%AE%A9%E7%94%9F%E6%B4%BB%E6%9B%B4%E7%BE%8E%E5%A5%BD/</url>
-    <content><![CDATA[<p>记得那天，是数学成绩公布的日子。发试卷时，老师读到：“徐嘉一，100分！姚景豪，80分，严重退步！”</p>
-<a id="more"></a>
+    <title>P1000 超级玛丽游戏</title>
+    <url>/2021/02/01/P1000%E8%B6%85%E7%BA%A7%E7%8E%9B%E4%B8%BD%E6%B8%B8%E6%88%8F/</url>
+    <content><![CDATA[<h1 id="略。"><a href="#略。" class="headerlink" title="略。"></a>略。</h1><a id="more"></a>
 
-<p>刚念到成绩时，我的大脑一片空白。顿时，我的脑袋就像被炸了一样，眼泪如泉水涌了出来，80分的考卷如一座山压着我，令我无法呼吸。<br>回到家里，我头也不抬地写完了作业，泪水出现在每个角落。我绝望了，这是我人生中第一次遇到挫折。我用已经僵硬的手打开电脑，想要下盘棋转移注意力。我一开始只是漫无目的地挪动棋子，两眼失神，腿一直颤抖着，苍白的脸上没有一丝光泽，心中依然是无尽的悲伤。过了一会儿，我仿佛被赋予了生命，脑袋开始运转了起来，身体也能动了，浑身都有了力气，心里不再那么难受了。到了后来，我已经完全进入状态，将全身心投入到棋中，一点点悲伤也没有了。这小小的棋盘和棋子，仿佛有魔力一样，将我的灵魂带到了棋的世界里，快乐地漫游在其中。<br>在下棋的过程中，我受益良多：在这场游戏中，暂时的失利不代表永恒的失败，在比赛的任何时刻，你都有可能因为一步棋而失利，但是你也有机会再次夺回先机。考试也是如此，一次考试说明不了什么，人生的路很长，会遇到无数次考试，只要总体是好的，就是胜利了！<br>下完棋以后，我悲伤全无，还有一股隐形的力量鼓励我前行。短短的一盘棋使我得到了许多，这时的我已经不是一刻钟之前的我了。<br>棋，能令人投入进去，还能缓解情绪，更能告诉我们使人一生受用的道理！<br>我想，下棋，让生活更美好！</p>
-]]></content>
-      <categories>
-        <category>创作（正经）</category>
-      </categories>
-      <tags>
-        <tag>爱好</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>P1001 A+B Problem</title>
-    <url>/2021/02/01/P1001A+BProblem/</url>
-    <content><![CDATA[<figure class="highlight cpp"><table><tr><td class="code"><pre><span class="line"><span class="meta">#<span class="meta-keyword">include</span> <span class="meta-string">&lt;iostream&gt; //头文件</span></span></span><br><span class="line"><span class="keyword">using</span> <span class="keyword">namespace</span> <span class="built_in">std</span>;<span class="comment">//命名空间</span></span><br><span class="line"><span class="function"><span class="keyword">int</span> <span class="title">main</span><span class="params">()</span>          <span class="comment">//主函数  </span></span></span><br><span class="line"><span class="function"></span>&#123;</span><br><span class="line">	<span class="keyword">int</span> a,b;        <span class="comment">//int定义a和b</span></span><br><span class="line">	<span class="built_in">cin</span>&gt;&gt;a&gt;&gt;b;      <span class="comment">//输入a和b</span></span><br><span class="line">	<span class="built_in">cout</span>&lt;&lt;a+b&lt;&lt;<span class="built_in">endl</span>;<span class="comment">//利用加号运算符将a和b加在一起并输出、换行</span></span><br><span class="line">	<span class="keyword">return</span> <span class="number">0</span>;       <span class="comment">//主函数返回0（表示程序正常运行结束）</span></span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
-<a id="more"></a>
-
-<p>最简单的a+b问题，你看懂了吗？</p>
+<p>开个玩笑，主要是这题实在太闷骚了，就是打字练习，没什么技术含量。但是经过我的百般思考之后……</p>
+<h3 id="我还是写了！"><a href="#我还是写了！" class="headerlink" title="我还是写了！"></a>我还是写了！</h3><p>请看下面这段不值得一看的代码。</p>
+<figure class="highlight cpp"><table><tr><td class="code"><pre><span class="line"><span class="meta">#<span class="meta-keyword">include</span> <span class="meta-string">&lt;iostream&gt;</span></span></span><br><span class="line"><span class="keyword">using</span> <span class="keyword">namespace</span> <span class="built_in">std</span>;</span><br><span class="line"><span class="function"><span class="keyword">int</span> <span class="title">main</span><span class="params">()</span></span></span><br><span class="line"><span class="function"></span>&#123;</span><br><span class="line">	<span class="built_in">cout</span>&lt;&lt;<span class="string">&quot;                ********&quot;</span>&lt;&lt;<span class="built_in">endl</span>;</span><br><span class="line">	<span class="built_in">cout</span>&lt;&lt;<span class="string">&quot;               ************&quot;</span>&lt;&lt;<span class="built_in">endl</span>;</span><br><span class="line">	<span class="built_in">cout</span>&lt;&lt;<span class="string">&quot;               ####....#.&quot;</span>&lt;&lt;<span class="built_in">endl</span>;</span><br><span class="line">	<span class="built_in">cout</span>&lt;&lt;<span class="string">&quot;             #..###.....##....&quot;</span>&lt;&lt;<span class="built_in">endl</span>;</span><br><span class="line">	<span class="built_in">cout</span>&lt;&lt;<span class="string">&quot;             ###.......######              ###            ###&quot;</span>&lt;&lt;<span class="built_in">endl</span>;</span><br><span class="line">	<span class="built_in">cout</span>&lt;&lt;<span class="string">&quot;                ...........               #...#          #...#&quot;</span>&lt;&lt;<span class="built_in">endl</span>;</span><br><span class="line">	<span class="built_in">cout</span>&lt;&lt;<span class="string">&quot;               ##*#######                 #.#.#          #.#.#&quot;</span>&lt;&lt;<span class="built_in">endl</span>;</span><br><span class="line">	<span class="built_in">cout</span>&lt;&lt;<span class="string">&quot;            ####*******######             #.#.#          #.#.#&quot;</span>&lt;&lt;<span class="built_in">endl</span>;</span><br><span class="line">	<span class="built_in">cout</span>&lt;&lt;<span class="string">&quot;           ...#***.****.*###....          #...#          #...#&quot;</span>&lt;&lt;<span class="built_in">endl</span>;</span><br><span class="line">	<span class="built_in">cout</span>&lt;&lt;<span class="string">&quot;           ....**********##.....           ###            ###&quot;</span>&lt;&lt;<span class="built_in">endl</span>;</span><br><span class="line">	<span class="built_in">cout</span>&lt;&lt;<span class="string">&quot;           ....****    *****....&quot;</span>&lt;&lt;<span class="built_in">endl</span>;</span><br><span class="line">	<span class="built_in">cout</span>&lt;&lt;<span class="string">&quot;             ####        ####&quot;</span>&lt;&lt;<span class="built_in">endl</span>;</span><br><span class="line">	<span class="built_in">cout</span>&lt;&lt;<span class="string">&quot;           ######        ######&quot;</span>&lt;&lt;<span class="built_in">endl</span>;</span><br><span class="line">	<span class="built_in">cout</span>&lt;&lt;<span class="string">&quot;##############################################################&quot;</span>&lt;&lt;<span class="built_in">endl</span>;</span><br><span class="line">	<span class="built_in">cout</span>&lt;&lt;<span class="string">&quot;#...#......#.##...#......#.##...#......#.##------------------#&quot;</span>&lt;&lt;<span class="built_in">endl</span>;</span><br><span class="line">	<span class="built_in">cout</span>&lt;&lt;<span class="string">&quot;###########################################------------------#&quot;</span>&lt;&lt;<span class="built_in">endl</span>;</span><br><span class="line">	<span class="built_in">cout</span>&lt;&lt;<span class="string">&quot;#..#....#....##..#....#....##..#....#....#####################&quot;</span>&lt;&lt;<span class="built_in">endl</span>;</span><br><span class="line">	<span class="built_in">cout</span>&lt;&lt;<span class="string">&quot;##########################################    #----------#&quot;</span>&lt;&lt;<span class="built_in">endl</span>;</span><br><span class="line">	<span class="built_in">cout</span>&lt;&lt;<span class="string">&quot;#.....#......##.....#......##.....#......#    #----------#&quot;</span>&lt;&lt;<span class="built_in">endl</span>;</span><br><span class="line">	<span class="built_in">cout</span>&lt;&lt;<span class="string">&quot;##########################################    #----------#&quot;</span>&lt;&lt;<span class="built_in">endl</span>;</span><br><span class="line">	<span class="built_in">cout</span>&lt;&lt;<span class="string">&quot;#.#..#....#..##.#..#....#..##.#..#....#..#    #----------#&quot;</span>&lt;&lt;<span class="built_in">endl</span>;</span><br><span class="line">	<span class="built_in">cout</span>&lt;&lt;<span class="string">&quot;##########################################    ############&quot;</span>;</span><br><span class="line">	<span class="keyword">return</span> <span class="number">0</span>;</span><br><span class="line">&#125;</span><br><span class="line"></span><br></pre></td></tr></table></figure>
+<p>这题我就不写注释了，写了也没人看……</p>
 ]]></content>
       <categories>
         <category>题解</category>
@@ -86,6 +56,36 @@
       </categories>
       <tags>
         <tag>C++</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>P1001 A+B Problem</title>
+    <url>/2021/02/01/P1001A+BProblem/</url>
+    <content><![CDATA[<figure class="highlight cpp"><table><tr><td class="code"><pre><span class="line"><span class="meta">#<span class="meta-keyword">include</span> <span class="meta-string">&lt;iostream&gt; //头文件</span></span></span><br><span class="line"><span class="keyword">using</span> <span class="keyword">namespace</span> <span class="built_in">std</span>;<span class="comment">//命名空间</span></span><br><span class="line"><span class="function"><span class="keyword">int</span> <span class="title">main</span><span class="params">()</span>          <span class="comment">//主函数  </span></span></span><br><span class="line"><span class="function"></span>&#123;</span><br><span class="line">	<span class="keyword">int</span> a,b;        <span class="comment">//int定义a和b</span></span><br><span class="line">	<span class="built_in">cin</span>&gt;&gt;a&gt;&gt;b;      <span class="comment">//输入a和b</span></span><br><span class="line">	<span class="built_in">cout</span>&lt;&lt;a+b&lt;&lt;<span class="built_in">endl</span>;<span class="comment">//利用加号运算符将a和b加在一起并输出、换行</span></span><br><span class="line">	<span class="keyword">return</span> <span class="number">0</span>;       <span class="comment">//主函数返回0（表示程序正常运行结束）</span></span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+<a id="more"></a>
+
+<p>最简单的a+b问题，你看懂了吗？</p>
+]]></content>
+      <categories>
+        <category>题解</category>
+      </categories>
+      <tags>
+        <tag>C++</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>下棋让生活更美好</title>
+    <url>/2021/02/04/%E4%B8%8B%E6%A3%8B%E8%AE%A9%E7%94%9F%E6%B4%BB%E6%9B%B4%E7%BE%8E%E5%A5%BD/</url>
+    <content><![CDATA[<p>记得那天，是数学成绩公布的日子。发试卷时，老师读到：“徐嘉一，100分！姚景豪，80分，严重退步！”</p>
+<a id="more"></a>
+
+<p>刚念到成绩时，我的大脑一片空白。顿时，我的脑袋就像被炸了一样，眼泪如泉水涌了出来，80分的考卷如一座山压着我，令我无法呼吸。<br>回到家里，我头也不抬地写完了作业，泪水出现在每个角落。我绝望了，这是我人生中第一次遇到挫折。我用已经僵硬的手打开电脑，想要下盘棋转移注意力。我一开始只是漫无目的地挪动棋子，两眼失神，腿一直颤抖着，苍白的脸上没有一丝光泽，心中依然是无尽的悲伤。过了一会儿，我仿佛被赋予了生命，脑袋开始运转了起来，身体也能动了，浑身都有了力气，心里不再那么难受了。到了后来，我已经完全进入状态，将全身心投入到棋中，一点点悲伤也没有了。这小小的棋盘和棋子，仿佛有魔力一样，将我的灵魂带到了棋的世界里，快乐地漫游在其中。<br>在下棋的过程中，我受益良多：在这场游戏中，暂时的失利不代表永恒的失败，在比赛的任何时刻，你都有可能因为一步棋而失利，但是你也有机会再次夺回先机。考试也是如此，一次考试说明不了什么，人生的路很长，会遇到无数次考试，只要总体是好的，就是胜利了！<br>下完棋以后，我悲伤全无，还有一股隐形的力量鼓励我前行。短短的一盘棋使我得到了许多，这时的我已经不是一刻钟之前的我了。<br>棋，能令人投入进去，还能缓解情绪，更能告诉我们使人一生受用的道理！<br>我想，下棋，让生活更美好！</p>
+]]></content>
+      <categories>
+        <category>创作（正经）</category>
+      </categories>
+      <tags>
+        <tag>爱好</tag>
       </tags>
   </entry>
   <entry>
@@ -117,25 +117,6 @@
 ]]></content>
   </entry>
   <entry>
-    <title>发现</title>
-    <url>/2021/02/02/%E5%8F%91%E7%8E%B0/</url>
-    <content><![CDATA[<p>这世界上有许许多多值得探索的东西，而在生活中，我们也要有一双善于观察的慧眼，去发现世间万物中蕴含的学问。</p>
-<a id="more"></a>
-
-<p>有一次，我在公园散步时，看着路旁的植物，突然对它们产生了兴趣。我一一询问了爸爸，发现这些植物中有南方的也有北方的。我十分奇怪，不知道为什么我们蚌埠有这么多种类不同、生长地区也不同的植物。于是我请教了科学老师。老师笑了笑，对我说：“你先回家猜一猜，明天将你的猜想告诉我，好吗？”“好！”</p>
-<p>那天晚上，我苦苦想了很久，终于想出了些眉目：这是不是因为我们蚌埠处于中国的南北分界线处，什么植物都可以生长？我将这个猜想告诉老师，老师对我说：“不错，你说得完全正确！”我欣喜若狂，因为这是我第一次感受到发现的快乐，而且还知道了一个探究的方法——猜测。</p>
-<p>过了几天，我又发现，墙角有几只无名的小菇顽强地生长着。我被它勾起了好奇心，于是拍了几张照片开始探究。我猜测了种种可能，但是似乎都不成立。我十分绝望，一时不知该怎么办。就在我准备打道回府时，爸爸告诉我：“现在网络这么发达，你可以查资料啊！”我当时如梦初醒，于是抓起手机疯狂的查资料，终于得到了答案。原来那天下了一场大雨，墙角处积了许多水，环境比较潮湿，所以就长出了蘑菇。那时，我又一次感受到发现的快乐，并且又了解了一个探究方法——查资料。</p>
-<p>“啊！”妈妈突然尖叫了一声。原来米里面生了虫子，我仔细地看着那虫子，不知道它是怎么长出来的，于是就又开始探究了。一开始，我从它的外形上开始猜测，没有什么发现，后来，我又结合环境，终于找出了答案。又搜集资料，发现我是对的。我觉得，我好像迈入了自然科学的大门，也初步学会探究了。</p>
-<p>“处处留心皆学问。”我相信，我一定能在今后的探究中，得到更多的知识，更加透彻地发现并理解这个世界。</p>
-]]></content>
-      <categories>
-        <category>创作（正经）</category>
-      </categories>
-      <tags>
-        <tag>发现</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>地球自述</title>
     <url>/2021/02/02/%E5%9C%B0%E7%90%83%E8%87%AA%E8%BF%B0/</url>
     <content><![CDATA[<p>在一个夜深人静的夜晚，我翻来覆去睡不着，心中就产生了一些想象：如果我是地球，会怎么样呢？想着想着，我就感觉眼皮开始打架……</p>
@@ -152,6 +133,25 @@
       </categories>
       <tags>
         <tag>地球</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>发现</title>
+    <url>/2021/02/02/%E5%8F%91%E7%8E%B0/</url>
+    <content><![CDATA[<p>这世界上有许许多多值得探索的东西，而在生活中，我们也要有一双善于观察的慧眼，去发现世间万物中蕴含的学问。</p>
+<a id="more"></a>
+
+<p>有一次，我在公园散步时，看着路旁的植物，突然对它们产生了兴趣。我一一询问了爸爸，发现这些植物中有南方的也有北方的。我十分奇怪，不知道为什么我们蚌埠有这么多种类不同、生长地区也不同的植物。于是我请教了科学老师。老师笑了笑，对我说：“你先回家猜一猜，明天将你的猜想告诉我，好吗？”“好！”</p>
+<p>那天晚上，我苦苦想了很久，终于想出了些眉目：这是不是因为我们蚌埠处于中国的南北分界线处，什么植物都可以生长？我将这个猜想告诉老师，老师对我说：“不错，你说得完全正确！”我欣喜若狂，因为这是我第一次感受到发现的快乐，而且还知道了一个探究的方法——猜测。</p>
+<p>过了几天，我又发现，墙角有几只无名的小菇顽强地生长着。我被它勾起了好奇心，于是拍了几张照片开始探究。我猜测了种种可能，但是似乎都不成立。我十分绝望，一时不知该怎么办。就在我准备打道回府时，爸爸告诉我：“现在网络这么发达，你可以查资料啊！”我当时如梦初醒，于是抓起手机疯狂的查资料，终于得到了答案。原来那天下了一场大雨，墙角处积了许多水，环境比较潮湿，所以就长出了蘑菇。那时，我又一次感受到发现的快乐，并且又了解了一个探究方法——查资料。</p>
+<p>“啊！”妈妈突然尖叫了一声。原来米里面生了虫子，我仔细地看着那虫子，不知道它是怎么长出来的，于是就又开始探究了。一开始，我从它的外形上开始猜测，没有什么发现，后来，我又结合环境，终于找出了答案。又搜集资料，发现我是对的。我觉得，我好像迈入了自然科学的大门，也初步学会探究了。</p>
+<p>“处处留心皆学问。”我相信，我一定能在今后的探究中，得到更多的知识，更加透彻地发现并理解这个世界。</p>
+]]></content>
+      <categories>
+        <category>创作（正经）</category>
+      </categories>
+      <tags>
+        <tag>发现</tag>
       </tags>
   </entry>
   <entry>
@@ -236,28 +236,6 @@
       </tags>
   </entry>
   <entry>
-    <title>我好想成长</title>
-    <url>/2021/02/04/%E6%88%91%E5%A5%BD%E6%83%B3%E6%88%90%E9%95%BF/</url>
-    <content><![CDATA[<p>成长是一件很不容易的事情，它不单单只是岁数的增长，还有身高、体重、心理、智慧……很多方面都能见证你是否成长了。而成长在我们的认知看来，成长也是神圣的、美好的。“我好想成长！”是我们每个小孩子的心声。而我们怎样才能成长起来呢？</p>
-<a id="more"></a>
-
-<p>小王天天在家里无事可做，我除了看见他在打游戏就从没看见过他做其他事情。小王妈妈尽力开导他：“你就不能做一些别的事情吗？”他总是说：“等一会儿！等一会儿！我打完这局游戏再说！”但是他打完这局游戏就又开始匹配新的一局。我认为，他是失去了方向，不知道该做些什么。</p>
-<p>对，成长在于明确的方向。如果像小王一样没有方向的话，那是不会成长的。</p>
-<p>观察一棵蒜苗的长大，在第一天的时候，它几乎只长1~2毫米的高度，虽然它每天只长那么一点儿，但是，它每天都在长，而且长得与第一天的高度几乎一样，如果按照这个比例计算的话，如果是一个月，它就可以长3厘米；一个季度就可以长9厘米，那么如果是一年呢？</p>
-<p>人的成长不也是一个道理吗？假如你一天做一道练习题，如果你能坚持一个月的话，那就是30道，而如果你能坚持一年，就是一个相当庞大的数字了——365道！</p>
-<p>对，成长也在于坚持。如果找到方向后不去实施并坚持下来，那也是成长不了的。</p>
-<p>但是，我的朋友找到了方向，每天做1篇阅读，5道奥数练习题，而他这样坚持了一年，却一点效果都没有，在测验中屡次失利，反倒让他失去了信心。这是为什么呢？问题就在于他在做题的时候，从来都不管他做得对不对，做完就敷衍了事，而且用了很长的时间。</p>
-<p>对，成长还在于效率。坚持只是成长的一方面，如果你找到方向并且坚持了，但从来不追求效率，那是也永远不可能进步的，更别提成长了。</p>
-<p>因此，成长在于方向、坚持和效率。做到了这三点，那么恭喜你，你成长了！</p>
-]]></content>
-      <categories>
-        <category>创作（正经）</category>
-      </categories>
-      <tags>
-        <tag>成长</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>春</title>
     <url>/2021/02/02/%E6%98%A5/</url>
     <content><![CDATA[<p>那是一个冬日的黄昏。街上车来人往，汽车的轰鸣声和人们的脚步声夹杂在一起，不十分动听。冰冷刺骨的寒风呼啸着，如一把刀子削着人们的脸庞，让大家都显得清瘦了。</p>
@@ -295,6 +273,43 @@
       </tags>
   </entry>
   <entry>
+    <title>最难忘的回忆</title>
+    <url>/2021/02/04/%E6%9C%80%E9%9A%BE%E5%BF%98%E7%9A%84%E5%9B%9E%E5%BF%86/</url>
+    <content><![CDATA[<p>他是《六经》的编著者，他是儒家思想的代表人，他是中国历史上第一位开设私塾的老师，他还提出了“因材施教”的教育方针……</p>
+<a id="more"></a>
+
+<p>他就是——孔子。一位真正的、活得十分精彩的圣人。<br>今天，我来到了孔子的故里——山东曲阜。曲阜是一个十分古老的地方，在春秋时期就以国的形式存在，它就是礼仪之邦——鲁国。孔子的故里共分为三个部分：孔庙、孔府和孔林。由于时间原因，我们只参观了孔庙和孔府。<br>刚到孔庙，那雄壮的四个大字立刻吸引了我的注意力——万仞宫墙。我的心中浮现出了无数个问号：这个词是什么意思？在这里又表示什么？而它与孔庙又有什么关系？……就在这时，旁边的导游开口了：“这个词的意思是一堵宫墙有数万个人堆砌起来那样高，在这里比喻孔子的学问十分渊博。在这个词中还有一个小故事：有人说子贡（孔子的徒弟）的学问已经比孔子高了，而子贡却反对：‘我的学问只到了一个人的肩膀，而老师的学问有许多人堆砌起来那么高。’”听完导游的讲解，我恍然大悟，原来这短短四个字的含义这么深啊！我同时也感受到了孔子知识的渊博，不愧是孔圣人！<br>我也在后面体会到孔子及孔家的地位都十分的高。在明、清朝的时候，孔家的地位已经到了顶峰，每位皇帝都会赞扬孔子的高尚品德，还为孔家修建了许多建筑。到现在为止，孔家的后花园比北京故宫的后花园都大五十亩！虽说如此，但孔夫子在世的时候都十分清贫。因此，我再一次感受到了孔子的伟大。<br>这是一段最难忘的回忆。我永远不会忘记：2020年1月，我曾与孔夫子相聚。</p>
+]]></content>
+      <categories>
+        <category>游记</category>
+      </categories>
+      <tags>
+        <tag>圣人</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>我好想成长</title>
+    <url>/2021/02/04/%E6%88%91%E5%A5%BD%E6%83%B3%E6%88%90%E9%95%BF/</url>
+    <content><![CDATA[<p>成长是一件很不容易的事情，它不单单只是岁数的增长，还有身高、体重、心理、智慧……很多方面都能见证你是否成长了。而成长在我们的认知看来，成长也是神圣的、美好的。“我好想成长！”是我们每个小孩子的心声。而我们怎样才能成长起来呢？</p>
+<a id="more"></a>
+
+<p>小王天天在家里无事可做，我除了看见他在打游戏就从没看见过他做其他事情。小王妈妈尽力开导他：“你就不能做一些别的事情吗？”他总是说：“等一会儿！等一会儿！我打完这局游戏再说！”但是他打完这局游戏就又开始匹配新的一局。我认为，他是失去了方向，不知道该做些什么。</p>
+<p>对，成长在于明确的方向。如果像小王一样没有方向的话，那是不会成长的。</p>
+<p>观察一棵蒜苗的长大，在第一天的时候，它几乎只长1~2毫米的高度，虽然它每天只长那么一点儿，但是，它每天都在长，而且长得与第一天的高度几乎一样，如果按照这个比例计算的话，如果是一个月，它就可以长3厘米；一个季度就可以长9厘米，那么如果是一年呢？</p>
+<p>人的成长不也是一个道理吗？假如你一天做一道练习题，如果你能坚持一个月的话，那就是30道，而如果你能坚持一年，就是一个相当庞大的数字了——365道！</p>
+<p>对，成长也在于坚持。如果找到方向后不去实施并坚持下来，那也是成长不了的。</p>
+<p>但是，我的朋友找到了方向，每天做1篇阅读，5道奥数练习题，而他这样坚持了一年，却一点效果都没有，在测验中屡次失利，反倒让他失去了信心。这是为什么呢？问题就在于他在做题的时候，从来都不管他做得对不对，做完就敷衍了事，而且用了很长的时间。</p>
+<p>对，成长还在于效率。坚持只是成长的一方面，如果你找到方向并且坚持了，但从来不追求效率，那是也永远不可能进步的，更别提成长了。</p>
+<p>因此，成长在于方向、坚持和效率。做到了这三点，那么恭喜你，你成长了！</p>
+]]></content>
+      <categories>
+        <category>创作（正经）</category>
+      </categories>
+      <tags>
+        <tag>成长</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>有你，真好</title>
     <url>/2021/02/04/%E6%9C%89%E4%BD%A0%EF%BC%8C%E7%9C%9F%E5%A5%BD/</url>
     <content><![CDATA[<p>那是一次不同寻常的邂逅。那天，天气如此明朗，空气也格外清新。从那以后，我的心中就充满了阳光，就像那天的阳光一样灿烂，那样美好。</p>
@@ -311,38 +326,6 @@
       </categories>
       <tags>
         <tag>友爱</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>最难忘的回忆</title>
-    <url>/2021/02/04/%E6%9C%80%E9%9A%BE%E5%BF%98%E7%9A%84%E5%9B%9E%E5%BF%86/</url>
-    <content><![CDATA[<p>他是《六经》的编著者，他是儒家思想的代表人，他是中国历史上第一位开设私塾的老师，他还提出了“因材施教”的教育方针……</p>
-<a id="more"></a>
-
-<p>他就是——孔子。一位真正的、活得十分精彩的圣人。<br>今天，我来到了孔子的故里——山东曲阜。曲阜是一个十分古老的地方，在春秋时期就以国的形式存在，它就是礼仪之邦——鲁国。孔子的故里共分为三个部分：孔庙、孔府和孔林。由于时间原因，我们只参观了孔庙和孔府。<br>刚到孔庙，那雄壮的四个大字立刻吸引了我的注意力——万仞宫墙。我的心中浮现出了无数个问号：这个词是什么意思？在这里又表示什么？而它与孔庙又有什么关系？……就在这时，旁边的导游开口了：“这个词的意思是一堵宫墙有数万个人堆砌起来那样高，在这里比喻孔子的学问十分渊博。在这个词中还有一个小故事：有人说子贡（孔子的徒弟）的学问已经比孔子高了，而子贡却反对：‘我的学问只到了一个人的肩膀，而老师的学问有许多人堆砌起来那么高。’”听完导游的讲解，我恍然大悟，原来这短短四个字的含义这么深啊！我同时也感受到了孔子知识的渊博，不愧是孔圣人！<br>我也在后面体会到孔子及孔家的地位都十分的高。在明、清朝的时候，孔家的地位已经到了顶峰，每位皇帝都会赞扬孔子的高尚品德，还为孔家修建了许多建筑。到现在为止，孔家的后花园比北京故宫的后花园都大五十亩！虽说如此，但孔夫子在世的时候都十分清贫。因此，我再一次感受到了孔子的伟大。<br>这是一段最难忘的回忆。我永远不会忘记：2020年1月，我曾与孔夫子相聚。</p>
-]]></content>
-      <categories>
-        <category>游记</category>
-      </categories>
-      <tags>
-        <tag>圣人</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>有意思的游戏</title>
-    <url>/2021/02/04/%E6%9C%89%E6%84%8F%E6%80%9D%E7%9A%84%E6%B8%B8%E6%88%8F/</url>
-    <content><![CDATA[<p>这次，老师组织了一次有意思的游戏——夹乒乓球。游戏分两组进行，6人一组，给每个人发一双筷子。老师先把乒乓球给第一个人，第一个人夹起球后给第二个人，这样依次传下去，最先传完的一组获胜。规则宣布完毕后，参赛选手们个个摩拳擦掌，跃跃欲试，已经等不及了。</p>
-<a id="more"></a>
-
-<p>“预备……开始！”随着老师的一声令下，两组的组员们都紧张了起来，专心致志地等待着前面的球。只见第一组前面都进行得很顺利，传到小周同学时，球“啪”的一声掉到了地上。组员们都慌了，于是急忙去捡球，生怕第二组超越了他们的进度。尤其是小周同学，他眉头紧皱绷着脸，额头上现出几颗亮晶晶的汗珠，捡球时恨不得趴到地上。他捡起了球，想把它夹住，可是世事难料，他夹了好几次都没夹起来。“加油！你可以的！”旁边传来组员的鼓励声，小周忽然振作了起来，仿佛在说：我一定可以！这一次，他很快就夹起了乒乓球。接着，第一组的同学继续往后传，而此时，第二组只完成了第一组的一半。第一组传到最后一位同学了，前面的同学小心翼翼地夹着，后面的同学小心翼翼地接着，两位同学的手都有些颤抖，生怕球掉地上。同学们都探着头静静等着第一组取得胜利，空气仿佛凝固了，没有人大声说话，也没有人窃窃私语，旁边写作业的同学也停下了笔。“不要犹豫！夹吧！夹住了就胜利了！”小周不禁大喊道。听到这声音，后面的同学也不再犹豫，干脆地夹了过去……</p>
-<p>“胜利了！胜利了！”就在那时，最后一位同学成功接住了球，不禁大声欢呼。全场顿时沸腾了，第一组终于胜利了。</p>
-<p>第一组的胜利，完全来自他们的努力，是他们的认真铸就了他们的辉煌，是他们的团结使其绽放出胜利的火花！</p>
-]]></content>
-      <categories>
-        <category>创作（正经）</category>
-      </categories>
-      <tags>
-        <tag>比赛</tag>
       </tags>
   </entry>
   <entry>
@@ -364,6 +347,23 @@
       </categories>
       <tags>
         <tag>泪</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>有意思的游戏</title>
+    <url>/2021/02/04/%E6%9C%89%E6%84%8F%E6%80%9D%E7%9A%84%E6%B8%B8%E6%88%8F/</url>
+    <content><![CDATA[<p>这次，老师组织了一次有意思的游戏——夹乒乓球。游戏分两组进行，6人一组，给每个人发一双筷子。老师先把乒乓球给第一个人，第一个人夹起球后给第二个人，这样依次传下去，最先传完的一组获胜。规则宣布完毕后，参赛选手们个个摩拳擦掌，跃跃欲试，已经等不及了。</p>
+<a id="more"></a>
+
+<p>“预备……开始！”随着老师的一声令下，两组的组员们都紧张了起来，专心致志地等待着前面的球。只见第一组前面都进行得很顺利，传到小周同学时，球“啪”的一声掉到了地上。组员们都慌了，于是急忙去捡球，生怕第二组超越了他们的进度。尤其是小周同学，他眉头紧皱绷着脸，额头上现出几颗亮晶晶的汗珠，捡球时恨不得趴到地上。他捡起了球，想把它夹住，可是世事难料，他夹了好几次都没夹起来。“加油！你可以的！”旁边传来组员的鼓励声，小周忽然振作了起来，仿佛在说：我一定可以！这一次，他很快就夹起了乒乓球。接着，第一组的同学继续往后传，而此时，第二组只完成了第一组的一半。第一组传到最后一位同学了，前面的同学小心翼翼地夹着，后面的同学小心翼翼地接着，两位同学的手都有些颤抖，生怕球掉地上。同学们都探着头静静等着第一组取得胜利，空气仿佛凝固了，没有人大声说话，也没有人窃窃私语，旁边写作业的同学也停下了笔。“不要犹豫！夹吧！夹住了就胜利了！”小周不禁大喊道。听到这声音，后面的同学也不再犹豫，干脆地夹了过去……</p>
+<p>“胜利了！胜利了！”就在那时，最后一位同学成功接住了球，不禁大声欢呼。全场顿时沸腾了，第一组终于胜利了。</p>
+<p>第一组的胜利，完全来自他们的努力，是他们的认真铸就了他们的辉煌，是他们的团结使其绽放出胜利的火花！</p>
+]]></content>
+      <categories>
+        <category>创作（正经）</category>
+      </categories>
+      <tags>
+        <tag>比赛</tag>
       </tags>
   </entry>
   <entry>
@@ -423,36 +423,6 @@
       </tags>
   </entry>
   <entry>
-    <title>说明</title>
-    <url>/2021/02/02/%E8%AF%B4%E6%98%8E/</url>
-    <content><![CDATA[<p>其实，这些都是我之前的作文。现在我将这些作文贴在博客上，大家有兴趣的话可以看看。</p>
-<p>（当然，请不要介意我作文水平太烂……）</p>
-]]></content>
-      <categories>
-        <category>创作（正经）</category>
-      </categories>
-      <tags>
-        <tag>说明</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>西江月·夜里写作业</title>
-    <url>/2021/02/01/%E8%A5%BF%E6%B1%9F%E6%9C%88%C2%B7%E5%A4%9C%E9%87%8C%E5%86%99%E4%BD%9C%E4%B8%9A/</url>
-    <content><![CDATA[<p>明月别枝惊鹊，作业写到半夜。</p>
-<a id="more"></a>
-
-<p>稻花香里说丰年，一篇作文写两年。</p>
-<p>七八篇作文像座塔，两三本练习写到傻。</p>
-<p>旧时茅厕马桶边，作文练习堆上天！</p>
-]]></content>
-      <categories>
-        <category>创作（瞎搞）</category>
-      </categories>
-      <tags>
-        <tag>作业</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>长恨歌·作文难</title>
     <url>/2021/02/01/%E9%95%BF%E6%81%A8%E6%AD%8C%C2%B7%E4%BD%9C%E6%96%87%E9%9A%BE/</url>
     <content><![CDATA[<p>（词前小序）作文乃奇难之物，因难之又难，遂赋词一首：</p>
@@ -492,6 +462,23 @@
       </tags>
   </entry>
   <entry>
+    <title>西江月·夜里写作业</title>
+    <url>/2021/02/01/%E8%A5%BF%E6%B1%9F%E6%9C%88%C2%B7%E5%A4%9C%E9%87%8C%E5%86%99%E4%BD%9C%E4%B8%9A/</url>
+    <content><![CDATA[<p>明月别枝惊鹊，作业写到半夜。</p>
+<a id="more"></a>
+
+<p>稻花香里说丰年，一篇作文写两年。</p>
+<p>七八篇作文像座塔，两三本练习写到傻。</p>
+<p>旧时茅厕马桶边，作文练习堆上天！</p>
+]]></content>
+      <categories>
+        <category>创作（瞎搞）</category>
+      </categories>
+      <tags>
+        <tag>作业</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>闲不住的奶奶</title>
     <url>/2021/02/04/%E9%97%B2%E4%B8%8D%E4%BD%8F%E7%9A%84%E5%A5%B6%E5%A5%B6/</url>
     <content><![CDATA[<p>我的奶奶十分勤快，每天都闲不住，一年三百六十五天，没有一小时是闲着的。</p>
@@ -504,6 +491,19 @@
       </categories>
       <tags>
         <tag>亲人</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>说明</title>
+    <url>/2021/02/02/%E8%AF%B4%E6%98%8E/</url>
+    <content><![CDATA[<p>其实，这些都是我之前的作文。现在我将这些作文贴在博客上，大家有兴趣的话可以看看。</p>
+<p>（当然，请不要介意我作文水平太烂……）</p>
+]]></content>
+      <categories>
+        <category>创作（正经）</category>
+      </categories>
+      <tags>
+        <tag>说明</tag>
       </tags>
   </entry>
   <entry>
