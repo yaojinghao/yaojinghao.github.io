@@ -1,6 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>P1000 超级玛丽游戏</title>
+    <url>/2021/02/01/P1000%E8%B6%85%E7%BA%A7%E7%8E%9B%E4%B8%BD%E6%B8%B8%E6%88%8F/</url>
+    <content><![CDATA[<h1 id="略。"><a href="#略。" class="headerlink" title="略。"></a>略。</h1><a id="more"></a>
+
+<p>开个玩笑，主要是这题实在太闷骚了，就是打字练习，没什么技术含量。但是经过我的百般思考之后……</p>
+<h3 id="我还是写了！"><a href="#我还是写了！" class="headerlink" title="我还是写了！"></a>我还是写了！</h3><p>请看下面这段不值得一看的代码。</p>
+<figure class="highlight cpp"><table><tr><td class="code"><pre><span class="line"><span class="meta">#<span class="meta-keyword">include</span> <span class="meta-string">&lt;iostream&gt;</span></span></span><br><span class="line"><span class="keyword">using</span> <span class="keyword">namespace</span> <span class="built_in">std</span>;</span><br><span class="line"><span class="function"><span class="keyword">int</span> <span class="title">main</span><span class="params">()</span></span></span><br><span class="line"><span class="function"></span>&#123;</span><br><span class="line">	<span class="built_in">cout</span>&lt;&lt;<span class="string">&quot;                ********&quot;</span>&lt;&lt;<span class="built_in">endl</span>;</span><br><span class="line">	<span class="built_in">cout</span>&lt;&lt;<span class="string">&quot;               ************&quot;</span>&lt;&lt;<span class="built_in">endl</span>;</span><br><span class="line">	<span class="built_in">cout</span>&lt;&lt;<span class="string">&quot;               ####....#.&quot;</span>&lt;&lt;<span class="built_in">endl</span>;</span><br><span class="line">	<span class="built_in">cout</span>&lt;&lt;<span class="string">&quot;             #..###.....##....&quot;</span>&lt;&lt;<span class="built_in">endl</span>;</span><br><span class="line">	<span class="built_in">cout</span>&lt;&lt;<span class="string">&quot;             ###.......######              ###            ###&quot;</span>&lt;&lt;<span class="built_in">endl</span>;</span><br><span class="line">	<span class="built_in">cout</span>&lt;&lt;<span class="string">&quot;                ...........               #...#          #...#&quot;</span>&lt;&lt;<span class="built_in">endl</span>;</span><br><span class="line">	<span class="built_in">cout</span>&lt;&lt;<span class="string">&quot;               ##*#######                 #.#.#          #.#.#&quot;</span>&lt;&lt;<span class="built_in">endl</span>;</span><br><span class="line">	<span class="built_in">cout</span>&lt;&lt;<span class="string">&quot;            ####*******######             #.#.#          #.#.#&quot;</span>&lt;&lt;<span class="built_in">endl</span>;</span><br><span class="line">	<span class="built_in">cout</span>&lt;&lt;<span class="string">&quot;           ...#***.****.*###....          #...#          #...#&quot;</span>&lt;&lt;<span class="built_in">endl</span>;</span><br><span class="line">	<span class="built_in">cout</span>&lt;&lt;<span class="string">&quot;           ....**********##.....           ###            ###&quot;</span>&lt;&lt;<span class="built_in">endl</span>;</span><br><span class="line">	<span class="built_in">cout</span>&lt;&lt;<span class="string">&quot;           ....****    *****....&quot;</span>&lt;&lt;<span class="built_in">endl</span>;</span><br><span class="line">	<span class="built_in">cout</span>&lt;&lt;<span class="string">&quot;             ####        ####&quot;</span>&lt;&lt;<span class="built_in">endl</span>;</span><br><span class="line">	<span class="built_in">cout</span>&lt;&lt;<span class="string">&quot;           ######        ######&quot;</span>&lt;&lt;<span class="built_in">endl</span>;</span><br><span class="line">	<span class="built_in">cout</span>&lt;&lt;<span class="string">&quot;##############################################################&quot;</span>&lt;&lt;<span class="built_in">endl</span>;</span><br><span class="line">	<span class="built_in">cout</span>&lt;&lt;<span class="string">&quot;#...#......#.##...#......#.##...#......#.##------------------#&quot;</span>&lt;&lt;<span class="built_in">endl</span>;</span><br><span class="line">	<span class="built_in">cout</span>&lt;&lt;<span class="string">&quot;###########################################------------------#&quot;</span>&lt;&lt;<span class="built_in">endl</span>;</span><br><span class="line">	<span class="built_in">cout</span>&lt;&lt;<span class="string">&quot;#..#....#....##..#....#....##..#....#....#####################&quot;</span>&lt;&lt;<span class="built_in">endl</span>;</span><br><span class="line">	<span class="built_in">cout</span>&lt;&lt;<span class="string">&quot;##########################################    #----------#&quot;</span>&lt;&lt;<span class="built_in">endl</span>;</span><br><span class="line">	<span class="built_in">cout</span>&lt;&lt;<span class="string">&quot;#.....#......##.....#......##.....#......#    #----------#&quot;</span>&lt;&lt;<span class="built_in">endl</span>;</span><br><span class="line">	<span class="built_in">cout</span>&lt;&lt;<span class="string">&quot;##########################################    #----------#&quot;</span>&lt;&lt;<span class="built_in">endl</span>;</span><br><span class="line">	<span class="built_in">cout</span>&lt;&lt;<span class="string">&quot;#.#..#....#..##.#..#....#..##.#..#....#..#    #----------#&quot;</span>&lt;&lt;<span class="built_in">endl</span>;</span><br><span class="line">	<span class="built_in">cout</span>&lt;&lt;<span class="string">&quot;##########################################    ############&quot;</span>;</span><br><span class="line">	<span class="keyword">return</span> <span class="number">0</span>;</span><br><span class="line">&#125;</span><br><span class="line"></span><br></pre></td></tr></table></figure>
+<p>这题我就不写注释了，写了也没人看……</p>
+]]></content>
+      <categories>
+        <category>题解</category>
+      </categories>
+      <tags>
+        <tag>C++</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>2019 CSP-J认证 复赛</title>
     <url>/2021/02/01/2019CSP-J%E8%AE%A4%E8%AF%81%E5%A4%8D%E8%B5%9B/</url>
     <content><![CDATA[<h4 id="个人信息"><a href="#个人信息" class="headerlink" title="个人信息"></a>个人信息</h4><p>姓名：姚景豪<br>年龄：10岁<br>年级：五年级<br><strong>我是旷课去CSP-J的。</strong></p>
@@ -27,44 +44,27 @@
       </tags>
   </entry>
   <entry>
-    <title>P1421 小玉买文具</title>
-    <url>/2021/02/01/P1421%E5%B0%8F%E7%8E%89%E4%B9%B0%E6%96%87%E5%85%B7/</url>
-    <content><![CDATA[<figure class="highlight cpp"><table><tr><td class="code"><pre><span class="line"><span class="meta">#<span class="meta-keyword">include</span> <span class="meta-string">&lt;iostream&gt;</span></span></span><br><span class="line"><span class="keyword">using</span> <span class="keyword">namespace</span> <span class="built_in">std</span>;</span><br><span class="line"><span class="function"><span class="keyword">int</span> <span class="title">main</span><span class="params">()</span></span></span><br><span class="line"><span class="function"></span>&#123;</span><br><span class="line">   <span class="keyword">int</span> a,b,c,d;</span><br><span class="line">   <span class="built_in">cin</span>&gt;&gt;a&gt;&gt;b;     <span class="comment">//输入</span></span><br><span class="line">   c=a*<span class="number">10</span>+b;      <span class="comment">//a以元为单位，b以角为单位，用c将它们统一单位成角，这样便于处理</span></span><br><span class="line">   d=c/<span class="number">19</span>;        <span class="comment">//用d存放能买到的签字笔的支数</span></span><br><span class="line">   <span class="built_in">cout</span>&lt;&lt;d;       <span class="comment">//输出</span></span><br><span class="line">   <span class="keyword">return</span> <span class="number">0</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
-<a id="more"></a>
-
-<p>这题十分简单，解释都在注释里写过了。唯一需要注意的一点是C++里的除法默认为整除，所以不用担心小数的问题。</p>
-]]></content>
-      <categories>
-        <category>题解</category>
-      </categories>
-      <tags>
-        <tag>C++</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>P1000 超级玛丽游戏</title>
-    <url>/2021/02/01/P1000%E8%B6%85%E7%BA%A7%E7%8E%9B%E4%B8%BD%E6%B8%B8%E6%88%8F/</url>
-    <content><![CDATA[<h1 id="略。"><a href="#略。" class="headerlink" title="略。"></a>略。</h1><a id="more"></a>
-
-<p>开个玩笑，主要是这题实在太闷骚了，就是打字练习，没什么技术含量。但是经过我的百般思考之后……</p>
-<h3 id="我还是写了！"><a href="#我还是写了！" class="headerlink" title="我还是写了！"></a>我还是写了！</h3><p>请看下面这段不值得一看的代码。</p>
-<figure class="highlight cpp"><table><tr><td class="code"><pre><span class="line"><span class="meta">#<span class="meta-keyword">include</span> <span class="meta-string">&lt;iostream&gt;</span></span></span><br><span class="line"><span class="keyword">using</span> <span class="keyword">namespace</span> <span class="built_in">std</span>;</span><br><span class="line"><span class="function"><span class="keyword">int</span> <span class="title">main</span><span class="params">()</span></span></span><br><span class="line"><span class="function"></span>&#123;</span><br><span class="line">	<span class="built_in">cout</span>&lt;&lt;<span class="string">&quot;                ********&quot;</span>&lt;&lt;<span class="built_in">endl</span>;</span><br><span class="line">	<span class="built_in">cout</span>&lt;&lt;<span class="string">&quot;               ************&quot;</span>&lt;&lt;<span class="built_in">endl</span>;</span><br><span class="line">	<span class="built_in">cout</span>&lt;&lt;<span class="string">&quot;               ####....#.&quot;</span>&lt;&lt;<span class="built_in">endl</span>;</span><br><span class="line">	<span class="built_in">cout</span>&lt;&lt;<span class="string">&quot;             #..###.....##....&quot;</span>&lt;&lt;<span class="built_in">endl</span>;</span><br><span class="line">	<span class="built_in">cout</span>&lt;&lt;<span class="string">&quot;             ###.......######              ###            ###&quot;</span>&lt;&lt;<span class="built_in">endl</span>;</span><br><span class="line">	<span class="built_in">cout</span>&lt;&lt;<span class="string">&quot;                ...........               #...#          #...#&quot;</span>&lt;&lt;<span class="built_in">endl</span>;</span><br><span class="line">	<span class="built_in">cout</span>&lt;&lt;<span class="string">&quot;               ##*#######                 #.#.#          #.#.#&quot;</span>&lt;&lt;<span class="built_in">endl</span>;</span><br><span class="line">	<span class="built_in">cout</span>&lt;&lt;<span class="string">&quot;            ####*******######             #.#.#          #.#.#&quot;</span>&lt;&lt;<span class="built_in">endl</span>;</span><br><span class="line">	<span class="built_in">cout</span>&lt;&lt;<span class="string">&quot;           ...#***.****.*###....          #...#          #...#&quot;</span>&lt;&lt;<span class="built_in">endl</span>;</span><br><span class="line">	<span class="built_in">cout</span>&lt;&lt;<span class="string">&quot;           ....**********##.....           ###            ###&quot;</span>&lt;&lt;<span class="built_in">endl</span>;</span><br><span class="line">	<span class="built_in">cout</span>&lt;&lt;<span class="string">&quot;           ....****    *****....&quot;</span>&lt;&lt;<span class="built_in">endl</span>;</span><br><span class="line">	<span class="built_in">cout</span>&lt;&lt;<span class="string">&quot;             ####        ####&quot;</span>&lt;&lt;<span class="built_in">endl</span>;</span><br><span class="line">	<span class="built_in">cout</span>&lt;&lt;<span class="string">&quot;           ######        ######&quot;</span>&lt;&lt;<span class="built_in">endl</span>;</span><br><span class="line">	<span class="built_in">cout</span>&lt;&lt;<span class="string">&quot;##############################################################&quot;</span>&lt;&lt;<span class="built_in">endl</span>;</span><br><span class="line">	<span class="built_in">cout</span>&lt;&lt;<span class="string">&quot;#...#......#.##...#......#.##...#......#.##------------------#&quot;</span>&lt;&lt;<span class="built_in">endl</span>;</span><br><span class="line">	<span class="built_in">cout</span>&lt;&lt;<span class="string">&quot;###########################################------------------#&quot;</span>&lt;&lt;<span class="built_in">endl</span>;</span><br><span class="line">	<span class="built_in">cout</span>&lt;&lt;<span class="string">&quot;#..#....#....##..#....#....##..#....#....#####################&quot;</span>&lt;&lt;<span class="built_in">endl</span>;</span><br><span class="line">	<span class="built_in">cout</span>&lt;&lt;<span class="string">&quot;##########################################    #----------#&quot;</span>&lt;&lt;<span class="built_in">endl</span>;</span><br><span class="line">	<span class="built_in">cout</span>&lt;&lt;<span class="string">&quot;#.....#......##.....#......##.....#......#    #----------#&quot;</span>&lt;&lt;<span class="built_in">endl</span>;</span><br><span class="line">	<span class="built_in">cout</span>&lt;&lt;<span class="string">&quot;##########################################    #----------#&quot;</span>&lt;&lt;<span class="built_in">endl</span>;</span><br><span class="line">	<span class="built_in">cout</span>&lt;&lt;<span class="string">&quot;#.#..#....#..##.#..#....#..##.#..#....#..#    #----------#&quot;</span>&lt;&lt;<span class="built_in">endl</span>;</span><br><span class="line">	<span class="built_in">cout</span>&lt;&lt;<span class="string">&quot;##########################################    ############&quot;</span>;</span><br><span class="line">	<span class="keyword">return</span> <span class="number">0</span>;</span><br><span class="line">&#125;</span><br><span class="line"></span><br></pre></td></tr></table></figure>
-<p>这题我就不写注释了，写了也没人看……</p>
-]]></content>
-      <categories>
-        <category>题解</category>
-      </categories>
-      <tags>
-        <tag>C++</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>P1001 A+B Problem</title>
     <url>/2021/02/01/P1001A+BProblem/</url>
     <content><![CDATA[<figure class="highlight cpp"><table><tr><td class="code"><pre><span class="line"><span class="meta">#<span class="meta-keyword">include</span> <span class="meta-string">&lt;iostream&gt; //头文件</span></span></span><br><span class="line"><span class="keyword">using</span> <span class="keyword">namespace</span> <span class="built_in">std</span>;<span class="comment">//命名空间</span></span><br><span class="line"><span class="function"><span class="keyword">int</span> <span class="title">main</span><span class="params">()</span>          <span class="comment">//主函数  </span></span></span><br><span class="line"><span class="function"></span>&#123;</span><br><span class="line">	<span class="keyword">int</span> a,b;        <span class="comment">//int定义a和b</span></span><br><span class="line">	<span class="built_in">cin</span>&gt;&gt;a&gt;&gt;b;      <span class="comment">//输入a和b</span></span><br><span class="line">	<span class="built_in">cout</span>&lt;&lt;a+b&lt;&lt;<span class="built_in">endl</span>;<span class="comment">//利用加号运算符将a和b加在一起并输出、换行</span></span><br><span class="line">	<span class="keyword">return</span> <span class="number">0</span>;       <span class="comment">//主函数返回0（表示程序正常运行结束）</span></span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
 <a id="more"></a>
 
 <p>最简单的a+b问题，你看懂了吗？</p>
+]]></content>
+      <categories>
+        <category>题解</category>
+      </categories>
+      <tags>
+        <tag>C++</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>P1421 小玉买文具</title>
+    <url>/2021/02/01/P1421%E5%B0%8F%E7%8E%89%E4%B9%B0%E6%96%87%E5%85%B7/</url>
+    <content><![CDATA[<figure class="highlight cpp"><table><tr><td class="code"><pre><span class="line"><span class="meta">#<span class="meta-keyword">include</span> <span class="meta-string">&lt;iostream&gt;</span></span></span><br><span class="line"><span class="keyword">using</span> <span class="keyword">namespace</span> <span class="built_in">std</span>;</span><br><span class="line"><span class="function"><span class="keyword">int</span> <span class="title">main</span><span class="params">()</span></span></span><br><span class="line"><span class="function"></span>&#123;</span><br><span class="line">   <span class="keyword">int</span> a,b,c,d;</span><br><span class="line">   <span class="built_in">cin</span>&gt;&gt;a&gt;&gt;b;     <span class="comment">//输入</span></span><br><span class="line">   c=a*<span class="number">10</span>+b;      <span class="comment">//a以元为单位，b以角为单位，用c将它们统一单位成角，这样便于处理</span></span><br><span class="line">   d=c/<span class="number">19</span>;        <span class="comment">//用d存放能买到的签字笔的支数</span></span><br><span class="line">   <span class="built_in">cout</span>&lt;&lt;d;       <span class="comment">//输出</span></span><br><span class="line">   <span class="keyword">return</span> <span class="number">0</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+<a id="more"></a>
+
+<p>这题十分简单，解释都在注释里写过了。唯一需要注意的一点是C++里的除法默认为整除，所以不用担心小数的问题。</p>
 ]]></content>
       <categories>
         <category>题解</category>
@@ -136,6 +136,50 @@
 ]]></content>
   </entry>
   <entry>
+    <title>成长</title>
+    <url>/2021/02/02/%E6%88%90%E9%95%BF/</url>
+    <content><![CDATA[<p>人生，就是为了成长，让自己更强大。我一直在努力地成长。</p>
+<p>一切都发生在一个重阳节——那天，我成长了许多。</p>
+<a id="more"></a>
+
+<p><strong>一份对老师的问候</strong></p>
+<p>那天早上，我来到了学校。在走廊中，我遇到了老师，看着她那副面孔——那是多么熟悉，我突然有些望而却步：我之前见人从来不打招呼的。“老师马上就要走过去了……我还能对她置之不理吗……不行，这样做不对，最好还是打一声招呼……对，不管结果怎样，就这么做！”于是走到她的面前，犹豫了一下，最终还是说出：“老师好！您今天好吗？”老师面带微笑，温和地对我说：“早上好，姚景豪！我很好，谢谢！”</p>
+<p>那时，我释然了。几年来，我终于说出了那句话，也体会到了问候别人的快乐。我想，我成长了，因为我学会了问候。</p>
+<p><strong>一份对同学的帮助</strong></p>
+<p>在第二节课的课间，语文课代表抱着一摞作业走向教室。显然，他十分卖力，但作业却不听使唤，一本一本地掉了下来，他只能将作业放在地上，捡起落在地上的作业。看着他这么困难，我有些于心不忍，于是，我走向那位同学，对他说：“我帮你抱一些吧！”说罢我将大半的作业抱了起来，送向教室。那时，他对我投向了感激的目光：“谢谢你！”</p>
+<p>我没有回头，但我却感到一股暖流涌上我的心头，这应该就是帮助他人的快乐吧。我想，我成长了，因为我学会了帮助。</p>
+<p><strong>一份对亲人的祝福</strong></p>
+<p>那天晚上，我们和爷爷奶奶等其他老人进行了家庭聚会。在聚会之前，爸爸妈妈告诉我和表姐要用几句话祝福老人们。聚会开始了。表姐十分大方地祝福了老人们：“祝大家福如东海，寿比南山！”大家都十分高兴，接连为她鼓掌。该我了，当时我不仅十分胆怯，还一时想不起来该说什么了。“我到底该怎么办呢？”我有些惊慌失措，“但是不祝福就是对老人们的不尊敬啊！”于是我也不顾结果怎样，干脆地站了起来，说道：“祝大家万事如意……阖家幸福！”随即，一阵阵排山倒海的掌声传到我的耳边，我简直不敢相信，我做到了！！</p>
+<p>这简短的祝福，我终于克服了它！原来祝福别人并没有这么难！我想，我成长了，因为我学会了祝福。</p>
+<p>短短的一天，我学会了问候、帮助和祝福。而成长可不止这一天，它如一条线贯穿我的一生，无时无刻陪伴在我身边。我坚信，只要我勇于克服困难，努力成长，定能披荆斩棘，走向美好的未来！</p>
+]]></content>
+      <categories>
+        <category>创作（正经）</category>
+      </categories>
+      <tags>
+        <tag>成长</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>地球自述</title>
+    <url>/2021/02/02/%E5%9C%B0%E7%90%83%E8%87%AA%E8%BF%B0/</url>
+    <content><![CDATA[<p>在一个夜深人静的夜晚，我翻来覆去睡不着，心中就产生了一些想象：如果我是地球，会怎么样呢？想着想着，我就感觉眼皮开始打架……</p>
+<a id="more"></a>
+
+<p>就在那时，我变成了地球。我突然发现我变成成了一个椭圆形的大球，并且我不能再自由活动，只能沿着一条轨道行走。身边是我的兄弟姐妹——水星、木星、火星等，还有我们的父亲——太阳——我们都围着他转动。在这众多星球中，我是最受宠的，因为我有适合生存的环境。仰望天空，是多么深邃，多么遥远，我不禁为我是其中的一员而骄傲。</p>
+<p>啊！怎么回事？我的颜色渐渐变成橙色了！我带着疑问来到了人间，看看到底发生了什么。只见人们到处乱扔垃圾，对垃圾桶不予理睬；各个工厂将污水大量排放进河里，导致一些鱼虾已经无法生存……现在，这些现象出现在每一个角落，遍布全球：长城的高大雄伟已经成为了过去，取而代之的是一大堆垃圾；原本供螃蟹们自由生活的沱湖变得越来越脏，螃蟹们再也生存不下去了，纷纷患病而亡。我不禁伤心地流下了眼泪，心里又气愤又害怕：他们这样做，有没有考虑过我的感受呢？再这样下去，我就快支撑不住了啊！</p>
+<p>我将这里发生的一切告诉了大家，想寻求他们的帮助。听着我的阐述，他们的脸色越来越难看，最后都听不下去了。“一定要做出一些行动才行！不能让他们再这样伤害你！”木星愤怒地低吼道。大家纷纷赞同木星的意见，我也觉得他说得对：不能由他们这样欺负我了，一定要给他们一点教训，这样他们才能醒悟，不再破坏环境。于是，我开始呼风唤雨，在这暴风雨中，家家户户都锁紧了门窗，不敢出来。看着自己的颜色不再变深，我松了口气，让太阳公公出来了。</p>
+<p>可是我惊奇的发现，就在我让天气转晴的那一刻，人类又不知悔改地破坏环境，我身上的橙色渐渐变成了红色，又变成了深红色……“嘀！地球将在十秒后爆炸！十，九，八，七，六，……”“完了，一切都完了。”我心中百感交集。</p>
+<p>“叮铃铃！”闹钟响了，原来这是一场梦啊！但我希望，这一切不要在不久的将来发生。人类，醒悟吧！地球能给我们的不多了！</p>
+]]></content>
+      <categories>
+        <category>创作（正经）</category>
+      </categories>
+      <tags>
+        <tag>地球</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>小区楼道管理倡议书</title>
     <url>/2021/02/04/%E5%B0%8F%E5%8C%BA%E6%A5%BC%E9%81%93%E7%AE%A1%E7%90%86%E5%80%A1%E8%AE%AE%E4%B9%A6/</url>
     <content><![CDATA[<p><strong>居民朋友们：</strong></p>
@@ -170,50 +214,6 @@
       </tags>
   </entry>
   <entry>
-    <title>地球自述</title>
-    <url>/2021/02/02/%E5%9C%B0%E7%90%83%E8%87%AA%E8%BF%B0/</url>
-    <content><![CDATA[<p>在一个夜深人静的夜晚，我翻来覆去睡不着，心中就产生了一些想象：如果我是地球，会怎么样呢？想着想着，我就感觉眼皮开始打架……</p>
-<a id="more"></a>
-
-<p>就在那时，我变成了地球。我突然发现我变成成了一个椭圆形的大球，并且我不能再自由活动，只能沿着一条轨道行走。身边是我的兄弟姐妹——水星、木星、火星等，还有我们的父亲——太阳——我们都围着他转动。在这众多星球中，我是最受宠的，因为我有适合生存的环境。仰望天空，是多么深邃，多么遥远，我不禁为我是其中的一员而骄傲。</p>
-<p>啊！怎么回事？我的颜色渐渐变成橙色了！我带着疑问来到了人间，看看到底发生了什么。只见人们到处乱扔垃圾，对垃圾桶不予理睬；各个工厂将污水大量排放进河里，导致一些鱼虾已经无法生存……现在，这些现象出现在每一个角落，遍布全球：长城的高大雄伟已经成为了过去，取而代之的是一大堆垃圾；原本供螃蟹们自由生活的沱湖变得越来越脏，螃蟹们再也生存不下去了，纷纷患病而亡。我不禁伤心地流下了眼泪，心里又气愤又害怕：他们这样做，有没有考虑过我的感受呢？再这样下去，我就快支撑不住了啊！</p>
-<p>我将这里发生的一切告诉了大家，想寻求他们的帮助。听着我的阐述，他们的脸色越来越难看，最后都听不下去了。“一定要做出一些行动才行！不能让他们再这样伤害你！”木星愤怒地低吼道。大家纷纷赞同木星的意见，我也觉得他说得对：不能由他们这样欺负我了，一定要给他们一点教训，这样他们才能醒悟，不再破坏环境。于是，我开始呼风唤雨，在这暴风雨中，家家户户都锁紧了门窗，不敢出来。看着自己的颜色不再变深，我松了口气，让太阳公公出来了。</p>
-<p>可是我惊奇的发现，就在我让天气转晴的那一刻，人类又不知悔改地破坏环境，我身上的橙色渐渐变成了红色，又变成了深红色……“嘀！地球将在十秒后爆炸！十，九，八，七，六，……”“完了，一切都完了。”我心中百感交集。</p>
-<p>“叮铃铃！”闹钟响了，原来这是一场梦啊！但我希望，这一切不要在不久的将来发生。人类，醒悟吧！地球能给我们的不多了！</p>
-]]></content>
-      <categories>
-        <category>创作（正经）</category>
-      </categories>
-      <tags>
-        <tag>地球</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>成长</title>
-    <url>/2021/02/02/%E6%88%90%E9%95%BF/</url>
-    <content><![CDATA[<p>人生，就是为了成长，让自己更强大。我一直在努力地成长。</p>
-<p>一切都发生在一个重阳节——那天，我成长了许多。</p>
-<a id="more"></a>
-
-<p><strong>一份对老师的问候</strong></p>
-<p>那天早上，我来到了学校。在走廊中，我遇到了老师，看着她那副面孔——那是多么熟悉，我突然有些望而却步：我之前见人从来不打招呼的。“老师马上就要走过去了……我还能对她置之不理吗……不行，这样做不对，最好还是打一声招呼……对，不管结果怎样，就这么做！”于是走到她的面前，犹豫了一下，最终还是说出：“老师好！您今天好吗？”老师面带微笑，温和地对我说：“早上好，姚景豪！我很好，谢谢！”</p>
-<p>那时，我释然了。几年来，我终于说出了那句话，也体会到了问候别人的快乐。我想，我成长了，因为我学会了问候。</p>
-<p><strong>一份对同学的帮助</strong></p>
-<p>在第二节课的课间，语文课代表抱着一摞作业走向教室。显然，他十分卖力，但作业却不听使唤，一本一本地掉了下来，他只能将作业放在地上，捡起落在地上的作业。看着他这么困难，我有些于心不忍，于是，我走向那位同学，对他说：“我帮你抱一些吧！”说罢我将大半的作业抱了起来，送向教室。那时，他对我投向了感激的目光：“谢谢你！”</p>
-<p>我没有回头，但我却感到一股暖流涌上我的心头，这应该就是帮助他人的快乐吧。我想，我成长了，因为我学会了帮助。</p>
-<p><strong>一份对亲人的祝福</strong></p>
-<p>那天晚上，我们和爷爷奶奶等其他老人进行了家庭聚会。在聚会之前，爸爸妈妈告诉我和表姐要用几句话祝福老人们。聚会开始了。表姐十分大方地祝福了老人们：“祝大家福如东海，寿比南山！”大家都十分高兴，接连为她鼓掌。该我了，当时我不仅十分胆怯，还一时想不起来该说什么了。“我到底该怎么办呢？”我有些惊慌失措，“但是不祝福就是对老人们的不尊敬啊！”于是我也不顾结果怎样，干脆地站了起来，说道：“祝大家万事如意……阖家幸福！”随即，一阵阵排山倒海的掌声传到我的耳边，我简直不敢相信，我做到了！！</p>
-<p>这简短的祝福，我终于克服了它！原来祝福别人并没有这么难！我想，我成长了，因为我学会了祝福。</p>
-<p>短短的一天，我学会了问候、帮助和祝福。而成长可不止这一天，它如一条线贯穿我的一生，无时无刻陪伴在我身边。我坚信，只要我勇于克服困难，努力成长，定能披荆斩棘，走向美好的未来！</p>
-]]></content>
-      <categories>
-        <category>创作（正经）</category>
-      </categories>
-      <tags>
-        <tag>成长</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>成长路上，有你真好</title>
     <url>/2021/02/02/%E6%88%90%E9%95%BF%E8%B7%AF%E4%B8%8A%EF%BC%8C%E6%9C%89%E4%BD%A0%E7%9C%9F%E5%A5%BD/</url>
     <content><![CDATA[<p>事情发生在那天上午。</p>
@@ -227,6 +227,28 @@
 <p>当时，他什么也没有说，只是朝我咧嘴笑笑，一溜烟跑走了。那天，阳光那么明媚，花儿那么艳丽，我的眼中盈满了泪水。望着他远去的背影，我喊道：“谢谢你！”</p>
 <p>泪，沾湿了我的衣裳，我躺在草坪上，感受着这明媚的阳光。那时，我的心中也充满阳光，那么温暖……</p>
 <p>成长路上，张明，有你真好！</p>
+]]></content>
+      <categories>
+        <category>创作（正经）</category>
+      </categories>
+      <tags>
+        <tag>成长</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>我好想成长</title>
+    <url>/2021/02/04/%E6%88%91%E5%A5%BD%E6%83%B3%E6%88%90%E9%95%BF/</url>
+    <content><![CDATA[<p>成长是一件很不容易的事情，它不单单只是岁数的增长，还有身高、体重、心理、智慧……很多方面都能见证你是否成长了。而成长在我们的认知看来，成长也是神圣的、美好的。“我好想成长！”是我们每个小孩子的心声。而我们怎样才能成长起来呢？</p>
+<a id="more"></a>
+
+<p>小王天天在家里无事可做，我除了看见他在打游戏就从没看见过他做其他事情。小王妈妈尽力开导他：“你就不能做一些别的事情吗？”他总是说：“等一会儿！等一会儿！我打完这局游戏再说！”但是他打完这局游戏就又开始匹配新的一局。我认为，他是失去了方向，不知道该做些什么。</p>
+<p>对，成长在于明确的方向。如果像小王一样没有方向的话，那是不会成长的。</p>
+<p>观察一棵蒜苗的长大，在第一天的时候，它几乎只长1~2毫米的高度，虽然它每天只长那么一点儿，但是，它每天都在长，而且长得与第一天的高度几乎一样，如果按照这个比例计算的话，如果是一个月，它就可以长3厘米；一个季度就可以长9厘米，那么如果是一年呢？</p>
+<p>人的成长不也是一个道理吗？假如你一天做一道练习题，如果你能坚持一个月的话，那就是30道，而如果你能坚持一年，就是一个相当庞大的数字了——365道！</p>
+<p>对，成长也在于坚持。如果找到方向后不去实施并坚持下来，那也是成长不了的。</p>
+<p>但是，我的朋友找到了方向，每天做1篇阅读，5道奥数练习题，而他这样坚持了一年，却一点效果都没有，在测验中屡次失利，反倒让他失去了信心。这是为什么呢？问题就在于他在做题的时候，从来都不管他做得对不对，做完就敷衍了事，而且用了很长的时间。</p>
+<p>对，成长还在于效率。坚持只是成长的一方面，如果你找到方向并且坚持了，但从来不追求效率，那是也永远不可能进步的，更别提成长了。</p>
+<p>因此，成长在于方向、坚持和效率。做到了这三点，那么恭喜你，你成长了！</p>
 ]]></content>
       <categories>
         <category>创作（正经）</category>
@@ -254,47 +276,6 @@
       </tags>
   </entry>
   <entry>
-    <title>我好想成长</title>
-    <url>/2021/02/04/%E6%88%91%E5%A5%BD%E6%83%B3%E6%88%90%E9%95%BF/</url>
-    <content><![CDATA[<p>成长是一件很不容易的事情，它不单单只是岁数的增长，还有身高、体重、心理、智慧……很多方面都能见证你是否成长了。而成长在我们的认知看来，成长也是神圣的、美好的。“我好想成长！”是我们每个小孩子的心声。而我们怎样才能成长起来呢？</p>
-<a id="more"></a>
-
-<p>小王天天在家里无事可做，我除了看见他在打游戏就从没看见过他做其他事情。小王妈妈尽力开导他：“你就不能做一些别的事情吗？”他总是说：“等一会儿！等一会儿！我打完这局游戏再说！”但是他打完这局游戏就又开始匹配新的一局。我认为，他是失去了方向，不知道该做些什么。</p>
-<p>对，成长在于明确的方向。如果像小王一样没有方向的话，那是不会成长的。</p>
-<p>观察一棵蒜苗的长大，在第一天的时候，它几乎只长1~2毫米的高度，虽然它每天只长那么一点儿，但是，它每天都在长，而且长得与第一天的高度几乎一样，如果按照这个比例计算的话，如果是一个月，它就可以长3厘米；一个季度就可以长9厘米，那么如果是一年呢？</p>
-<p>人的成长不也是一个道理吗？假如你一天做一道练习题，如果你能坚持一个月的话，那就是30道，而如果你能坚持一年，就是一个相当庞大的数字了——365道！</p>
-<p>对，成长也在于坚持。如果找到方向后不去实施并坚持下来，那也是成长不了的。</p>
-<p>但是，我的朋友找到了方向，每天做1篇阅读，5道奥数练习题，而他这样坚持了一年，却一点效果都没有，在测验中屡次失利，反倒让他失去了信心。这是为什么呢？问题就在于他在做题的时候，从来都不管他做得对不对，做完就敷衍了事，而且用了很长的时间。</p>
-<p>对，成长还在于效率。坚持只是成长的一方面，如果你找到方向并且坚持了，但从来不追求效率，那是也永远不可能进步的，更别提成长了。</p>
-<p>因此，成长在于方向、坚持和效率。做到了这三点，那么恭喜你，你成长了！</p>
-]]></content>
-      <categories>
-        <category>创作（正经）</category>
-      </categories>
-      <tags>
-        <tag>成长</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>有你，真好</title>
-    <url>/2021/02/04/%E6%9C%89%E4%BD%A0%EF%BC%8C%E7%9C%9F%E5%A5%BD/</url>
-    <content><![CDATA[<p>那是一次不同寻常的邂逅。那天，天气如此明朗，空气也格外清新。从那以后，我的心中就充满了阳光，就像那天的阳光一样灿烂，那样美好。</p>
-<a id="more"></a>
-
-<p>一次写数学小论文，我十分懊恼，好不容易费了半天时间挤牙膏似的挤出了一篇只有四百字的文章，老师却看了一眼就打回来了。那时我近乎绝望，北风呼呼地吹着，我的心也被冻结了一样，泣不成声。就在这时，你悄悄地走了过来，用一个充满力量的眼神看了我一眼，接着又悄悄地走了。但是，你知道吗？那个眼神，不知道给予了我多少鼓励，它使我振作了起来，提笔半小时就完成了一篇文章。这篇文章被评为了优秀。</p>
-<p>而你对我的鼓励，还不止于此……</p>
-<p>又是学校举行了运动会的日子，我报名了200米跑步项目。紧张激烈的比赛开始了，我大步走向跑道，心里又激动又紧张，我两腿一前一后，身子微微前俯，像运动员一样摆好架势。“预备……开始！”我像炮弹似的冲了出去，首先取得决定性的优势，健步如飞，神采飞扬；而对手也不甘示弱，疾驰如箭，快似流星。比赛已经进入了白热化状态，我们两人跑得不分上下，也都不甘示弱。此时，你并没有说什么，只是微笑了一下。但是，你知道吗？你的微笑像我人生道路中的一朵花，绽放得无比艳丽。带着你的微笑，带着我的决心，我跑得更快了，最终得到了胜利。那一刻，你依然没有说什么，又是一个微笑……</p>
-<p>我的朋友，谢谢你，是你的鼓励照进了我冰冷的心房，是你的安慰让我充满了力量。你为我所做的一切，陪伴我度过了一切痛苦的时光。</p>
-<p>啊，我的朋友，有你，真好！</p>
-]]></content>
-      <categories>
-        <category>创作（正经）</category>
-      </categories>
-      <tags>
-        <tag>友爱</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>春</title>
     <url>/2021/02/02/%E6%98%A5/</url>
     <content><![CDATA[<p>那是一个冬日的黄昏。街上车来人往，汽车的轰鸣声和人们的脚步声夹杂在一起，不十分动听。冰冷刺骨的寒风呼啸着，如一把刀子削着人们的脸庞，让大家都显得清瘦了。</p>
@@ -314,6 +295,23 @@
       </tags>
   </entry>
   <entry>
+    <title>有意思的游戏</title>
+    <url>/2021/02/04/%E6%9C%89%E6%84%8F%E6%80%9D%E7%9A%84%E6%B8%B8%E6%88%8F/</url>
+    <content><![CDATA[<p>这次，老师组织了一次有意思的游戏——夹乒乓球。游戏分两组进行，6人一组，给每个人发一双筷子。老师先把乒乓球给第一个人，第一个人夹起球后给第二个人，这样依次传下去，最先传完的一组获胜。规则宣布完毕后，参赛选手们个个摩拳擦掌，跃跃欲试，已经等不及了。</p>
+<a id="more"></a>
+
+<p>“预备……开始！”随着老师的一声令下，两组的组员们都紧张了起来，专心致志地等待着前面的球。只见第一组前面都进行得很顺利，传到小周同学时，球“啪”的一声掉到了地上。组员们都慌了，于是急忙去捡球，生怕第二组超越了他们的进度。尤其是小周同学，他眉头紧皱绷着脸，额头上现出几颗亮晶晶的汗珠，捡球时恨不得趴到地上。他捡起了球，想把它夹住，可是世事难料，他夹了好几次都没夹起来。“加油！你可以的！”旁边传来组员的鼓励声，小周忽然振作了起来，仿佛在说：我一定可以！这一次，他很快就夹起了乒乓球。接着，第一组的同学继续往后传，而此时，第二组只完成了第一组的一半。第一组传到最后一位同学了，前面的同学小心翼翼地夹着，后面的同学小心翼翼地接着，两位同学的手都有些颤抖，生怕球掉地上。同学们都探着头静静等着第一组取得胜利，空气仿佛凝固了，没有人大声说话，也没有人窃窃私语，旁边写作业的同学也停下了笔。“不要犹豫！夹吧！夹住了就胜利了！”小周不禁大喊道。听到这声音，后面的同学也不再犹豫，干脆地夹了过去……</p>
+<p>“胜利了！胜利了！”就在那时，最后一位同学成功接住了球，不禁大声欢呼。全场顿时沸腾了，第一组终于胜利了。</p>
+<p>第一组的胜利，完全来自他们的努力，是他们的认真铸就了他们的辉煌，是他们的团结使其绽放出胜利的火花！</p>
+]]></content>
+      <categories>
+        <category>创作（正经）</category>
+      </categories>
+      <tags>
+        <tag>比赛</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>最难忘的回忆</title>
     <url>/2021/02/04/%E6%9C%80%E9%9A%BE%E5%BF%98%E7%9A%84%E5%9B%9E%E5%BF%86/</url>
     <content><![CDATA[<p>他是《六经》的编著者，他是儒家思想的代表人，他是中国历史上第一位开设私塾的老师，他还提出了“因材施教”的教育方针……</p>
@@ -329,20 +327,22 @@
       </tags>
   </entry>
   <entry>
-    <title>有意思的游戏</title>
-    <url>/2021/02/04/%E6%9C%89%E6%84%8F%E6%80%9D%E7%9A%84%E6%B8%B8%E6%88%8F/</url>
-    <content><![CDATA[<p>这次，老师组织了一次有意思的游戏——夹乒乓球。游戏分两组进行，6人一组，给每个人发一双筷子。老师先把乒乓球给第一个人，第一个人夹起球后给第二个人，这样依次传下去，最先传完的一组获胜。规则宣布完毕后，参赛选手们个个摩拳擦掌，跃跃欲试，已经等不及了。</p>
+    <title>有你，真好</title>
+    <url>/2021/02/04/%E6%9C%89%E4%BD%A0%EF%BC%8C%E7%9C%9F%E5%A5%BD/</url>
+    <content><![CDATA[<p>那是一次不同寻常的邂逅。那天，天气如此明朗，空气也格外清新。从那以后，我的心中就充满了阳光，就像那天的阳光一样灿烂，那样美好。</p>
 <a id="more"></a>
 
-<p>“预备……开始！”随着老师的一声令下，两组的组员们都紧张了起来，专心致志地等待着前面的球。只见第一组前面都进行得很顺利，传到小周同学时，球“啪”的一声掉到了地上。组员们都慌了，于是急忙去捡球，生怕第二组超越了他们的进度。尤其是小周同学，他眉头紧皱绷着脸，额头上现出几颗亮晶晶的汗珠，捡球时恨不得趴到地上。他捡起了球，想把它夹住，可是世事难料，他夹了好几次都没夹起来。“加油！你可以的！”旁边传来组员的鼓励声，小周忽然振作了起来，仿佛在说：我一定可以！这一次，他很快就夹起了乒乓球。接着，第一组的同学继续往后传，而此时，第二组只完成了第一组的一半。第一组传到最后一位同学了，前面的同学小心翼翼地夹着，后面的同学小心翼翼地接着，两位同学的手都有些颤抖，生怕球掉地上。同学们都探着头静静等着第一组取得胜利，空气仿佛凝固了，没有人大声说话，也没有人窃窃私语，旁边写作业的同学也停下了笔。“不要犹豫！夹吧！夹住了就胜利了！”小周不禁大喊道。听到这声音，后面的同学也不再犹豫，干脆地夹了过去……</p>
-<p>“胜利了！胜利了！”就在那时，最后一位同学成功接住了球，不禁大声欢呼。全场顿时沸腾了，第一组终于胜利了。</p>
-<p>第一组的胜利，完全来自他们的努力，是他们的认真铸就了他们的辉煌，是他们的团结使其绽放出胜利的火花！</p>
+<p>一次写数学小论文，我十分懊恼，好不容易费了半天时间挤牙膏似的挤出了一篇只有四百字的文章，老师却看了一眼就打回来了。那时我近乎绝望，北风呼呼地吹着，我的心也被冻结了一样，泣不成声。就在这时，你悄悄地走了过来，用一个充满力量的眼神看了我一眼，接着又悄悄地走了。但是，你知道吗？那个眼神，不知道给予了我多少鼓励，它使我振作了起来，提笔半小时就完成了一篇文章。这篇文章被评为了优秀。</p>
+<p>而你对我的鼓励，还不止于此……</p>
+<p>又是学校举行了运动会的日子，我报名了200米跑步项目。紧张激烈的比赛开始了，我大步走向跑道，心里又激动又紧张，我两腿一前一后，身子微微前俯，像运动员一样摆好架势。“预备……开始！”我像炮弹似的冲了出去，首先取得决定性的优势，健步如飞，神采飞扬；而对手也不甘示弱，疾驰如箭，快似流星。比赛已经进入了白热化状态，我们两人跑得不分上下，也都不甘示弱。此时，你并没有说什么，只是微笑了一下。但是，你知道吗？你的微笑像我人生道路中的一朵花，绽放得无比艳丽。带着你的微笑，带着我的决心，我跑得更快了，最终得到了胜利。那一刻，你依然没有说什么，又是一个微笑……</p>
+<p>我的朋友，谢谢你，是你的鼓励照进了我冰冷的心房，是你的安慰让我充满了力量。你为我所做的一切，陪伴我度过了一切痛苦的时光。</p>
+<p>啊，我的朋友，有你，真好！</p>
 ]]></content>
       <categories>
         <category>创作（正经）</category>
       </categories>
       <tags>
-        <tag>比赛</tag>
+        <tag>友爱</tag>
       </tags>
   </entry>
   <entry>
@@ -383,6 +383,42 @@
       </tags>
   </entry>
   <entry>
+    <title>系红领巾大赛</title>
+    <url>/2021/02/04/%E7%B3%BB%E7%BA%A2%E9%A2%86%E5%B7%BE%E5%A4%A7%E8%B5%9B/</url>
+    <content><![CDATA[<p>周五，我们班举行了一场系红领巾大赛，大家都十分兴奋，选手们系得不亦乐乎，观众们也看得不亦乐乎。</p>
+<a id="more"></a>
+
+<p>前两轮，大半的人都被淘汰了，只剩下十个同学了。第三轮紧张激烈的决赛开始了。“预备——”裁判员一发口令，选手们就个个都紧紧地握着红领巾，腿不停地颤抖，表情十分专注，生怕错过比赛开始的时间。下面的观众也是屏息凝神，将视线放在选手们的身上，专心致志地看着比赛。“开始！”随着裁判员的一声令下，选手们都快速地卷着红领巾，台下助威的同学都在不停地喝彩，“加油”的鼓励声席卷了整个教室。观众们议论纷纷：“你说谁能得第一？”“我觉得应该是小张吧，她半决赛第一名呢！”“我也这么觉得，我看见了，她速度很快的！”</p>
+<p>比赛已经进行到中期，各位选手都很卖力，脸涨得红红的，尤其是小王，他头发都竖起来了，额头上现出几颗亮晶晶的汗珠，眼睛瞪着红领巾，手飞速地系着，看样子快要系成了。旁边的小李也不甘示弱，手恨不得把红领巾抓出一个缝，可惜有一步系错了，搞得整个散架，白费功夫。她摇摇头，开始重新系，看样子对第一名没有信心了。</p>
+<p>比赛快结束了，观众们不说话了，加油喝彩的不喊了，甚至连写作业的也停下了笔，安静地等待着第一名的出现。全场寂静得可怕。</p>
+<p>就在大家都快系完的时候，小张同学第一个举起了手，顿时，同学们又像得到生命似的，又开始为小张喝彩。剩下的选手们也陆续举起了手，于是，鼓掌声、欢呼声等各种声音夹杂在一起，响声要冲破房顶。老师为前三名颁发奖状时，大家仿佛心有灵犀，异口同声地唱起队歌：“我们是共产主义接班人……”</p>
+<p>大家沉浸在一片欢乐之中。</p>
+]]></content>
+      <categories>
+        <category>创作（正经）</category>
+      </categories>
+      <tags>
+        <tag>红领巾</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>西江月·夜里写作业</title>
+    <url>/2021/02/01/%E8%A5%BF%E6%B1%9F%E6%9C%88%C2%B7%E5%A4%9C%E9%87%8C%E5%86%99%E4%BD%9C%E4%B8%9A/</url>
+    <content><![CDATA[<p>明月别枝惊鹊，作业写到半夜。</p>
+<a id="more"></a>
+
+<p>稻花香里说丰年，一篇作文写两年。</p>
+<p>七八篇作文像座塔，两三本练习写到傻。</p>
+<p>旧时茅厕马桶边，作文练习堆上天！</p>
+]]></content>
+      <categories>
+        <category>创作（瞎搞）</category>
+      </categories>
+      <tags>
+        <tag>作业</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>爱，就在我身边</title>
     <url>/2021/02/02/%E7%88%B1%EF%BC%8C%E5%B0%B1%E5%9C%A8%E6%88%91%E8%BA%AB%E8%BE%B9/</url>
     <content><![CDATA[<p>那时我大概三年级吧，下午上体育课，我像平常一样走向操场，突然有几个六年级的大孩子一阵风似的跑了过来，对当时的我来说他们又高又壮，就如一堵人墙。看着他们向我袭来，我愣了一下，没来及躲闪就被他们撞倒了……</p>
@@ -404,25 +440,6 @@
       </tags>
   </entry>
   <entry>
-    <title>系红领巾大赛</title>
-    <url>/2021/02/04/%E7%B3%BB%E7%BA%A2%E9%A2%86%E5%B7%BE%E5%A4%A7%E8%B5%9B/</url>
-    <content><![CDATA[<p>周五，我们班举行了一场系红领巾大赛，大家都十分兴奋，选手们系得不亦乐乎，观众们也看得不亦乐乎。</p>
-<a id="more"></a>
-
-<p>前两轮，大半的人都被淘汰了，只剩下十个同学了。第三轮紧张激烈的决赛开始了。“预备——”裁判员一发口令，选手们就个个都紧紧地握着红领巾，腿不停地颤抖，表情十分专注，生怕错过比赛开始的时间。下面的观众也是屏息凝神，将视线放在选手们的身上，专心致志地看着比赛。“开始！”随着裁判员的一声令下，选手们都快速地卷着红领巾，台下助威的同学都在不停地喝彩，“加油”的鼓励声席卷了整个教室。观众们议论纷纷：“你说谁能得第一？”“我觉得应该是小张吧，她半决赛第一名呢！”“我也这么觉得，我看见了，她速度很快的！”</p>
-<p>比赛已经进行到中期，各位选手都很卖力，脸涨得红红的，尤其是小王，他头发都竖起来了，额头上现出几颗亮晶晶的汗珠，眼睛瞪着红领巾，手飞速地系着，看样子快要系成了。旁边的小李也不甘示弱，手恨不得把红领巾抓出一个缝，可惜有一步系错了，搞得整个散架，白费功夫。她摇摇头，开始重新系，看样子对第一名没有信心了。</p>
-<p>比赛快结束了，观众们不说话了，加油喝彩的不喊了，甚至连写作业的也停下了笔，安静地等待着第一名的出现。全场寂静得可怕。</p>
-<p>就在大家都快系完的时候，小张同学第一个举起了手，顿时，同学们又像得到生命似的，又开始为小张喝彩。剩下的选手们也陆续举起了手，于是，鼓掌声、欢呼声等各种声音夹杂在一起，响声要冲破房顶。老师为前三名颁发奖状时，大家仿佛心有灵犀，异口同声地唱起队歌：“我们是共产主义接班人……”</p>
-<p>大家沉浸在一片欢乐之中。</p>
-]]></content>
-      <categories>
-        <category>创作（正经）</category>
-      </categories>
-      <tags>
-        <tag>红领巾</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>说明</title>
     <url>/2021/02/02/%E8%AF%B4%E6%98%8E/</url>
     <content><![CDATA[<p>其实，这些都是我之前的作文。现在我将这些作文贴在博客上，大家有兴趣的话可以看看。</p>
@@ -433,21 +450,6 @@
       </categories>
       <tags>
         <tag>说明</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>闲不住的奶奶</title>
-    <url>/2021/02/04/%E9%97%B2%E4%B8%8D%E4%BD%8F%E7%9A%84%E5%A5%B6%E5%A5%B6/</url>
-    <content><![CDATA[<p>我的奶奶十分勤快，每天都闲不住，一年三百六十五天，没有一小时是闲着的。</p>
-<a id="more"></a>
-
-<p>清晨，奶奶早早地起来，快速地刷牙洗脸，接着开始锻炼身体。“一二三四五六七八，二二三四五六七八，三二……”她围着客厅的茶几小跑着，呼吸均匀，两手前后稍稍摆动，跑得十分标准。过了一会儿，奶奶又开始练太极拳，柔中带刚，虽没有到出神入化的地步，倒有几副架势。<br>早上，该吃早饭了，奶奶开始做饭。她将锅接上水，并从架子上拿出西红柿，烧水的同时切好西红柿，接着熟练地将西红柿放进锅里，进行第一次翻炒。又拿出面条，将面条放进锅里，放些盐和葱，再进行第二次翻炒，短短十分钟就做成了美味的西红柿面。那时，奶奶脸上现出了几颗晶莹的汗珠。她捏了一把汗，满足地看着锅里的面条，似乎对自己做的面条十分满意。<br>吃完面后，你可能会以为奶奶会歇息一会儿，或看一会儿电视。那么你错了，奶奶可没这么轻易“败下阵来”，瞧，她又拿起了针和线，开始织毛衣了。只见她左一针，右一针，每一针都让你担心扎到手指，每一针却又缝得恰到好处。她越织越来劲，彻底地陶醉在其中。于是仅一根针，几团线，就创造出了一件又一件的漂亮的衣服。织完衣服，她又开始织一幅已经织了一半的《万马奔腾》。她还有宏伟设想，要靠她的双手织出更多的画在家里做装饰，甚至对外卖出。<br>到了中午，奶奶又要开始做饭了……<br>这就是我的奶奶，一个闲不住的奶奶。我想，这样闲不住的生活一定会很充实，美好……</p>
-]]></content>
-      <categories>
-        <category>创作（正经）</category>
-      </categories>
-      <tags>
-        <tag>亲人</tag>
       </tags>
   </entry>
   <entry>
@@ -490,23 +492,6 @@
       </tags>
   </entry>
   <entry>
-    <title>西江月·夜里写作业</title>
-    <url>/2021/02/01/%E8%A5%BF%E6%B1%9F%E6%9C%88%C2%B7%E5%A4%9C%E9%87%8C%E5%86%99%E4%BD%9C%E4%B8%9A/</url>
-    <content><![CDATA[<p>明月别枝惊鹊，作业写到半夜。</p>
-<a id="more"></a>
-
-<p>稻花香里说丰年，一篇作文写两年。</p>
-<p>七八篇作文像座塔，两三本练习写到傻。</p>
-<p>旧时茅厕马桶边，作文练习堆上天！</p>
-]]></content>
-      <categories>
-        <category>创作（瞎搞）</category>
-      </categories>
-      <tags>
-        <tag>作业</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>难忘的画面</title>
     <url>/2021/02/04/%E9%9A%BE%E5%BF%98%E7%9A%84%E7%94%BB%E9%9D%A2/</url>
     <content><![CDATA[<p>“加油！加油！”瞧，一年一度的运动会开始了，大家都欢呼雀跃，各路啦啦队不停地加油。现在进行的是跳绳比赛。各位选手都紧紧地着绳子，眉头紧皱，一副蓄势待发的样子，已经等不及了。</p>
@@ -520,6 +505,21 @@
       </categories>
       <tags>
         <tag>场面</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>闲不住的奶奶</title>
+    <url>/2021/02/04/%E9%97%B2%E4%B8%8D%E4%BD%8F%E7%9A%84%E5%A5%B6%E5%A5%B6/</url>
+    <content><![CDATA[<p>我的奶奶十分勤快，每天都闲不住，一年三百六十五天，没有一小时是闲着的。</p>
+<a id="more"></a>
+
+<p>清晨，奶奶早早地起来，快速地刷牙洗脸，接着开始锻炼身体。“一二三四五六七八，二二三四五六七八，三二……”她围着客厅的茶几小跑着，呼吸均匀，两手前后稍稍摆动，跑得十分标准。过了一会儿，奶奶又开始练太极拳，柔中带刚，虽没有到出神入化的地步，倒有几副架势。<br>早上，该吃早饭了，奶奶开始做饭。她将锅接上水，并从架子上拿出西红柿，烧水的同时切好西红柿，接着熟练地将西红柿放进锅里，进行第一次翻炒。又拿出面条，将面条放进锅里，放些盐和葱，再进行第二次翻炒，短短十分钟就做成了美味的西红柿面。那时，奶奶脸上现出了几颗晶莹的汗珠。她捏了一把汗，满足地看着锅里的面条，似乎对自己做的面条十分满意。<br>吃完面后，你可能会以为奶奶会歇息一会儿，或看一会儿电视。那么你错了，奶奶可没这么轻易“败下阵来”，瞧，她又拿起了针和线，开始织毛衣了。只见她左一针，右一针，每一针都让你担心扎到手指，每一针却又缝得恰到好处。她越织越来劲，彻底地陶醉在其中。于是仅一根针，几团线，就创造出了一件又一件的漂亮的衣服。织完衣服，她又开始织一幅已经织了一半的《万马奔腾》。她还有宏伟设想，要靠她的双手织出更多的画在家里做装饰，甚至对外卖出。<br>到了中午，奶奶又要开始做饭了……<br>这就是我的奶奶，一个闲不住的奶奶。我想，这样闲不住的生活一定会很充实，美好……</p>
+]]></content>
+      <categories>
+        <category>创作（正经）</category>
+      </categories>
+      <tags>
+        <tag>亲人</tag>
       </tags>
   </entry>
 </search>
