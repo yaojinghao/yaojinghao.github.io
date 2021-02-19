@@ -7,13 +7,13 @@ $(function () {
             OriginTitle = document.title
         }
         if (document.hidden) {
-            $('[rel="icon"]').attr('href', "https://cdn.jsdelivr.net/gh/XuxuGood/cdn@master/blogImages/site-img/funny.png");
-            $('[rel="shortcut icon"]').attr('href', "https://cdn.jsdelivr.net/gh/XuxuGood/cdn@master/blogImages/site-img/funny.png");
+            $('[rel="icon"]').attr('href', "/img/e.png");
+            $('[rel="shortcut icon"]').attr('href', "/img/e.png");
             document.title = '(つェ⊂) 我藏好了哦~ ';
             clearTimeout(titleTime);
         } else {
-            $('[rel="icon"]').attr('href', "https://cdn.jsdelivr.net/gh/XuxuGood/cdn@master/blogImages/site-img/favicon.png");
-            $('[rel="shortcut icon"]').attr('href', "https://cdn.jsdelivr.net/gh/XuxuGood/cdn@master/blogImages/site-img/favicon.png");
+            $('[rel="icon"]').attr('href', "/img/e.png");
+            $('[rel="shortcut icon"]').attr('href', "/img/e.png");
             document.title = 'o(^▽^)o 被你发现啦~ ';
             titleTime = setTimeout(function () {
                 document.title = OriginTitle;
