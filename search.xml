@@ -1,23 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>P1000 超级玛丽游戏</title>
-    <url>/2021/02/01/P1000%E8%B6%85%E7%BA%A7%E7%8E%9B%E4%B8%BD%E6%B8%B8%E6%88%8F/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="略。"><a href="#略。" class="headerlink" title="略。"></a>略。</h1><a id="more"></a>
-
-<p>开个玩笑，主要是这题实在太闷骚了，就是打字练习，没什么技术含量。但是经过我的百般思考之后……</p>
-<h3 id="我还是写了！"><a href="#我还是写了！" class="headerlink" title="我还是写了！"></a>我还是写了！</h3><p>请看下面这段不值得一看的代码。</p>
-<figure class="highlight cpp"><table><tr><td class="code"><pre><span class="line"><span class="meta">#<span class="meta-keyword">include</span> <span class="meta-string">&lt;iostream&gt;</span></span></span><br><span class="line"><span class="keyword">using</span> <span class="keyword">namespace</span> <span class="built_in">std</span>;</span><br><span class="line"><span class="function"><span class="keyword">int</span> <span class="title">main</span><span class="params">()</span></span></span><br><span class="line"><span class="function"></span>&#123;</span><br><span class="line">	<span class="built_in">cout</span>&lt;&lt;<span class="string">&quot;                ********&quot;</span>&lt;&lt;<span class="built_in">endl</span>;</span><br><span class="line">	<span class="built_in">cout</span>&lt;&lt;<span class="string">&quot;               ************&quot;</span>&lt;&lt;<span class="built_in">endl</span>;</span><br><span class="line">	<span class="built_in">cout</span>&lt;&lt;<span class="string">&quot;               ####....#.&quot;</span>&lt;&lt;<span class="built_in">endl</span>;</span><br><span class="line">	<span class="built_in">cout</span>&lt;&lt;<span class="string">&quot;             #..###.....##....&quot;</span>&lt;&lt;<span class="built_in">endl</span>;</span><br><span class="line">	<span class="built_in">cout</span>&lt;&lt;<span class="string">&quot;             ###.......######              ###            ###&quot;</span>&lt;&lt;<span class="built_in">endl</span>;</span><br><span class="line">	<span class="built_in">cout</span>&lt;&lt;<span class="string">&quot;                ...........               #...#          #...#&quot;</span>&lt;&lt;<span class="built_in">endl</span>;</span><br><span class="line">	<span class="built_in">cout</span>&lt;&lt;<span class="string">&quot;               ##*#######                 #.#.#          #.#.#&quot;</span>&lt;&lt;<span class="built_in">endl</span>;</span><br><span class="line">	<span class="built_in">cout</span>&lt;&lt;<span class="string">&quot;            ####*******######             #.#.#          #.#.#&quot;</span>&lt;&lt;<span class="built_in">endl</span>;</span><br><span class="line">	<span class="built_in">cout</span>&lt;&lt;<span class="string">&quot;           ...#***.****.*###....          #...#          #...#&quot;</span>&lt;&lt;<span class="built_in">endl</span>;</span><br><span class="line">	<span class="built_in">cout</span>&lt;&lt;<span class="string">&quot;           ....**********##.....           ###            ###&quot;</span>&lt;&lt;<span class="built_in">endl</span>;</span><br><span class="line">	<span class="built_in">cout</span>&lt;&lt;<span class="string">&quot;           ....****    *****....&quot;</span>&lt;&lt;<span class="built_in">endl</span>;</span><br><span class="line">	<span class="built_in">cout</span>&lt;&lt;<span class="string">&quot;             ####        ####&quot;</span>&lt;&lt;<span class="built_in">endl</span>;</span><br><span class="line">	<span class="built_in">cout</span>&lt;&lt;<span class="string">&quot;           ######        ######&quot;</span>&lt;&lt;<span class="built_in">endl</span>;</span><br><span class="line">	<span class="built_in">cout</span>&lt;&lt;<span class="string">&quot;##############################################################&quot;</span>&lt;&lt;<span class="built_in">endl</span>;</span><br><span class="line">	<span class="built_in">cout</span>&lt;&lt;<span class="string">&quot;#...#......#.##...#......#.##...#......#.##------------------#&quot;</span>&lt;&lt;<span class="built_in">endl</span>;</span><br><span class="line">	<span class="built_in">cout</span>&lt;&lt;<span class="string">&quot;###########################################------------------#&quot;</span>&lt;&lt;<span class="built_in">endl</span>;</span><br><span class="line">	<span class="built_in">cout</span>&lt;&lt;<span class="string">&quot;#..#....#....##..#....#....##..#....#....#####################&quot;</span>&lt;&lt;<span class="built_in">endl</span>;</span><br><span class="line">	<span class="built_in">cout</span>&lt;&lt;<span class="string">&quot;##########################################    #----------#&quot;</span>&lt;&lt;<span class="built_in">endl</span>;</span><br><span class="line">	<span class="built_in">cout</span>&lt;&lt;<span class="string">&quot;#.....#......##.....#......##.....#......#    #----------#&quot;</span>&lt;&lt;<span class="built_in">endl</span>;</span><br><span class="line">	<span class="built_in">cout</span>&lt;&lt;<span class="string">&quot;##########################################    #----------#&quot;</span>&lt;&lt;<span class="built_in">endl</span>;</span><br><span class="line">	<span class="built_in">cout</span>&lt;&lt;<span class="string">&quot;#.#..#....#..##.#..#....#..##.#..#....#..#    #----------#&quot;</span>&lt;&lt;<span class="built_in">endl</span>;</span><br><span class="line">	<span class="built_in">cout</span>&lt;&lt;<span class="string">&quot;##########################################    ############&quot;</span>;</span><br><span class="line">	<span class="keyword">return</span> <span class="number">0</span>;</span><br><span class="line">&#125;</span><br><span class="line"></span><br></pre></td></tr></table></figure>
-<p>这题我就不写注释了，写了也没人看……</p>
-]]></content>
-      <categories>
-        <category>题解</category>
-      </categories>
-      <tags>
-        <tag>C++</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>2019 CSP-J认证 复赛</title>
     <url>/2021/02/01/2019CSP-J%E8%AE%A4%E8%AF%81%E5%A4%8D%E8%B5%9B/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h4 id="个人信息"><a href="#个人信息" class="headerlink" title="个人信息"></a>个人信息</h4><p>姓名：姚景豪<br>年龄：10岁<br>年级：五年级<br><strong>我是旷课去CSP-J的。</strong></p>
@@ -44,12 +27,31 @@
       </tags>
   </entry>
   <entry>
-    <title>P1001 A+B Problem</title>
-    <url>/2021/02/01/P1001A+BProblem/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><figure class="highlight cpp"><table><tr><td class="code"><pre><span class="line"><span class="meta">#<span class="meta-keyword">include</span> <span class="meta-string">&lt;iostream&gt; //头文件</span></span></span><br><span class="line"><span class="keyword">using</span> <span class="keyword">namespace</span> <span class="built_in">std</span>;<span class="comment">//命名空间</span></span><br><span class="line"><span class="function"><span class="keyword">int</span> <span class="title">main</span><span class="params">()</span>          <span class="comment">//主函数  </span></span></span><br><span class="line"><span class="function"></span>&#123;</span><br><span class="line">	<span class="keyword">int</span> a,b;        <span class="comment">//int定义a和b</span></span><br><span class="line">	<span class="built_in">cin</span>&gt;&gt;a&gt;&gt;b;      <span class="comment">//输入a和b</span></span><br><span class="line">	<span class="built_in">cout</span>&lt;&lt;a+b&lt;&lt;<span class="built_in">endl</span>;<span class="comment">//利用加号运算符将a和b加在一起并输出、换行</span></span><br><span class="line">	<span class="keyword">return</span> <span class="number">0</span>;       <span class="comment">//主函数返回0（表示程序正常运行结束）</span></span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+    <title>Footprint</title>
+    <url>/2021/03/01/Footprint/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>It’s the biggest snow this year. I go outside when it’s dark. Snow falls on my hand, then it becomes water. There are many footprints on the ground. The world is quiet, quiet, and quiet…</p>
 <a id="more"></a>
 
-<p>最简单的a+b问题，你看懂了吗？</p>
+<p>Suddenly, the sun rises up. Everything wakes up. It’s brighter and brighter now. The snow is beginning to melt. The footprints fade.</p>
+<p>But I want to leave some footprints on the ground! I want the flowers, grasses, everything in the world can hear my voice!</p>
+<p>Let the world hear my voice…</p>
+]]></content>
+      <categories>
+        <category>english</category>
+      </categories>
+      <tags>
+        <tag>english</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>P1000 超级玛丽游戏</title>
+    <url>/2021/02/01/P1000%E8%B6%85%E7%BA%A7%E7%8E%9B%E4%B8%BD%E6%B8%B8%E6%88%8F/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="略。"><a href="#略。" class="headerlink" title="略。"></a>略。</h1><a id="more"></a>
+
+<p>开个玩笑，主要是这题实在太闷骚了，就是打字练习，没什么技术含量。但是经过我的百般思考之后……</p>
+<h3 id="我还是写了！"><a href="#我还是写了！" class="headerlink" title="我还是写了！"></a>我还是写了！</h3><p>请看下面这段不值得一看的代码。</p>
+<figure class="highlight cpp"><table><tr><td class="code"><pre><span class="line"><span class="meta">#<span class="meta-keyword">include</span> <span class="meta-string">&lt;iostream&gt;</span></span></span><br><span class="line"><span class="keyword">using</span> <span class="keyword">namespace</span> <span class="built_in">std</span>;</span><br><span class="line"><span class="function"><span class="keyword">int</span> <span class="title">main</span><span class="params">()</span></span></span><br><span class="line"><span class="function"></span>&#123;</span><br><span class="line">	<span class="built_in">cout</span>&lt;&lt;<span class="string">&quot;                ********&quot;</span>&lt;&lt;<span class="built_in">endl</span>;</span><br><span class="line">	<span class="built_in">cout</span>&lt;&lt;<span class="string">&quot;               ************&quot;</span>&lt;&lt;<span class="built_in">endl</span>;</span><br><span class="line">	<span class="built_in">cout</span>&lt;&lt;<span class="string">&quot;               ####....#.&quot;</span>&lt;&lt;<span class="built_in">endl</span>;</span><br><span class="line">	<span class="built_in">cout</span>&lt;&lt;<span class="string">&quot;             #..###.....##....&quot;</span>&lt;&lt;<span class="built_in">endl</span>;</span><br><span class="line">	<span class="built_in">cout</span>&lt;&lt;<span class="string">&quot;             ###.......######              ###            ###&quot;</span>&lt;&lt;<span class="built_in">endl</span>;</span><br><span class="line">	<span class="built_in">cout</span>&lt;&lt;<span class="string">&quot;                ...........               #...#          #...#&quot;</span>&lt;&lt;<span class="built_in">endl</span>;</span><br><span class="line">	<span class="built_in">cout</span>&lt;&lt;<span class="string">&quot;               ##*#######                 #.#.#          #.#.#&quot;</span>&lt;&lt;<span class="built_in">endl</span>;</span><br><span class="line">	<span class="built_in">cout</span>&lt;&lt;<span class="string">&quot;            ####*******######             #.#.#          #.#.#&quot;</span>&lt;&lt;<span class="built_in">endl</span>;</span><br><span class="line">	<span class="built_in">cout</span>&lt;&lt;<span class="string">&quot;           ...#***.****.*###....          #...#          #...#&quot;</span>&lt;&lt;<span class="built_in">endl</span>;</span><br><span class="line">	<span class="built_in">cout</span>&lt;&lt;<span class="string">&quot;           ....**********##.....           ###            ###&quot;</span>&lt;&lt;<span class="built_in">endl</span>;</span><br><span class="line">	<span class="built_in">cout</span>&lt;&lt;<span class="string">&quot;           ....****    *****....&quot;</span>&lt;&lt;<span class="built_in">endl</span>;</span><br><span class="line">	<span class="built_in">cout</span>&lt;&lt;<span class="string">&quot;             ####        ####&quot;</span>&lt;&lt;<span class="built_in">endl</span>;</span><br><span class="line">	<span class="built_in">cout</span>&lt;&lt;<span class="string">&quot;           ######        ######&quot;</span>&lt;&lt;<span class="built_in">endl</span>;</span><br><span class="line">	<span class="built_in">cout</span>&lt;&lt;<span class="string">&quot;##############################################################&quot;</span>&lt;&lt;<span class="built_in">endl</span>;</span><br><span class="line">	<span class="built_in">cout</span>&lt;&lt;<span class="string">&quot;#...#......#.##...#......#.##...#......#.##------------------#&quot;</span>&lt;&lt;<span class="built_in">endl</span>;</span><br><span class="line">	<span class="built_in">cout</span>&lt;&lt;<span class="string">&quot;###########################################------------------#&quot;</span>&lt;&lt;<span class="built_in">endl</span>;</span><br><span class="line">	<span class="built_in">cout</span>&lt;&lt;<span class="string">&quot;#..#....#....##..#....#....##..#....#....#####################&quot;</span>&lt;&lt;<span class="built_in">endl</span>;</span><br><span class="line">	<span class="built_in">cout</span>&lt;&lt;<span class="string">&quot;##########################################    #----------#&quot;</span>&lt;&lt;<span class="built_in">endl</span>;</span><br><span class="line">	<span class="built_in">cout</span>&lt;&lt;<span class="string">&quot;#.....#......##.....#......##.....#......#    #----------#&quot;</span>&lt;&lt;<span class="built_in">endl</span>;</span><br><span class="line">	<span class="built_in">cout</span>&lt;&lt;<span class="string">&quot;##########################################    #----------#&quot;</span>&lt;&lt;<span class="built_in">endl</span>;</span><br><span class="line">	<span class="built_in">cout</span>&lt;&lt;<span class="string">&quot;#.#..#....#..##.#..#....#..##.#..#....#..#    #----------#&quot;</span>&lt;&lt;<span class="built_in">endl</span>;</span><br><span class="line">	<span class="built_in">cout</span>&lt;&lt;<span class="string">&quot;##########################################    ############&quot;</span>;</span><br><span class="line">	<span class="keyword">return</span> <span class="number">0</span>;</span><br><span class="line">&#125;</span><br><span class="line"></span><br></pre></td></tr></table></figure>
+<p>这题我就不写注释了，写了也没人看……</p>
 ]]></content>
       <categories>
         <category>题解</category>
@@ -74,6 +76,21 @@
       </tags>
   </entry>
   <entry>
+    <title>P1001 A+B Problem</title>
+    <url>/2021/02/01/P1001A+BProblem/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><figure class="highlight cpp"><table><tr><td class="code"><pre><span class="line"><span class="meta">#<span class="meta-keyword">include</span> <span class="meta-string">&lt;iostream&gt; //头文件</span></span></span><br><span class="line"><span class="keyword">using</span> <span class="keyword">namespace</span> <span class="built_in">std</span>;<span class="comment">//命名空间</span></span><br><span class="line"><span class="function"><span class="keyword">int</span> <span class="title">main</span><span class="params">()</span>          <span class="comment">//主函数  </span></span></span><br><span class="line"><span class="function"></span>&#123;</span><br><span class="line">	<span class="keyword">int</span> a,b;        <span class="comment">//int定义a和b</span></span><br><span class="line">	<span class="built_in">cin</span>&gt;&gt;a&gt;&gt;b;      <span class="comment">//输入a和b</span></span><br><span class="line">	<span class="built_in">cout</span>&lt;&lt;a+b&lt;&lt;<span class="built_in">endl</span>;<span class="comment">//利用加号运算符将a和b加在一起并输出、换行</span></span><br><span class="line">	<span class="keyword">return</span> <span class="number">0</span>;       <span class="comment">//主函数返回0（表示程序正常运行结束）</span></span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+<a id="more"></a>
+
+<p>最简单的a+b问题，你看懂了吗？</p>
+]]></content>
+      <categories>
+        <category>题解</category>
+      </categories>
+      <tags>
+        <tag>C++</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>下棋让生活更美好</title>
     <url>/2021/02/04/%E4%B8%8B%E6%A3%8B%E8%AE%A9%E7%94%9F%E6%B4%BB%E6%9B%B4%E7%BE%8E%E5%A5%BD/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>记得那天，是数学成绩公布的日子。发试卷时，老师读到：“徐嘉一，100分！姚景豪，80分，严重退步！”</p>
@@ -87,17 +104,6 @@
       <tags>
         <tag>爱好</tag>
       </tags>
-  </entry>
-  <entry>
-    <title>刷题网站</title>
-    <url>/2021/02/13/%E5%88%B7%E9%A2%98%E7%BD%91%E7%AB%99/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p><strong>推荐几个刷题网站：</strong></p>
-<p>包含几个题库的大题库：<a href="https://www.luogu.com.cn/">洛谷</a></p>
-<p>题目难，有一定的基础才能刷的题库：<a href="http://codeforces.com/">Codeforces</a> <a href="https://atcoder.jp/">AtCoder</a></p>
-<p>北京大学官方题库：<a href="http://poj.org/">PKU</a></p>
-<p>杭电大学官方题库：<a href="http://acm.hdu.edu.cn/">HDU</a></p>
-<p><em>继续更新中……</em></p>
-]]></content>
   </entry>
   <entry>
     <title>令人感动的画面</title>
@@ -117,42 +123,15 @@
       </tags>
   </entry>
   <entry>
-    <title>发现</title>
-    <url>/2021/02/02/%E5%8F%91%E7%8E%B0/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>这世界上有许许多多值得探索的东西，而在生活中，我们也要有一双善于观察的慧眼，去发现世间万物中蕴含的学问。</p>
-<a id="more"></a>
-
-<p>有一次，我在公园散步时，看着路旁的植物，突然对它们产生了兴趣。我一一询问了爸爸，发现这些植物中有南方的也有北方的。我十分奇怪，不知道为什么我们蚌埠有这么多种类不同、生长地区也不同的植物。于是我请教了科学老师。老师笑了笑，对我说：“你先回家猜一猜，明天将你的猜想告诉我，好吗？”“好！”</p>
-<p>那天晚上，我苦苦想了很久，终于想出了些眉目：这是不是因为我们蚌埠处于中国的南北分界线处，什么植物都可以生长？我将这个猜想告诉老师，老师对我说：“不错，你说得完全正确！”我欣喜若狂，因为这是我第一次感受到发现的快乐，而且还知道了一个探究的方法——猜测。</p>
-<p>过了几天，我又发现，墙角有几只无名的小菇顽强地生长着。我被它勾起了好奇心，于是拍了几张照片开始探究。我猜测了种种可能，但是似乎都不成立。我十分绝望，一时不知该怎么办。就在我准备打道回府时，爸爸告诉我：“现在网络这么发达，你可以查资料啊！”我当时如梦初醒，于是抓起手机疯狂的查资料，终于得到了答案。原来那天下了一场大雨，墙角处积了许多水，环境比较潮湿，所以就长出了蘑菇。那时，我又一次感受到发现的快乐，并且又了解了一个探究方法——查资料。</p>
-<p>“啊！”妈妈突然尖叫了一声。原来米里面生了虫子，我仔细地看着那虫子，不知道它是怎么长出来的，于是就又开始探究了。一开始，我从它的外形上开始猜测，没有什么发现，后来，我又结合环境，终于找出了答案。又搜集资料，发现我是对的。我觉得，我好像迈入了自然科学的大门，也初步学会探究了。</p>
-<p>“处处留心皆学问。”我相信，我一定能在今后的探究中，得到更多的知识，更加透彻地发现并理解这个世界。</p>
+    <title>刷题网站</title>
+    <url>/2021/02/13/%E5%88%B7%E9%A2%98%E7%BD%91%E7%AB%99/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p><strong>推荐几个刷题网站：</strong></p>
+<p>包含几个题库的大题库：<a href="https://www.luogu.com.cn/">洛谷</a></p>
+<p>题目难，有一定的基础才能刷的题库：<a href="http://codeforces.com/">Codeforces</a> <a href="https://atcoder.jp/">AtCoder</a></p>
+<p>北京大学官方题库：<a href="http://poj.org/">PKU</a></p>
+<p>杭电大学官方题库：<a href="http://acm.hdu.edu.cn/">HDU</a></p>
+<p><em>继续更新中……</em></p>
 ]]></content>
-      <categories>
-        <category>创作（正经）</category>
-      </categories>
-      <tags>
-        <tag>发现</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>地球自述</title>
-    <url>/2021/02/02/%E5%9C%B0%E7%90%83%E8%87%AA%E8%BF%B0/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>在一个夜深人静的夜晚，我翻来覆去睡不着，心中就产生了一些想象：如果我是地球，会怎么样呢？想着想着，我就感觉眼皮开始打架……</p>
-<a id="more"></a>
-
-<p>就在那时，我变成了地球。我突然发现我变成成了一个椭圆形的大球，并且我不能再自由活动，只能沿着一条轨道行走。身边是我的兄弟姐妹——水星、木星、火星等，还有我们的父亲——太阳——我们都围着他转动。在这众多星球中，我是最受宠的，因为我有适合生存的环境。仰望天空，是多么深邃，多么遥远，我不禁为我是其中的一员而骄傲。</p>
-<p>啊！怎么回事？我的颜色渐渐变成橙色了！我带着疑问来到了人间，看看到底发生了什么。只见人们到处乱扔垃圾，对垃圾桶不予理睬；各个工厂将污水大量排放进河里，导致一些鱼虾已经无法生存……现在，这些现象出现在每一个角落，遍布全球：长城的高大雄伟已经成为了过去，取而代之的是一大堆垃圾；原本供螃蟹们自由生活的沱湖变得越来越脏，螃蟹们再也生存不下去了，纷纷患病而亡。我不禁伤心地流下了眼泪，心里又气愤又害怕：他们这样做，有没有考虑过我的感受呢？再这样下去，我就快支撑不住了啊！</p>
-<p>我将这里发生的一切告诉了大家，想寻求他们的帮助。听着我的阐述，他们的脸色越来越难看，最后都听不下去了。“一定要做出一些行动才行！不能让他们再这样伤害你！”木星愤怒地低吼道。大家纷纷赞同木星的意见，我也觉得他说得对：不能由他们这样欺负我了，一定要给他们一点教训，这样他们才能醒悟，不再破坏环境。于是，我开始呼风唤雨，在这暴风雨中，家家户户都锁紧了门窗，不敢出来。看着自己的颜色不再变深，我松了口气，让太阳公公出来了。</p>
-<p>可是我惊奇的发现，就在我让天气转晴的那一刻，人类又不知悔改地破坏环境，我身上的橙色渐渐变成了红色，又变成了深红色……“嘀！地球将在十秒后爆炸！十，九，八，七，六，……”“完了，一切都完了。”我心中百感交集。</p>
-<p>“叮铃铃！”闹钟响了，原来这是一场梦啊！但我希望，这一切不要在不久的将来发生。人类，醒悟吧！地球能给我们的不多了！</p>
-]]></content>
-      <categories>
-        <category>创作（正经）</category>
-      </categories>
-      <tags>
-        <tag>地球</tag>
-      </tags>
   </entry>
   <entry>
     <title>小区楼道管理倡议书</title>
@@ -186,6 +165,44 @@
       </categories>
       <tags>
         <tag>倡议</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>地球自述</title>
+    <url>/2021/02/02/%E5%9C%B0%E7%90%83%E8%87%AA%E8%BF%B0/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>在一个夜深人静的夜晚，我翻来覆去睡不着，心中就产生了一些想象：如果我是地球，会怎么样呢？想着想着，我就感觉眼皮开始打架……</p>
+<a id="more"></a>
+
+<p>就在那时，我变成了地球。我突然发现我变成成了一个椭圆形的大球，并且我不能再自由活动，只能沿着一条轨道行走。身边是我的兄弟姐妹——水星、木星、火星等，还有我们的父亲——太阳——我们都围着他转动。在这众多星球中，我是最受宠的，因为我有适合生存的环境。仰望天空，是多么深邃，多么遥远，我不禁为我是其中的一员而骄傲。</p>
+<p>啊！怎么回事？我的颜色渐渐变成橙色了！我带着疑问来到了人间，看看到底发生了什么。只见人们到处乱扔垃圾，对垃圾桶不予理睬；各个工厂将污水大量排放进河里，导致一些鱼虾已经无法生存……现在，这些现象出现在每一个角落，遍布全球：长城的高大雄伟已经成为了过去，取而代之的是一大堆垃圾；原本供螃蟹们自由生活的沱湖变得越来越脏，螃蟹们再也生存不下去了，纷纷患病而亡。我不禁伤心地流下了眼泪，心里又气愤又害怕：他们这样做，有没有考虑过我的感受呢？再这样下去，我就快支撑不住了啊！</p>
+<p>我将这里发生的一切告诉了大家，想寻求他们的帮助。听着我的阐述，他们的脸色越来越难看，最后都听不下去了。“一定要做出一些行动才行！不能让他们再这样伤害你！”木星愤怒地低吼道。大家纷纷赞同木星的意见，我也觉得他说得对：不能由他们这样欺负我了，一定要给他们一点教训，这样他们才能醒悟，不再破坏环境。于是，我开始呼风唤雨，在这暴风雨中，家家户户都锁紧了门窗，不敢出来。看着自己的颜色不再变深，我松了口气，让太阳公公出来了。</p>
+<p>可是我惊奇的发现，就在我让天气转晴的那一刻，人类又不知悔改地破坏环境，我身上的橙色渐渐变成了红色，又变成了深红色……“嘀！地球将在十秒后爆炸！十，九，八，七，六，……”“完了，一切都完了。”我心中百感交集。</p>
+<p>“叮铃铃！”闹钟响了，原来这是一场梦啊！但我希望，这一切不要在不久的将来发生。人类，醒悟吧！地球能给我们的不多了！</p>
+]]></content>
+      <categories>
+        <category>创作（正经）</category>
+      </categories>
+      <tags>
+        <tag>地球</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>发现</title>
+    <url>/2021/02/02/%E5%8F%91%E7%8E%B0/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>这世界上有许许多多值得探索的东西，而在生活中，我们也要有一双善于观察的慧眼，去发现世间万物中蕴含的学问。</p>
+<a id="more"></a>
+
+<p>有一次，我在公园散步时，看着路旁的植物，突然对它们产生了兴趣。我一一询问了爸爸，发现这些植物中有南方的也有北方的。我十分奇怪，不知道为什么我们蚌埠有这么多种类不同、生长地区也不同的植物。于是我请教了科学老师。老师笑了笑，对我说：“你先回家猜一猜，明天将你的猜想告诉我，好吗？”“好！”</p>
+<p>那天晚上，我苦苦想了很久，终于想出了些眉目：这是不是因为我们蚌埠处于中国的南北分界线处，什么植物都可以生长？我将这个猜想告诉老师，老师对我说：“不错，你说得完全正确！”我欣喜若狂，因为这是我第一次感受到发现的快乐，而且还知道了一个探究的方法——猜测。</p>
+<p>过了几天，我又发现，墙角有几只无名的小菇顽强地生长着。我被它勾起了好奇心，于是拍了几张照片开始探究。我猜测了种种可能，但是似乎都不成立。我十分绝望，一时不知该怎么办。就在我准备打道回府时，爸爸告诉我：“现在网络这么发达，你可以查资料啊！”我当时如梦初醒，于是抓起手机疯狂的查资料，终于得到了答案。原来那天下了一场大雨，墙角处积了许多水，环境比较潮湿，所以就长出了蘑菇。那时，我又一次感受到发现的快乐，并且又了解了一个探究方法——查资料。</p>
+<p>“啊！”妈妈突然尖叫了一声。原来米里面生了虫子，我仔细地看着那虫子，不知道它是怎么长出来的，于是就又开始探究了。一开始，我从它的外形上开始猜测，没有什么发现，后来，我又结合环境，终于找出了答案。又搜集资料，发现我是对的。我觉得，我好像迈入了自然科学的大门，也初步学会探究了。</p>
+<p>“处处留心皆学问。”我相信，我一定能在今后的探究中，得到更多的知识，更加透彻地发现并理解这个世界。</p>
+]]></content>
+      <categories>
+        <category>创作（正经）</category>
+      </categories>
+      <tags>
+        <tag>发现</tag>
       </tags>
   </entry>
   <entry>
@@ -310,23 +327,6 @@
       </tags>
   </entry>
   <entry>
-    <title>有意思的游戏</title>
-    <url>/2021/02/04/%E6%9C%89%E6%84%8F%E6%80%9D%E7%9A%84%E6%B8%B8%E6%88%8F/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>这次，老师组织了一次有意思的游戏——夹乒乓球。游戏分两组进行，6人一组，给每个人发一双筷子。老师先把乒乓球给第一个人，第一个人夹起球后给第二个人，这样依次传下去，最先传完的一组获胜。规则宣布完毕后，参赛选手们个个摩拳擦掌，跃跃欲试，已经等不及了。</p>
-<a id="more"></a>
-
-<p>“预备……开始！”随着老师的一声令下，两组的组员们都紧张了起来，专心致志地等待着前面的球。只见第一组前面都进行得很顺利，传到小周同学时，球“啪”的一声掉到了地上。组员们都慌了，于是急忙去捡球，生怕第二组超越了他们的进度。尤其是小周同学，他眉头紧皱绷着脸，额头上现出几颗亮晶晶的汗珠，捡球时恨不得趴到地上。他捡起了球，想把它夹住，可是世事难料，他夹了好几次都没夹起来。“加油！你可以的！”旁边传来组员的鼓励声，小周忽然振作了起来，仿佛在说：我一定可以！这一次，他很快就夹起了乒乓球。接着，第一组的同学继续往后传，而此时，第二组只完成了第一组的一半。第一组传到最后一位同学了，前面的同学小心翼翼地夹着，后面的同学小心翼翼地接着，两位同学的手都有些颤抖，生怕球掉地上。同学们都探着头静静等着第一组取得胜利，空气仿佛凝固了，没有人大声说话，也没有人窃窃私语，旁边写作业的同学也停下了笔。“不要犹豫！夹吧！夹住了就胜利了！”小周不禁大喊道。听到这声音，后面的同学也不再犹豫，干脆地夹了过去……</p>
-<p>“胜利了！胜利了！”就在那时，最后一位同学成功接住了球，不禁大声欢呼。全场顿时沸腾了，第一组终于胜利了。</p>
-<p>第一组的胜利，完全来自他们的努力，是他们的认真铸就了他们的辉煌，是他们的团结使其绽放出胜利的火花！</p>
-]]></content>
-      <categories>
-        <category>创作（正经）</category>
-      </categories>
-      <tags>
-        <tag>比赛</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>有你，真好</title>
     <url>/2021/02/04/%E6%9C%89%E4%BD%A0%EF%BC%8C%E7%9C%9F%E5%A5%BD/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>那是一次不同寻常的邂逅。那天，天气如此明朗，空气也格外清新。从那以后，我的心中就充满了阳光，就像那天的阳光一样灿烂，那样美好。</p>
@@ -343,6 +343,39 @@
       </categories>
       <tags>
         <tag>友爱</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>浣溪沙·电脑编程刷题</title>
+    <url>/2021/02/01/%E6%B5%A3%E6%BA%AA%E6%B2%99%C2%B7%E7%94%B5%E8%84%91%E7%BC%96%E7%A8%8B%E5%88%B7%E9%A2%98/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>学习电脑编程，中遇难题，赋词一首：</p>
+<a id="more"></a>
+
+<p>山下师父要AC，总是WA TLE，有时还有MLE。</p>
+<p>谁道人生无CE，测试点全部RE，休将白发唱难题！</p>
+]]></content>
+      <categories>
+        <category>创作（瞎搞）</category>
+      </categories>
+      <tags>
+        <tag>C++</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>有意思的游戏</title>
+    <url>/2021/02/04/%E6%9C%89%E6%84%8F%E6%80%9D%E7%9A%84%E6%B8%B8%E6%88%8F/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>这次，老师组织了一次有意思的游戏——夹乒乓球。游戏分两组进行，6人一组，给每个人发一双筷子。老师先把乒乓球给第一个人，第一个人夹起球后给第二个人，这样依次传下去，最先传完的一组获胜。规则宣布完毕后，参赛选手们个个摩拳擦掌，跃跃欲试，已经等不及了。</p>
+<a id="more"></a>
+
+<p>“预备……开始！”随着老师的一声令下，两组的组员们都紧张了起来，专心致志地等待着前面的球。只见第一组前面都进行得很顺利，传到小周同学时，球“啪”的一声掉到了地上。组员们都慌了，于是急忙去捡球，生怕第二组超越了他们的进度。尤其是小周同学，他眉头紧皱绷着脸，额头上现出几颗亮晶晶的汗珠，捡球时恨不得趴到地上。他捡起了球，想把它夹住，可是世事难料，他夹了好几次都没夹起来。“加油！你可以的！”旁边传来组员的鼓励声，小周忽然振作了起来，仿佛在说：我一定可以！这一次，他很快就夹起了乒乓球。接着，第一组的同学继续往后传，而此时，第二组只完成了第一组的一半。第一组传到最后一位同学了，前面的同学小心翼翼地夹着，后面的同学小心翼翼地接着，两位同学的手都有些颤抖，生怕球掉地上。同学们都探着头静静等着第一组取得胜利，空气仿佛凝固了，没有人大声说话，也没有人窃窃私语，旁边写作业的同学也停下了笔。“不要犹豫！夹吧！夹住了就胜利了！”小周不禁大喊道。听到这声音，后面的同学也不再犹豫，干脆地夹了过去……</p>
+<p>“胜利了！胜利了！”就在那时，最后一位同学成功接住了球，不禁大声欢呼。全场顿时沸腾了，第一组终于胜利了。</p>
+<p>第一组的胜利，完全来自他们的努力，是他们的认真铸就了他们的辉煌，是他们的团结使其绽放出胜利的火花！</p>
+]]></content>
+      <categories>
+        <category>创作（正经）</category>
+      </categories>
+      <tags>
+        <tag>比赛</tag>
       </tags>
   </entry>
   <entry>
@@ -367,19 +400,24 @@
       </tags>
   </entry>
   <entry>
-    <title>浣溪沙·电脑编程刷题</title>
-    <url>/2021/02/01/%E6%B5%A3%E6%BA%AA%E6%B2%99%C2%B7%E7%94%B5%E8%84%91%E7%BC%96%E7%A8%8B%E5%88%B7%E9%A2%98/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>学习电脑编程，中遇难题，赋词一首：</p>
+    <title>爱，就在我身边</title>
+    <url>/2021/02/02/%E7%88%B1%EF%BC%8C%E5%B0%B1%E5%9C%A8%E6%88%91%E8%BA%AB%E8%BE%B9/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>那时我大概三年级吧，下午上体育课，我像平常一样走向操场，突然有几个六年级的大孩子一阵风似的跑了过来，对当时的我来说他们又高又壮，就如一堵人墙。看着他们向我袭来，我愣了一下，没来及躲闪就被他们撞倒了……</p>
+<p>一阵眩晕，一阵头痛，一阵腿疼。</p>
 <a id="more"></a>
 
-<p>山下师父要AC，总是WA TLE，有时还有MLE。</p>
-<p>谁道人生无CE，测试点全部RE，休将白发唱难题！</p>
+<p>当我被撞得头晕眼花、四脚朝天时，他们迟疑了两秒，接着就像什么也没发生一样加快步伐跑了。望着他们远去的背影，我无可奈何，带着这疼痛努力起身。</p>
+<p>这时，几个同班同学发现了我，他们看到了我的伤，小心地把我扶起来，帮我拍拍后背，关切地问道：“你怎么了？”“我……我被高年级的人撞了……”“他们去哪了？”“跑了……”</p>
+<p>面对这回答，大家又是惊讶又是愤怒：“他们怎么能这样呢！”“这也太不讲道理了吧！”“就是，就是！”看着大家都这么为我着急，我想着：他们也要上体育课的啊，不能因为我就耽误他们！于是，我就对他们说：“没事，大家不用担心我，我过一会儿就好了。”可他们却十分坚定：“我们是你的同学啊，怎么能对你的伤坐视不管呢！”“我们先把他送到医务室再想办法吧！”张明提议道。“对，先把他送到医务室再想办法。”大家纷纷赞同。我想我再推辞也没有用了，他们就拉着我的手一瘸一拐地走向医务室。</p>
+<p>到了医务室，大家为我说明情况后，医务室的阿姨开始为我检查身体。大家万分着急，一遍又一遍地催促。半晌后，医务室阿姨对我们说：“没什么大碍，就是皮肉有些伤。”大家都松了口气，接着在一旁陪伴着我治疗。突然，李刚提议道：“我们唱首歌吧！听说唱歌能让伤口治愈得更快呢！”“那我们唱拍手歌吧！”“好啊！”于是大家一起唱了起来：“如果你感到幸福就拍拍手！啪啪！”看着他们这一张张微笑的脸庞，我的眼泪不听我使唤，流了下来……</p>
+<p>一缕春光映在我的脸上，感受着这明媚的春光，我的心中也如沫春风，那么温暖……</p>
+<p>那时，我明白了：爱，就在我身边。</p>
 ]]></content>
       <categories>
-        <category>创作（瞎搞）</category>
+        <category>创作（正经）</category>
       </categories>
       <tags>
-        <tag>C++</tag>
+        <tag>友爱</tag>
       </tags>
   </entry>
   <entry>
@@ -402,40 +440,6 @@
       </tags>
   </entry>
   <entry>
-    <title>爱，就在我身边</title>
-    <url>/2021/02/02/%E7%88%B1%EF%BC%8C%E5%B0%B1%E5%9C%A8%E6%88%91%E8%BA%AB%E8%BE%B9/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>那时我大概三年级吧，下午上体育课，我像平常一样走向操场，突然有几个六年级的大孩子一阵风似的跑了过来，对当时的我来说他们又高又壮，就如一堵人墙。看着他们向我袭来，我愣了一下，没来及躲闪就被他们撞倒了……</p>
-<p>一阵眩晕，一阵头痛，一阵腿疼。</p>
-<a id="more"></a>
-
-<p>当我被撞得头晕眼花、四脚朝天时，他们迟疑了两秒，接着就像什么也没发生一样加快步伐跑了。望着他们远去的背影，我无可奈何，带着这疼痛努力起身。</p>
-<p>这时，几个同班同学发现了我，他们看到了我的伤，小心地把我扶起来，帮我拍拍后背，关切地问道：“你怎么了？”“我……我被高年级的人撞了……”“他们去哪了？”“跑了……”</p>
-<p>面对这回答，大家又是惊讶又是愤怒：“他们怎么能这样呢！”“这也太不讲道理了吧！”“就是，就是！”看着大家都这么为我着急，我想着：他们也要上体育课的啊，不能因为我就耽误他们！于是，我就对他们说：“没事，大家不用担心我，我过一会儿就好了。”可他们却十分坚定：“我们是你的同学啊，怎么能对你的伤坐视不管呢！”“我们先把他送到医务室再想办法吧！”张明提议道。“对，先把他送到医务室再想办法。”大家纷纷赞同。我想我再推辞也没有用了，他们就拉着我的手一瘸一拐地走向医务室。</p>
-<p>到了医务室，大家为我说明情况后，医务室的阿姨开始为我检查身体。大家万分着急，一遍又一遍地催促。半晌后，医务室阿姨对我们说：“没什么大碍，就是皮肉有些伤。”大家都松了口气，接着在一旁陪伴着我治疗。突然，李刚提议道：“我们唱首歌吧！听说唱歌能让伤口治愈得更快呢！”“那我们唱拍手歌吧！”“好啊！”于是大家一起唱了起来：“如果你感到幸福就拍拍手！啪啪！”看着他们这一张张微笑的脸庞，我的眼泪不听我使唤，流了下来……</p>
-<p>一缕春光映在我的脸上，感受着这明媚的春光，我的心中也如沫春风，那么温暖……</p>
-<p>那时，我明白了：爱，就在我身边。</p>
-]]></content>
-      <categories>
-        <category>创作（正经）</category>
-      </categories>
-      <tags>
-        <tag>友爱</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>说明</title>
-    <url>/2021/02/02/%E8%AF%B4%E6%98%8E/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>其实，这些都是我之前的作文。现在我将这些作文贴在博客上，大家有兴趣的话可以看看。</p>
-<p>（当然，请不要介意我作文水平太烂……）</p>
-]]></content>
-      <categories>
-        <category>创作（正经）</category>
-      </categories>
-      <tags>
-        <tag>说明</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>西江月·夜里写作业</title>
     <url>/2021/02/01/%E8%A5%BF%E6%B1%9F%E6%9C%88%C2%B7%E5%A4%9C%E9%87%8C%E5%86%99%E4%BD%9C%E4%B8%9A/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>明月别枝惊鹊，作业写到半夜。</p>
@@ -450,6 +454,19 @@
       </categories>
       <tags>
         <tag>作业</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>说明</title>
+    <url>/2021/02/02/%E8%AF%B4%E6%98%8E/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>其实，这些都是我之前的作文。现在我将这些作文贴在博客上，大家有兴趣的话可以看看。</p>
+<p>（当然，请不要介意我作文水平太烂……）</p>
+]]></content>
+      <categories>
+        <category>创作（正经）</category>
+      </categories>
+      <tags>
+        <tag>说明</tag>
       </tags>
   </entry>
   <entry>
@@ -492,6 +509,21 @@
       </tags>
   </entry>
   <entry>
+    <title>闲不住的奶奶</title>
+    <url>/2021/02/04/%E9%97%B2%E4%B8%8D%E4%BD%8F%E7%9A%84%E5%A5%B6%E5%A5%B6/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>我的奶奶十分勤快，每天都闲不住，一年三百六十五天，没有一小时是闲着的。</p>
+<a id="more"></a>
+
+<p>清晨，奶奶早早地起来，快速地刷牙洗脸，接着开始锻炼身体。“一二三四五六七八，二二三四五六七八，三二……”她围着客厅的茶几小跑着，呼吸均匀，两手前后稍稍摆动，跑得十分标准。过了一会儿，奶奶又开始练太极拳，柔中带刚，虽没有到出神入化的地步，倒有几副架势。<br>早上，该吃早饭了，奶奶开始做饭。她将锅接上水，并从架子上拿出西红柿，烧水的同时切好西红柿，接着熟练地将西红柿放进锅里，进行第一次翻炒。又拿出面条，将面条放进锅里，放些盐和葱，再进行第二次翻炒，短短十分钟就做成了美味的西红柿面。那时，奶奶脸上现出了几颗晶莹的汗珠。她捏了一把汗，满足地看着锅里的面条，似乎对自己做的面条十分满意。<br>吃完面后，你可能会以为奶奶会歇息一会儿，或看一会儿电视。那么你错了，奶奶可没这么轻易“败下阵来”，瞧，她又拿起了针和线，开始织毛衣了。只见她左一针，右一针，每一针都让你担心扎到手指，每一针却又缝得恰到好处。她越织越来劲，彻底地陶醉在其中。于是仅一根针，几团线，就创造出了一件又一件的漂亮的衣服。织完衣服，她又开始织一幅已经织了一半的《万马奔腾》。她还有宏伟设想，要靠她的双手织出更多的画在家里做装饰，甚至对外卖出。<br>到了中午，奶奶又要开始做饭了……<br>这就是我的奶奶，一个闲不住的奶奶。我想，这样闲不住的生活一定会很充实，美好……</p>
+]]></content>
+      <categories>
+        <category>创作（正经）</category>
+      </categories>
+      <tags>
+        <tag>亲人</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>难忘的画面</title>
     <url>/2021/02/04/%E9%9A%BE%E5%BF%98%E7%9A%84%E7%94%BB%E9%9D%A2/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>“加油！加油！”瞧，一年一度的运动会开始了，大家都欢呼雀跃，各路啦啦队不停地加油。现在进行的是跳绳比赛。各位选手都紧紧地着绳子，眉头紧皱，一副蓄势待发的样子，已经等不及了。</p>
@@ -505,21 +537,6 @@
       </categories>
       <tags>
         <tag>场面</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>闲不住的奶奶</title>
-    <url>/2021/02/04/%E9%97%B2%E4%B8%8D%E4%BD%8F%E7%9A%84%E5%A5%B6%E5%A5%B6/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>我的奶奶十分勤快，每天都闲不住，一年三百六十五天，没有一小时是闲着的。</p>
-<a id="more"></a>
-
-<p>清晨，奶奶早早地起来，快速地刷牙洗脸，接着开始锻炼身体。“一二三四五六七八，二二三四五六七八，三二……”她围着客厅的茶几小跑着，呼吸均匀，两手前后稍稍摆动，跑得十分标准。过了一会儿，奶奶又开始练太极拳，柔中带刚，虽没有到出神入化的地步，倒有几副架势。<br>早上，该吃早饭了，奶奶开始做饭。她将锅接上水，并从架子上拿出西红柿，烧水的同时切好西红柿，接着熟练地将西红柿放进锅里，进行第一次翻炒。又拿出面条，将面条放进锅里，放些盐和葱，再进行第二次翻炒，短短十分钟就做成了美味的西红柿面。那时，奶奶脸上现出了几颗晶莹的汗珠。她捏了一把汗，满足地看着锅里的面条，似乎对自己做的面条十分满意。<br>吃完面后，你可能会以为奶奶会歇息一会儿，或看一会儿电视。那么你错了，奶奶可没这么轻易“败下阵来”，瞧，她又拿起了针和线，开始织毛衣了。只见她左一针，右一针，每一针都让你担心扎到手指，每一针却又缝得恰到好处。她越织越来劲，彻底地陶醉在其中。于是仅一根针，几团线，就创造出了一件又一件的漂亮的衣服。织完衣服，她又开始织一幅已经织了一半的《万马奔腾》。她还有宏伟设想，要靠她的双手织出更多的画在家里做装饰，甚至对外卖出。<br>到了中午，奶奶又要开始做饭了……<br>这就是我的奶奶，一个闲不住的奶奶。我想，这样闲不住的生活一定会很充实，美好……</p>
-]]></content>
-      <categories>
-        <category>创作（正经）</category>
-      </categories>
-      <tags>
-        <tag>亲人</tag>
       </tags>
   </entry>
 </search>
