@@ -1,6 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>Footprint</title>
+    <url>/2021/03/01/Footprint/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>It was the heaviest snow this year. I went out when it was dark outside. Snow fell on my hands, and then it became water. There were many footprints on the ground. The whole world was all quiet.</p>
+<a id="more"></a>
+
+<p>Suddenly, the sun rose up. Everything began to wake up. It became brighter and brighter now. The snow was melting. The footprints faded.</p>
+<p>I wanted to leave some footprints on the ground! I wanted everything in the world, such as flowers, grasses, to hear my voice!</p>
+<p>Let the world hear my voice…</p>
+]]></content>
+      <categories>
+        <category>english</category>
+      </categories>
+      <tags>
+        <tag>english</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>2019 CSP-J认证 复赛</title>
     <url>/2021/02/01/2019CSP-J%E8%AE%A4%E8%AF%81%E5%A4%8D%E8%B5%9B/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h4 id="个人信息"><a href="#个人信息" class="headerlink" title="个人信息"></a>个人信息</h4><p>姓名：姚景豪<br>年龄：10岁<br>年级：五年级<br><strong>我是旷课去CSP-J的。</strong></p>
@@ -27,20 +44,18 @@
       </tags>
   </entry>
   <entry>
-    <title>Footprint</title>
-    <url>/2021/03/01/Footprint/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>It was the heaviest snow this year. I went out when it was dark outside. Snow fell on my hands, and then it became water. There were many footprints on the ground. The whole world was all quiet.</p>
+    <title>P1421 小玉买文具</title>
+    <url>/2021/02/01/P1421%E5%B0%8F%E7%8E%89%E4%B9%B0%E6%96%87%E5%85%B7/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><figure class="highlight cpp"><table><tr><td class="code"><pre><span class="line"><span class="meta">#<span class="meta-keyword">include</span> <span class="meta-string">&lt;iostream&gt;</span></span></span><br><span class="line"><span class="keyword">using</span> <span class="keyword">namespace</span> <span class="built_in">std</span>;</span><br><span class="line"><span class="function"><span class="keyword">int</span> <span class="title">main</span><span class="params">()</span></span></span><br><span class="line"><span class="function"></span>&#123;</span><br><span class="line">   <span class="keyword">int</span> a,b,c,d;</span><br><span class="line">   <span class="built_in">cin</span>&gt;&gt;a&gt;&gt;b;     <span class="comment">//输入</span></span><br><span class="line">   c=a*<span class="number">10</span>+b;      <span class="comment">//a以元为单位，b以角为单位，用c将它们统一单位成角，这样便于处理</span></span><br><span class="line">   d=c/<span class="number">19</span>;        <span class="comment">//用d存放能买到的签字笔的支数</span></span><br><span class="line">   <span class="built_in">cout</span>&lt;&lt;d;       <span class="comment">//输出</span></span><br><span class="line">   <span class="keyword">return</span> <span class="number">0</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
 <a id="more"></a>
 
-<p>Suddenly, the sun rose up. Everything began to wake up. It became brighter and brighter now. The snow was melting. The footprints faded.</p>
-<p>I wanted to leave some footprints on the ground! I wanted everything in the world, such as flowers, grasses, to hear my voice!</p>
-<p>Let the world hear my voice…</p>
+<p>这题十分简单，解释都在注释里写过了。唯一需要注意的一点是C++里的除法默认为整除，所以不用担心小数的问题。</p>
 ]]></content>
       <categories>
-        <category>english</category>
+        <category>题解</category>
       </categories>
       <tags>
-        <tag>english</tag>
+        <tag>C++</tag>
       </tags>
   </entry>
   <entry>
@@ -52,36 +67,6 @@
 <h3 id="我还是写了！"><a href="#我还是写了！" class="headerlink" title="我还是写了！"></a>我还是写了！</h3><p>请看下面这段不值得一看的代码。</p>
 <figure class="highlight cpp"><table><tr><td class="code"><pre><span class="line"><span class="meta">#<span class="meta-keyword">include</span> <span class="meta-string">&lt;iostream&gt;</span></span></span><br><span class="line"><span class="keyword">using</span> <span class="keyword">namespace</span> <span class="built_in">std</span>;</span><br><span class="line"><span class="function"><span class="keyword">int</span> <span class="title">main</span><span class="params">()</span></span></span><br><span class="line"><span class="function"></span>&#123;</span><br><span class="line">	<span class="built_in">cout</span>&lt;&lt;<span class="string">&quot;                ********&quot;</span>&lt;&lt;<span class="built_in">endl</span>;</span><br><span class="line">	<span class="built_in">cout</span>&lt;&lt;<span class="string">&quot;               ************&quot;</span>&lt;&lt;<span class="built_in">endl</span>;</span><br><span class="line">	<span class="built_in">cout</span>&lt;&lt;<span class="string">&quot;               ####....#.&quot;</span>&lt;&lt;<span class="built_in">endl</span>;</span><br><span class="line">	<span class="built_in">cout</span>&lt;&lt;<span class="string">&quot;             #..###.....##....&quot;</span>&lt;&lt;<span class="built_in">endl</span>;</span><br><span class="line">	<span class="built_in">cout</span>&lt;&lt;<span class="string">&quot;             ###.......######              ###            ###&quot;</span>&lt;&lt;<span class="built_in">endl</span>;</span><br><span class="line">	<span class="built_in">cout</span>&lt;&lt;<span class="string">&quot;                ...........               #...#          #...#&quot;</span>&lt;&lt;<span class="built_in">endl</span>;</span><br><span class="line">	<span class="built_in">cout</span>&lt;&lt;<span class="string">&quot;               ##*#######                 #.#.#          #.#.#&quot;</span>&lt;&lt;<span class="built_in">endl</span>;</span><br><span class="line">	<span class="built_in">cout</span>&lt;&lt;<span class="string">&quot;            ####*******######             #.#.#          #.#.#&quot;</span>&lt;&lt;<span class="built_in">endl</span>;</span><br><span class="line">	<span class="built_in">cout</span>&lt;&lt;<span class="string">&quot;           ...#***.****.*###....          #...#          #...#&quot;</span>&lt;&lt;<span class="built_in">endl</span>;</span><br><span class="line">	<span class="built_in">cout</span>&lt;&lt;<span class="string">&quot;           ....**********##.....           ###            ###&quot;</span>&lt;&lt;<span class="built_in">endl</span>;</span><br><span class="line">	<span class="built_in">cout</span>&lt;&lt;<span class="string">&quot;           ....****    *****....&quot;</span>&lt;&lt;<span class="built_in">endl</span>;</span><br><span class="line">	<span class="built_in">cout</span>&lt;&lt;<span class="string">&quot;             ####        ####&quot;</span>&lt;&lt;<span class="built_in">endl</span>;</span><br><span class="line">	<span class="built_in">cout</span>&lt;&lt;<span class="string">&quot;           ######        ######&quot;</span>&lt;&lt;<span class="built_in">endl</span>;</span><br><span class="line">	<span class="built_in">cout</span>&lt;&lt;<span class="string">&quot;##############################################################&quot;</span>&lt;&lt;<span class="built_in">endl</span>;</span><br><span class="line">	<span class="built_in">cout</span>&lt;&lt;<span class="string">&quot;#...#......#.##...#......#.##...#......#.##------------------#&quot;</span>&lt;&lt;<span class="built_in">endl</span>;</span><br><span class="line">	<span class="built_in">cout</span>&lt;&lt;<span class="string">&quot;###########################################------------------#&quot;</span>&lt;&lt;<span class="built_in">endl</span>;</span><br><span class="line">	<span class="built_in">cout</span>&lt;&lt;<span class="string">&quot;#..#....#....##..#....#....##..#....#....#####################&quot;</span>&lt;&lt;<span class="built_in">endl</span>;</span><br><span class="line">	<span class="built_in">cout</span>&lt;&lt;<span class="string">&quot;##########################################    #----------#&quot;</span>&lt;&lt;<span class="built_in">endl</span>;</span><br><span class="line">	<span class="built_in">cout</span>&lt;&lt;<span class="string">&quot;#.....#......##.....#......##.....#......#    #----------#&quot;</span>&lt;&lt;<span class="built_in">endl</span>;</span><br><span class="line">	<span class="built_in">cout</span>&lt;&lt;<span class="string">&quot;##########################################    #----------#&quot;</span>&lt;&lt;<span class="built_in">endl</span>;</span><br><span class="line">	<span class="built_in">cout</span>&lt;&lt;<span class="string">&quot;#.#..#....#..##.#..#....#..##.#..#....#..#    #----------#&quot;</span>&lt;&lt;<span class="built_in">endl</span>;</span><br><span class="line">	<span class="built_in">cout</span>&lt;&lt;<span class="string">&quot;##########################################    ############&quot;</span>;</span><br><span class="line">	<span class="keyword">return</span> <span class="number">0</span>;</span><br><span class="line">&#125;</span><br><span class="line"></span><br></pre></td></tr></table></figure>
 <p>这题我就不写注释了，写了也没人看……</p>
-]]></content>
-      <categories>
-        <category>题解</category>
-      </categories>
-      <tags>
-        <tag>C++</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>P1001 A+B Problem</title>
-    <url>/2021/02/01/P1001A+BProblem/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><figure class="highlight cpp"><table><tr><td class="code"><pre><span class="line"><span class="meta">#<span class="meta-keyword">include</span> <span class="meta-string">&lt;iostream&gt; //头文件</span></span></span><br><span class="line"><span class="keyword">using</span> <span class="keyword">namespace</span> <span class="built_in">std</span>;<span class="comment">//命名空间</span></span><br><span class="line"><span class="function"><span class="keyword">int</span> <span class="title">main</span><span class="params">()</span>          <span class="comment">//主函数  </span></span></span><br><span class="line"><span class="function"></span>&#123;</span><br><span class="line">	<span class="keyword">int</span> a,b;        <span class="comment">//int定义a和b</span></span><br><span class="line">	<span class="built_in">cin</span>&gt;&gt;a&gt;&gt;b;      <span class="comment">//输入a和b</span></span><br><span class="line">	<span class="built_in">cout</span>&lt;&lt;a+b&lt;&lt;<span class="built_in">endl</span>;<span class="comment">//利用加号运算符将a和b加在一起并输出、换行</span></span><br><span class="line">	<span class="keyword">return</span> <span class="number">0</span>;       <span class="comment">//主函数返回0（表示程序正常运行结束）</span></span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
-<a id="more"></a>
-
-<p>最简单的a+b问题，你看懂了吗？</p>
-]]></content>
-      <categories>
-        <category>题解</category>
-      </categories>
-      <tags>
-        <tag>C++</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>P1421 小玉买文具</title>
-    <url>/2021/02/01/P1421%E5%B0%8F%E7%8E%89%E4%B9%B0%E6%96%87%E5%85%B7/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><figure class="highlight cpp"><table><tr><td class="code"><pre><span class="line"><span class="meta">#<span class="meta-keyword">include</span> <span class="meta-string">&lt;iostream&gt;</span></span></span><br><span class="line"><span class="keyword">using</span> <span class="keyword">namespace</span> <span class="built_in">std</span>;</span><br><span class="line"><span class="function"><span class="keyword">int</span> <span class="title">main</span><span class="params">()</span></span></span><br><span class="line"><span class="function"></span>&#123;</span><br><span class="line">   <span class="keyword">int</span> a,b,c,d;</span><br><span class="line">   <span class="built_in">cin</span>&gt;&gt;a&gt;&gt;b;     <span class="comment">//输入</span></span><br><span class="line">   c=a*<span class="number">10</span>+b;      <span class="comment">//a以元为单位，b以角为单位，用c将它们统一单位成角，这样便于处理</span></span><br><span class="line">   d=c/<span class="number">19</span>;        <span class="comment">//用d存放能买到的签字笔的支数</span></span><br><span class="line">   <span class="built_in">cout</span>&lt;&lt;d;       <span class="comment">//输出</span></span><br><span class="line">   <span class="keyword">return</span> <span class="number">0</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
-<a id="more"></a>
-
-<p>这题十分简单，解释都在注释里写过了。唯一需要注意的一点是C++里的除法默认为整除，所以不用担心小数的问题。</p>
 ]]></content>
       <categories>
         <category>题解</category>
@@ -123,15 +108,38 @@
       </tags>
   </entry>
   <entry>
-    <title>刷题网站</title>
-    <url>/2021/02/13/%E5%88%B7%E9%A2%98%E7%BD%91%E7%AB%99/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p><strong>推荐几个刷题网站：</strong></p>
-<p>包含几个题库的大题库：<a href="https://www.luogu.com.cn/">洛谷</a></p>
-<p>题目难，有一定的基础才能刷的题库：<a href="http://codeforces.com/">Codeforces</a> <a href="https://atcoder.jp/">AtCoder</a></p>
-<p>北京大学官方题库：<a href="http://poj.org/">PKU</a></p>
-<p>杭电大学官方题库：<a href="http://acm.hdu.edu.cn/">HDU</a></p>
-<p><em>继续更新中……</em></p>
+    <title>P1001 A+B Problem</title>
+    <url>/2021/02/01/P1001A+BProblem/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><figure class="highlight cpp"><table><tr><td class="code"><pre><span class="line"><span class="meta">#<span class="meta-keyword">include</span> <span class="meta-string">&lt;iostream&gt; //头文件</span></span></span><br><span class="line"><span class="keyword">using</span> <span class="keyword">namespace</span> <span class="built_in">std</span>;<span class="comment">//命名空间</span></span><br><span class="line"><span class="function"><span class="keyword">int</span> <span class="title">main</span><span class="params">()</span>          <span class="comment">//主函数  </span></span></span><br><span class="line"><span class="function"></span>&#123;</span><br><span class="line">	<span class="keyword">int</span> a,b;        <span class="comment">//int定义a和b</span></span><br><span class="line">	<span class="built_in">cin</span>&gt;&gt;a&gt;&gt;b;      <span class="comment">//输入a和b</span></span><br><span class="line">	<span class="built_in">cout</span>&lt;&lt;a+b&lt;&lt;<span class="built_in">endl</span>;<span class="comment">//利用加号运算符将a和b加在一起并输出、换行</span></span><br><span class="line">	<span class="keyword">return</span> <span class="number">0</span>;       <span class="comment">//主函数返回0（表示程序正常运行结束）</span></span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+<a id="more"></a>
+
+<p>最简单的a+b问题，你看懂了吗？</p>
 ]]></content>
+      <categories>
+        <category>题解</category>
+      </categories>
+      <tags>
+        <tag>C++</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>地球自述</title>
+    <url>/2021/02/02/%E5%9C%B0%E7%90%83%E8%87%AA%E8%BF%B0/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>在一个夜深人静的夜晚，我翻来覆去睡不着，心中就产生了一些想象：如果我是地球，会怎么样呢？想着想着，我就感觉眼皮开始打架……</p>
+<a id="more"></a>
+
+<p>就在那时，我变成了地球。我突然发现我变成成了一个椭圆形的大球，并且我不能再自由活动，只能沿着一条轨道行走。身边是我的兄弟姐妹——水星、木星、火星等，还有我们的父亲——太阳——我们都围着他转动。在这众多星球中，我是最受宠的，因为我有适合生存的环境。仰望天空，是多么深邃，多么遥远，我不禁为我是其中的一员而骄傲。</p>
+<p>啊！怎么回事？我的颜色渐渐变成橙色了！我带着疑问来到了人间，看看到底发生了什么。只见人们到处乱扔垃圾，对垃圾桶不予理睬；各个工厂将污水大量排放进河里，导致一些鱼虾已经无法生存……现在，这些现象出现在每一个角落，遍布全球：长城的高大雄伟已经成为了过去，取而代之的是一大堆垃圾；原本供螃蟹们自由生活的沱湖变得越来越脏，螃蟹们再也生存不下去了，纷纷患病而亡。我不禁伤心地流下了眼泪，心里又气愤又害怕：他们这样做，有没有考虑过我的感受呢？再这样下去，我就快支撑不住了啊！</p>
+<p>我将这里发生的一切告诉了大家，想寻求他们的帮助。听着我的阐述，他们的脸色越来越难看，最后都听不下去了。“一定要做出一些行动才行！不能让他们再这样伤害你！”木星愤怒地低吼道。大家纷纷赞同木星的意见，我也觉得他说得对：不能由他们这样欺负我了，一定要给他们一点教训，这样他们才能醒悟，不再破坏环境。于是，我开始呼风唤雨，在这暴风雨中，家家户户都锁紧了门窗，不敢出来。看着自己的颜色不再变深，我松了口气，让太阳公公出来了。</p>
+<p>可是我惊奇的发现，就在我让天气转晴的那一刻，人类又不知悔改地破坏环境，我身上的橙色渐渐变成了红色，又变成了深红色……“嘀！地球将在十秒后爆炸！十，九，八，七，六，……”“完了，一切都完了。”我心中百感交集。</p>
+<p>“叮铃铃！”闹钟响了，原来这是一场梦啊！但我希望，这一切不要在不久的将来发生。人类，醒悟吧！地球能给我们的不多了！</p>
+]]></content>
+      <categories>
+        <category>创作（正经）</category>
+      </categories>
+      <tags>
+        <tag>地球</tag>
+      </tags>
   </entry>
   <entry>
     <title>发现</title>
@@ -151,6 +159,17 @@
       <tags>
         <tag>发现</tag>
       </tags>
+  </entry>
+  <entry>
+    <title>刷题网站</title>
+    <url>/2021/02/13/%E5%88%B7%E9%A2%98%E7%BD%91%E7%AB%99/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p><strong>推荐几个刷题网站：</strong></p>
+<p>包含几个题库的大题库：<a href="https://www.luogu.com.cn/">洛谷</a></p>
+<p>题目难，有一定的基础才能刷的题库：<a href="http://codeforces.com/">Codeforces</a> <a href="https://atcoder.jp/">AtCoder</a></p>
+<p>北京大学官方题库：<a href="http://poj.org/">PKU</a></p>
+<p>杭电大学官方题库：<a href="http://acm.hdu.edu.cn/">HDU</a></p>
+<p><em>继续更新中……</em></p>
+]]></content>
   </entry>
   <entry>
     <title>小区楼道管理倡议书</title>
@@ -187,22 +206,28 @@
       </tags>
   </entry>
   <entry>
-    <title>地球自述</title>
-    <url>/2021/02/02/%E5%9C%B0%E7%90%83%E8%87%AA%E8%BF%B0/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>在一个夜深人静的夜晚，我翻来覆去睡不着，心中就产生了一些想象：如果我是地球，会怎么样呢？想着想着，我就感觉眼皮开始打架……</p>
+    <title>成长</title>
+    <url>/2021/02/02/%E6%88%90%E9%95%BF/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>人生，就是为了成长，让自己更强大。我一直在努力地成长。</p>
+<p>一切都发生在一个重阳节——那天，我成长了许多。</p>
 <a id="more"></a>
 
-<p>就在那时，我变成了地球。我突然发现我变成成了一个椭圆形的大球，并且我不能再自由活动，只能沿着一条轨道行走。身边是我的兄弟姐妹——水星、木星、火星等，还有我们的父亲——太阳——我们都围着他转动。在这众多星球中，我是最受宠的，因为我有适合生存的环境。仰望天空，是多么深邃，多么遥远，我不禁为我是其中的一员而骄傲。</p>
-<p>啊！怎么回事？我的颜色渐渐变成橙色了！我带着疑问来到了人间，看看到底发生了什么。只见人们到处乱扔垃圾，对垃圾桶不予理睬；各个工厂将污水大量排放进河里，导致一些鱼虾已经无法生存……现在，这些现象出现在每一个角落，遍布全球：长城的高大雄伟已经成为了过去，取而代之的是一大堆垃圾；原本供螃蟹们自由生活的沱湖变得越来越脏，螃蟹们再也生存不下去了，纷纷患病而亡。我不禁伤心地流下了眼泪，心里又气愤又害怕：他们这样做，有没有考虑过我的感受呢？再这样下去，我就快支撑不住了啊！</p>
-<p>我将这里发生的一切告诉了大家，想寻求他们的帮助。听着我的阐述，他们的脸色越来越难看，最后都听不下去了。“一定要做出一些行动才行！不能让他们再这样伤害你！”木星愤怒地低吼道。大家纷纷赞同木星的意见，我也觉得他说得对：不能由他们这样欺负我了，一定要给他们一点教训，这样他们才能醒悟，不再破坏环境。于是，我开始呼风唤雨，在这暴风雨中，家家户户都锁紧了门窗，不敢出来。看着自己的颜色不再变深，我松了口气，让太阳公公出来了。</p>
-<p>可是我惊奇的发现，就在我让天气转晴的那一刻，人类又不知悔改地破坏环境，我身上的橙色渐渐变成了红色，又变成了深红色……“嘀！地球将在十秒后爆炸！十，九，八，七，六，……”“完了，一切都完了。”我心中百感交集。</p>
-<p>“叮铃铃！”闹钟响了，原来这是一场梦啊！但我希望，这一切不要在不久的将来发生。人类，醒悟吧！地球能给我们的不多了！</p>
+<p><strong>一份对老师的问候</strong></p>
+<p>那天早上，我来到了学校。在走廊中，我遇到了老师，看着她那副面孔——那是多么熟悉，我突然有些望而却步：我之前见人从来不打招呼的。“老师马上就要走过去了……我还能对她置之不理吗……不行，这样做不对，最好还是打一声招呼……对，不管结果怎样，就这么做！”于是走到她的面前，犹豫了一下，最终还是说出：“老师好！您今天好吗？”老师面带微笑，温和地对我说：“早上好，姚景豪！我很好，谢谢！”</p>
+<p>那时，我释然了。几年来，我终于说出了那句话，也体会到了问候别人的快乐。我想，我成长了，因为我学会了问候。</p>
+<p><strong>一份对同学的帮助</strong></p>
+<p>在第二节课的课间，语文课代表抱着一摞作业走向教室。显然，他十分卖力，但作业却不听使唤，一本一本地掉了下来，他只能将作业放在地上，捡起落在地上的作业。看着他这么困难，我有些于心不忍，于是，我走向那位同学，对他说：“我帮你抱一些吧！”说罢我将大半的作业抱了起来，送向教室。那时，他对我投向了感激的目光：“谢谢你！”</p>
+<p>我没有回头，但我却感到一股暖流涌上我的心头，这应该就是帮助他人的快乐吧。我想，我成长了，因为我学会了帮助。</p>
+<p><strong>一份对亲人的祝福</strong></p>
+<p>那天晚上，我们和爷爷奶奶等其他老人进行了家庭聚会。在聚会之前，爸爸妈妈告诉我和表姐要用几句话祝福老人们。聚会开始了。表姐十分大方地祝福了老人们：“祝大家福如东海，寿比南山！”大家都十分高兴，接连为她鼓掌。该我了，当时我不仅十分胆怯，还一时想不起来该说什么了。“我到底该怎么办呢？”我有些惊慌失措，“但是不祝福就是对老人们的不尊敬啊！”于是我也不顾结果怎样，干脆地站了起来，说道：“祝大家万事如意……阖家幸福！”随即，一阵阵排山倒海的掌声传到我的耳边，我简直不敢相信，我做到了！！</p>
+<p>这简短的祝福，我终于克服了它！原来祝福别人并没有这么难！我想，我成长了，因为我学会了祝福。</p>
+<p>短短的一天，我学会了问候、帮助和祝福。而成长可不止这一天，它如一条线贯穿我的一生，无时无刻陪伴在我身边。我坚信，只要我勇于克服困难，努力成长，定能披荆斩棘，走向美好的未来！</p>
 ]]></content>
       <categories>
         <category>创作（正经）</category>
       </categories>
       <tags>
-        <tag>地球</tag>
+        <tag>成长</tag>
       </tags>
   </entry>
   <entry>
@@ -241,31 +266,6 @@
 <p>但是，我的朋友找到了方向，每天做1篇阅读，5道奥数练习题，而他这样坚持了一年，却一点效果都没有，在测验中屡次失利，反倒让他失去了信心。这是为什么呢？问题就在于他在做题的时候，从来都不管他做得对不对，做完就敷衍了事，而且用了很长的时间。</p>
 <p>对，成长还在于效率。坚持只是成长的一方面，如果你找到方向并且坚持了，但从来不追求效率，那是也永远不可能进步的，更别提成长了。</p>
 <p>因此，成长在于方向、坚持和效率。做到了这三点，那么恭喜你，你成长了！</p>
-]]></content>
-      <categories>
-        <category>创作（正经）</category>
-      </categories>
-      <tags>
-        <tag>成长</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>成长</title>
-    <url>/2021/02/02/%E6%88%90%E9%95%BF/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>人生，就是为了成长，让自己更强大。我一直在努力地成长。</p>
-<p>一切都发生在一个重阳节——那天，我成长了许多。</p>
-<a id="more"></a>
-
-<p><strong>一份对老师的问候</strong></p>
-<p>那天早上，我来到了学校。在走廊中，我遇到了老师，看着她那副面孔——那是多么熟悉，我突然有些望而却步：我之前见人从来不打招呼的。“老师马上就要走过去了……我还能对她置之不理吗……不行，这样做不对，最好还是打一声招呼……对，不管结果怎样，就这么做！”于是走到她的面前，犹豫了一下，最终还是说出：“老师好！您今天好吗？”老师面带微笑，温和地对我说：“早上好，姚景豪！我很好，谢谢！”</p>
-<p>那时，我释然了。几年来，我终于说出了那句话，也体会到了问候别人的快乐。我想，我成长了，因为我学会了问候。</p>
-<p><strong>一份对同学的帮助</strong></p>
-<p>在第二节课的课间，语文课代表抱着一摞作业走向教室。显然，他十分卖力，但作业却不听使唤，一本一本地掉了下来，他只能将作业放在地上，捡起落在地上的作业。看着他这么困难，我有些于心不忍，于是，我走向那位同学，对他说：“我帮你抱一些吧！”说罢我将大半的作业抱了起来，送向教室。那时，他对我投向了感激的目光：“谢谢你！”</p>
-<p>我没有回头，但我却感到一股暖流涌上我的心头，这应该就是帮助他人的快乐吧。我想，我成长了，因为我学会了帮助。</p>
-<p><strong>一份对亲人的祝福</strong></p>
-<p>那天晚上，我们和爷爷奶奶等其他老人进行了家庭聚会。在聚会之前，爸爸妈妈告诉我和表姐要用几句话祝福老人们。聚会开始了。表姐十分大方地祝福了老人们：“祝大家福如东海，寿比南山！”大家都十分高兴，接连为她鼓掌。该我了，当时我不仅十分胆怯，还一时想不起来该说什么了。“我到底该怎么办呢？”我有些惊慌失措，“但是不祝福就是对老人们的不尊敬啊！”于是我也不顾结果怎样，干脆地站了起来，说道：“祝大家万事如意……阖家幸福！”随即，一阵阵排山倒海的掌声传到我的耳边，我简直不敢相信，我做到了！！</p>
-<p>这简短的祝福，我终于克服了它！原来祝福别人并没有这么难！我想，我成长了，因为我学会了祝福。</p>
-<p>短短的一天，我学会了问候、帮助和祝福。而成长可不止这一天，它如一条线贯穿我的一生，无时无刻陪伴在我身边。我坚信，只要我勇于克服困难，努力成长，定能披荆斩棘，走向美好的未来！</p>
 ]]></content>
       <categories>
         <category>创作（正经）</category>
@@ -363,6 +363,46 @@
       </tags>
   </entry>
   <entry>
+    <title>梦想</title>
+    <url>/2021/03/16/%E6%A2%A6%E6%83%B3/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>梦想，</p>
+<p>像一缕阳光，</p>
+<p>照亮我的心房。</p>
+<p>梦想，</p>
+<p>像一张船帆，</p>
+<p>载我扬帆起航。</p>
+<p>梦想，</p>
+<p>像一副翅膀，</p>
+<p>带我尽情飞翔。</p>
+<p>梦想，</p>
+<p>它永远活在心中，</p>
+<p>是心之所向，</p>
+<p>诗和远方！</p>
+]]></content>
+      <categories>
+        <category>诗词</category>
+      </categories>
+      <tags>
+        <tag>梦想</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>浣溪沙·电脑编程刷题</title>
+    <url>/2021/02/01/%E6%B5%A3%E6%BA%AA%E6%B2%99%C2%B7%E7%94%B5%E8%84%91%E7%BC%96%E7%A8%8B%E5%88%B7%E9%A2%98/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>学习电脑编程，中遇难题，赋词一首：</p>
+<a id="more"></a>
+
+<p>山下师父要AC，总是WA TLE，有时还有MLE。</p>
+<p>谁道人生无CE，测试点全部RE，休将白发唱难题！</p>
+]]></content>
+      <categories>
+        <category>创作（瞎搞）</category>
+      </categories>
+      <tags>
+        <tag>C++</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>泪</title>
     <url>/2021/02/04/%E6%B3%AA/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>泪，是情感的表现。上天给了我眼泪，让我记录人生中最重要的瞬间。</p>
@@ -381,22 +421,6 @@
       </categories>
       <tags>
         <tag>泪</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>浣溪沙·电脑编程刷题</title>
-    <url>/2021/02/01/%E6%B5%A3%E6%BA%AA%E6%B2%99%C2%B7%E7%94%B5%E8%84%91%E7%BC%96%E7%A8%8B%E5%88%B7%E9%A2%98/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>学习电脑编程，中遇难题，赋词一首：</p>
-<a id="more"></a>
-
-<p>山下师父要AC，总是WA TLE，有时还有MLE。</p>
-<p>谁道人生无CE，测试点全部RE，休将白发唱难题！</p>
-]]></content>
-      <categories>
-        <category>创作（瞎搞）</category>
-      </categories>
-      <tags>
-        <tag>C++</tag>
       </tags>
   </entry>
   <entry>
@@ -440,6 +464,19 @@
       </tags>
   </entry>
   <entry>
+    <title>说明</title>
+    <url>/2021/02/02/%E8%AF%B4%E6%98%8E/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>其实，这些都是我之前的作文。现在我将这些作文贴在博客上，大家有兴趣的话可以看看。</p>
+<p>（当然，请不要介意我作文水平太烂……）</p>
+]]></content>
+      <categories>
+        <category>创作（正经）</category>
+      </categories>
+      <tags>
+        <tag>说明</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>西江月·夜里写作业</title>
     <url>/2021/02/01/%E8%A5%BF%E6%B1%9F%E6%9C%88%C2%B7%E5%A4%9C%E9%87%8C%E5%86%99%E4%BD%9C%E4%B8%9A/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>明月别枝惊鹊，作业写到半夜。</p>
@@ -454,19 +491,6 @@
       </categories>
       <tags>
         <tag>作业</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>说明</title>
-    <url>/2021/02/02/%E8%AF%B4%E6%98%8E/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>其实，这些都是我之前的作文。现在我将这些作文贴在博客上，大家有兴趣的话可以看看。</p>
-<p>（当然，请不要介意我作文水平太烂……）</p>
-]]></content>
-      <categories>
-        <category>创作（正经）</category>
-      </categories>
-      <tags>
-        <tag>说明</tag>
       </tags>
   </entry>
   <entry>
