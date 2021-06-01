@@ -76,21 +76,6 @@
       </tags>
   </entry>
   <entry>
-    <title>P1421 小玉买文具</title>
-    <url>/2021/02/01/P1421%E5%B0%8F%E7%8E%89%E4%B9%B0%E6%96%87%E5%85%B7/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><figure class="highlight cpp"><table><tr><td class="code"><pre><span class="line"><span class="meta">#<span class="meta-keyword">include</span> <span class="meta-string">&lt;iostream&gt;</span></span></span><br><span class="line"><span class="keyword">using</span> <span class="keyword">namespace</span> <span class="built_in">std</span>;</span><br><span class="line"><span class="function"><span class="keyword">int</span> <span class="title">main</span><span class="params">()</span></span></span><br><span class="line"><span class="function"></span>&#123;</span><br><span class="line">   <span class="keyword">int</span> a,b,c,d;</span><br><span class="line">   <span class="built_in">cin</span>&gt;&gt;a&gt;&gt;b;     <span class="comment">//输入</span></span><br><span class="line">   c=a*<span class="number">10</span>+b;      <span class="comment">//a以元为单位，b以角为单位，用c将它们统一单位成角，这样便于处理</span></span><br><span class="line">   d=c/<span class="number">19</span>;        <span class="comment">//用d存放能买到的签字笔的支数</span></span><br><span class="line">   <span class="built_in">cout</span>&lt;&lt;d;       <span class="comment">//输出</span></span><br><span class="line">   <span class="keyword">return</span> <span class="number">0</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
-<a id="more"></a>
-
-<p>这题十分简单，解释都在注释里写过了。唯一需要注意的一点是C++里的除法默认为整除，所以不用担心小数的问题。</p>
-]]></content>
-      <categories>
-        <category>题解</category>
-      </categories>
-      <tags>
-        <tag>C++</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>下棋让生活更美好</title>
     <url>/2021/02/04/%E4%B8%8B%E6%A3%8B%E8%AE%A9%E7%94%9F%E6%B4%BB%E6%9B%B4%E7%BE%8E%E5%A5%BD/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>记得那天，是数学成绩公布的日子。发试卷时，老师读到：“徐嘉一，100分！姚景豪，80分，严重退步！”</p>
@@ -103,6 +88,21 @@
       </categories>
       <tags>
         <tag>爱好</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>P1421 小玉买文具</title>
+    <url>/2021/02/01/P1421%E5%B0%8F%E7%8E%89%E4%B9%B0%E6%96%87%E5%85%B7/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><figure class="highlight cpp"><table><tr><td class="code"><pre><span class="line"><span class="meta">#<span class="meta-keyword">include</span> <span class="meta-string">&lt;iostream&gt;</span></span></span><br><span class="line"><span class="keyword">using</span> <span class="keyword">namespace</span> <span class="built_in">std</span>;</span><br><span class="line"><span class="function"><span class="keyword">int</span> <span class="title">main</span><span class="params">()</span></span></span><br><span class="line"><span class="function"></span>&#123;</span><br><span class="line">   <span class="keyword">int</span> a,b,c,d;</span><br><span class="line">   <span class="built_in">cin</span>&gt;&gt;a&gt;&gt;b;     <span class="comment">//输入</span></span><br><span class="line">   c=a*<span class="number">10</span>+b;      <span class="comment">//a以元为单位，b以角为单位，用c将它们统一单位成角，这样便于处理</span></span><br><span class="line">   d=c/<span class="number">19</span>;        <span class="comment">//用d存放能买到的签字笔的支数</span></span><br><span class="line">   <span class="built_in">cout</span>&lt;&lt;d;       <span class="comment">//输出</span></span><br><span class="line">   <span class="keyword">return</span> <span class="number">0</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+<a id="more"></a>
+
+<p>这题十分简单，解释都在注释里写过了。唯一需要注意的一点是C++里的除法默认为整除，所以不用担心小数的问题。</p>
+]]></content>
+      <categories>
+        <category>题解</category>
+      </categories>
+      <tags>
+        <tag>C++</tag>
       </tags>
   </entry>
   <entry>
@@ -253,6 +253,24 @@
       </tags>
   </entry>
   <entry>
+    <title>我的拿手好戏</title>
+    <url>/2021/02/04/%E6%88%91%E7%9A%84%E6%8B%BF%E6%89%8B%E5%A5%BD%E6%88%8F/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>“成功了！我成功了！”瞧，我又成功地完成了招式，高兴得合不拢嘴。我想，玩悠悠球是我最大的乐趣。而怎么学会悠悠球的，还得从头说起。</p>
+<a id="more"></a>
+
+<p>想当初学悠悠球，根本没有老师教我，完全是我出于兴趣自己练习学会的。我之前从电视上看到过悠悠球，并很快就爱上了它。于是我自己就买了一个，接着就看视频不停地练习。短短几个月，我就练成了。</p>
+<p>有一次，学校要举行一次才艺表演，我报名参加了。从那以后，我就一直练习，已经到了出神入化的地步。</p>
+<p>比赛那天，我兴奋地做好准备，已经等不及了。该我上场了。我大步迈向舞台，舞台上金光闪闪，一道道灯光打在我的脸上，排山倒海的掌声向我袭来。我又激动又紧张，一时竟语塞说不出话来。“那么请开始你的表演。”随着主持人的宣布，我抛出了悠悠球，眼睛紧紧地盯着悠悠球，指尖在线上飞舞着，做出一系列十分连贯的动作，嘴里还不停地念叨着：“水平转！天外银龙！……”到此为止，演出还十分顺利，我的表演让观众眼花缭乱、瞠目结舌，掌声一阵又一阵。表演进入了高潮，我大喊一声：“龙啸九天！”将这个动作做了几遍以后，突然，我假装失误，悠悠球落到了地上。那一刻，全场都轰动了起来。其中有一个孩子看得正在兴致呢，看我失误了，立刻泄了气，一副十分失落的样子。正当大家认为我必定失败的时候，我却镇定自若，嘴角露出了一丝微笑。接着，我立即编好绳线，并把球快速地搭到了线上，那球不但没停，反而转得更快了。那时，大家惊呆了，纷纷鼓掌，大家惊讶之余我又做完了剩下的招式，行云流水的操作赢得大家更热烈的掌声。比赛结束那一刻，全场都沸腾了，所有人都不停地鼓掌，手掌都拍麻了。“胜利了！胜利了！”我喜上眉梢，眼中露出一丝骄傲与满足。我一手拿着奖杯，另一只手不停地向台下的观众们招手，心中满是欣喜和自豪。</p>
+<p>是的，悠悠球，它就是我的拿手好戏。我相信，只要我继续努力，我一定能玩得更好！</p>
+]]></content>
+      <categories>
+        <category>创作（正经）</category>
+      </categories>
+      <tags>
+        <tag>爱好</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>我好想成长</title>
     <url>/2021/02/04/%E6%88%91%E5%A5%BD%E6%83%B3%E6%88%90%E9%95%BF/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>成长是一件很不容易的事情，它不单单只是岁数的增长，还有身高、体重、心理、智慧……很多方面都能见证你是否成长了。而成长在我们的认知看来，成长也是神圣的、美好的。“我好想成长！”是我们每个小孩子的心声。而我们怎样才能成长起来呢？</p>
@@ -272,43 +290,6 @@
       </categories>
       <tags>
         <tag>成长</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>我的拿手好戏</title>
-    <url>/2021/02/04/%E6%88%91%E7%9A%84%E6%8B%BF%E6%89%8B%E5%A5%BD%E6%88%8F/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>“成功了！我成功了！”瞧，我又成功地完成了招式，高兴得合不拢嘴。我想，玩悠悠球是我最大的乐趣。而怎么学会悠悠球的，还得从头说起。</p>
-<a id="more"></a>
-
-<p>想当初学悠悠球，根本没有老师教我，完全是我出于兴趣自己练习学会的。我之前从电视上看到过悠悠球，并很快就爱上了它。于是我自己就买了一个，接着就看视频不停地练习。短短几个月，我就练成了。</p>
-<p>有一次，学校要举行一次才艺表演，我报名参加了。从那以后，我就一直练习，已经到了出神入化的地步。</p>
-<p>比赛那天，我兴奋地做好准备，已经等不及了。该我上场了。我大步迈向舞台，舞台上金光闪闪，一道道灯光打在我的脸上，排山倒海的掌声向我袭来。我又激动又紧张，一时竟语塞说不出话来。“那么请开始你的表演。”随着主持人的宣布，我抛出了悠悠球，眼睛紧紧地盯着悠悠球，指尖在线上飞舞着，做出一系列十分连贯的动作，嘴里还不停地念叨着：“水平转！天外银龙！……”到此为止，演出还十分顺利，我的表演让观众眼花缭乱、瞠目结舌，掌声一阵又一阵。表演进入了高潮，我大喊一声：“龙啸九天！”将这个动作做了几遍以后，突然，我假装失误，悠悠球落到了地上。那一刻，全场都轰动了起来。其中有一个孩子看得正在兴致呢，看我失误了，立刻泄了气，一副十分失落的样子。正当大家认为我必定失败的时候，我却镇定自若，嘴角露出了一丝微笑。接着，我立即编好绳线，并把球快速地搭到了线上，那球不但没停，反而转得更快了。那时，大家惊呆了，纷纷鼓掌，大家惊讶之余我又做完了剩下的招式，行云流水的操作赢得大家更热烈的掌声。比赛结束那一刻，全场都沸腾了，所有人都不停地鼓掌，手掌都拍麻了。“胜利了！胜利了！”我喜上眉梢，眼中露出一丝骄傲与满足。我一手拿着奖杯，另一只手不停地向台下的观众们招手，心中满是欣喜和自豪。</p>
-<p>是的，悠悠球，它就是我的拿手好戏。我相信，只要我继续努力，我一定能玩得更好！</p>
-]]></content>
-      <categories>
-        <category>创作（正经）</category>
-      </categories>
-      <tags>
-        <tag>爱好</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>有你，真好</title>
-    <url>/2021/02/04/%E6%9C%89%E4%BD%A0%EF%BC%8C%E7%9C%9F%E5%A5%BD/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>那是一次不同寻常的邂逅。那天，天气如此明朗，空气也格外清新。从那以后，我的心中就充满了阳光，就像那天的阳光一样灿烂，那样美好。</p>
-<a id="more"></a>
-
-<p>一次写数学小论文，我十分懊恼，好不容易费了半天时间挤牙膏似的挤出了一篇只有四百字的文章，老师却看了一眼就打回来了。那时我近乎绝望，北风呼呼地吹着，我的心也被冻结了一样，泣不成声。就在这时，你悄悄地走了过来，用一个充满力量的眼神看了我一眼，接着又悄悄地走了。但是，你知道吗？那个眼神，不知道给予了我多少鼓励，它使我振作了起来，提笔半小时就完成了一篇文章。这篇文章被评为了优秀。</p>
-<p>而你对我的鼓励，还不止于此……</p>
-<p>又是学校举行了运动会的日子，我报名了200米跑步项目。紧张激烈的比赛开始了，我大步走向跑道，心里又激动又紧张，我两腿一前一后，身子微微前俯，像运动员一样摆好架势。“预备……开始！”我像炮弹似的冲了出去，首先取得决定性的优势，健步如飞，神采飞扬；而对手也不甘示弱，疾驰如箭，快似流星。比赛已经进入了白热化状态，我们两人跑得不分上下，也都不甘示弱。此时，你并没有说什么，只是微笑了一下。但是，你知道吗？你的微笑像我人生道路中的一朵花，绽放得无比艳丽。带着你的微笑，带着我的决心，我跑得更快了，最终得到了胜利。那一刻，你依然没有说什么，又是一个微笑……</p>
-<p>我的朋友，谢谢你，是你的鼓励照进了我冰冷的心房，是你的安慰让我充满了力量。你为我所做的一切，陪伴我度过了一切痛苦的时光。</p>
-<p>啊，我的朋友，有你，真好！</p>
-]]></content>
-      <categories>
-        <category>创作（正经）</category>
-      </categories>
-      <tags>
-        <tag>友爱</tag>
       </tags>
   </entry>
   <entry>
@@ -343,6 +324,25 @@
       </categories>
       <tags>
         <tag>圣人</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>有你，真好</title>
+    <url>/2021/02/04/%E6%9C%89%E4%BD%A0%EF%BC%8C%E7%9C%9F%E5%A5%BD/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>那是一次不同寻常的邂逅。那天，天气如此明朗，空气也格外清新。从那以后，我的心中就充满了阳光，就像那天的阳光一样灿烂，那样美好。</p>
+<a id="more"></a>
+
+<p>一次写数学小论文，我十分懊恼，好不容易费了半天时间挤牙膏似的挤出了一篇只有四百字的文章，老师却看了一眼就打回来了。那时我近乎绝望，北风呼呼地吹着，我的心也被冻结了一样，泣不成声。就在这时，你悄悄地走了过来，用一个充满力量的眼神看了我一眼，接着又悄悄地走了。但是，你知道吗？那个眼神，不知道给予了我多少鼓励，它使我振作了起来，提笔半小时就完成了一篇文章。这篇文章被评为了优秀。</p>
+<p>而你对我的鼓励，还不止于此……</p>
+<p>又是学校举行了运动会的日子，我报名了200米跑步项目。紧张激烈的比赛开始了，我大步走向跑道，心里又激动又紧张，我两腿一前一后，身子微微前俯，像运动员一样摆好架势。“预备……开始！”我像炮弹似的冲了出去，首先取得决定性的优势，健步如飞，神采飞扬；而对手也不甘示弱，疾驰如箭，快似流星。比赛已经进入了白热化状态，我们两人跑得不分上下，也都不甘示弱。此时，你并没有说什么，只是微笑了一下。但是，你知道吗？你的微笑像我人生道路中的一朵花，绽放得无比艳丽。带着你的微笑，带着我的决心，我跑得更快了，最终得到了胜利。那一刻，你依然没有说什么，又是一个微笑……</p>
+<p>我的朋友，谢谢你，是你的鼓励照进了我冰冷的心房，是你的安慰让我充满了力量。你为我所做的一切，陪伴我度过了一切痛苦的时光。</p>
+<p>啊，我的朋友，有你，真好！</p>
+]]></content>
+      <categories>
+        <category>创作（正经）</category>
+      </categories>
+      <tags>
+        <tag>友爱</tag>
       </tags>
   </entry>
   <entry>
@@ -389,22 +389,6 @@
       </tags>
   </entry>
   <entry>
-    <title>浣溪沙·电脑编程刷题</title>
-    <url>/2021/02/01/%E6%B5%A3%E6%BA%AA%E6%B2%99%C2%B7%E7%94%B5%E8%84%91%E7%BC%96%E7%A8%8B%E5%88%B7%E9%A2%98/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>学习电脑编程，中遇难题，赋词一首：</p>
-<a id="more"></a>
-
-<p>山下师父要AC，总是WA TLE，有时还有MLE。</p>
-<p>谁道人生无CE，测试点全部RE，休将白发唱难题！</p>
-]]></content>
-      <categories>
-        <category>创作（瞎搞）</category>
-      </categories>
-      <tags>
-        <tag>C++</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>泪</title>
     <url>/2021/02/04/%E6%B3%AA/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>泪，是情感的表现。上天给了我眼泪，让我记录人生中最重要的瞬间。</p>
@@ -426,25 +410,6 @@
       </tags>
   </entry>
   <entry>
-    <title>系红领巾大赛</title>
-    <url>/2021/02/04/%E7%B3%BB%E7%BA%A2%E9%A2%86%E5%B7%BE%E5%A4%A7%E8%B5%9B/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>周五，我们班举行了一场系红领巾大赛，大家都十分兴奋，选手们系得不亦乐乎，观众们也看得不亦乐乎。</p>
-<a id="more"></a>
-
-<p>前两轮，大半的人都被淘汰了，只剩下十个同学了。第三轮紧张激烈的决赛开始了。“预备——”裁判员一发口令，选手们就个个都紧紧地握着红领巾，腿不停地颤抖，表情十分专注，生怕错过比赛开始的时间。下面的观众也是屏息凝神，将视线放在选手们的身上，专心致志地看着比赛。“开始！”随着裁判员的一声令下，选手们都快速地卷着红领巾，台下助威的同学都在不停地喝彩，“加油”的鼓励声席卷了整个教室。观众们议论纷纷：“你说谁能得第一？”“我觉得应该是小张吧，她半决赛第一名呢！”“我也这么觉得，我看见了，她速度很快的！”</p>
-<p>比赛已经进行到中期，各位选手都很卖力，脸涨得红红的，尤其是小王，他头发都竖起来了，额头上现出几颗亮晶晶的汗珠，眼睛瞪着红领巾，手飞速地系着，看样子快要系成了。旁边的小李也不甘示弱，手恨不得把红领巾抓出一个缝，可惜有一步系错了，搞得整个散架，白费功夫。她摇摇头，开始重新系，看样子对第一名没有信心了。</p>
-<p>比赛快结束了，观众们不说话了，加油喝彩的不喊了，甚至连写作业的也停下了笔，安静地等待着第一名的出现。全场寂静得可怕。</p>
-<p>就在大家都快系完的时候，小张同学第一个举起了手，顿时，同学们又像得到生命似的，又开始为小张喝彩。剩下的选手们也陆续举起了手，于是，鼓掌声、欢呼声等各种声音夹杂在一起，响声要冲破房顶。老师为前三名颁发奖状时，大家仿佛心有灵犀，异口同声地唱起队歌：“我们是共产主义接班人……”</p>
-<p>大家沉浸在一片欢乐之中。</p>
-]]></content>
-      <categories>
-        <category>创作（正经）</category>
-      </categories>
-      <tags>
-        <tag>红领巾</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>爱，就在我身边</title>
     <url>/2021/02/02/%E7%88%B1%EF%BC%8C%E5%B0%B1%E5%9C%A8%E6%88%91%E8%BA%AB%E8%BE%B9/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>那时我大概三年级吧，下午上体育课，我像平常一样走向操场，突然有几个六年级的大孩子一阵风似的跑了过来，对当时的我来说他们又高又壮，就如一堵人墙。看着他们向我袭来，我愣了一下，没来及躲闪就被他们撞倒了……</p>
@@ -463,6 +428,41 @@
       </categories>
       <tags>
         <tag>友爱</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>浣溪沙·电脑编程刷题</title>
+    <url>/2021/02/01/%E6%B5%A3%E6%BA%AA%E6%B2%99%C2%B7%E7%94%B5%E8%84%91%E7%BC%96%E7%A8%8B%E5%88%B7%E9%A2%98/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>学习电脑编程，中遇难题，赋词一首：</p>
+<a id="more"></a>
+
+<p>山下师父要AC，总是WA TLE，有时还有MLE。</p>
+<p>谁道人生无CE，测试点全部RE，休将白发唱难题！</p>
+]]></content>
+      <categories>
+        <category>创作（瞎搞）</category>
+      </categories>
+      <tags>
+        <tag>C++</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>系红领巾大赛</title>
+    <url>/2021/02/04/%E7%B3%BB%E7%BA%A2%E9%A2%86%E5%B7%BE%E5%A4%A7%E8%B5%9B/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>周五，我们班举行了一场系红领巾大赛，大家都十分兴奋，选手们系得不亦乐乎，观众们也看得不亦乐乎。</p>
+<a id="more"></a>
+
+<p>前两轮，大半的人都被淘汰了，只剩下十个同学了。第三轮紧张激烈的决赛开始了。“预备——”裁判员一发口令，选手们就个个都紧紧地握着红领巾，腿不停地颤抖，表情十分专注，生怕错过比赛开始的时间。下面的观众也是屏息凝神，将视线放在选手们的身上，专心致志地看着比赛。“开始！”随着裁判员的一声令下，选手们都快速地卷着红领巾，台下助威的同学都在不停地喝彩，“加油”的鼓励声席卷了整个教室。观众们议论纷纷：“你说谁能得第一？”“我觉得应该是小张吧，她半决赛第一名呢！”“我也这么觉得，我看见了，她速度很快的！”</p>
+<p>比赛已经进行到中期，各位选手都很卖力，脸涨得红红的，尤其是小王，他头发都竖起来了，额头上现出几颗亮晶晶的汗珠，眼睛瞪着红领巾，手飞速地系着，看样子快要系成了。旁边的小李也不甘示弱，手恨不得把红领巾抓出一个缝，可惜有一步系错了，搞得整个散架，白费功夫。她摇摇头，开始重新系，看样子对第一名没有信心了。</p>
+<p>比赛快结束了，观众们不说话了，加油喝彩的不喊了，甚至连写作业的也停下了笔，安静地等待着第一名的出现。全场寂静得可怕。</p>
+<p>就在大家都快系完的时候，小张同学第一个举起了手，顿时，同学们又像得到生命似的，又开始为小张喝彩。剩下的选手们也陆续举起了手，于是，鼓掌声、欢呼声等各种声音夹杂在一起，响声要冲破房顶。老师为前三名颁发奖状时，大家仿佛心有灵犀，异口同声地唱起队歌：“我们是共产主义接班人……”</p>
+<p>大家沉浸在一片欢乐之中。</p>
+]]></content>
+      <categories>
+        <category>创作（正经）</category>
+      </categories>
+      <tags>
+        <tag>红领巾</tag>
       </tags>
   </entry>
   <entry>
@@ -532,23 +532,6 @@
       </tags>
   </entry>
   <entry>
-    <title>西江月·夜里写作业</title>
-    <url>/2021/02/01/%E8%A5%BF%E6%B1%9F%E6%9C%88%C2%B7%E5%A4%9C%E9%87%8C%E5%86%99%E4%BD%9C%E4%B8%9A/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>明月别枝惊鹊，作业写到半夜。</p>
-<a id="more"></a>
-
-<p>稻花香里说丰年，一篇作文写两年。</p>
-<p>七八篇作文像座塔，两三本练习写到傻。</p>
-<p>旧时茅厕马桶边，作文练习堆上天！</p>
-]]></content>
-      <categories>
-        <category>创作（瞎搞）</category>
-      </categories>
-      <tags>
-        <tag>作业</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>说明</title>
     <url>/2021/02/02/%E8%AF%B4%E6%98%8E/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>其实，这些都是我之前的作文。现在我将这些作文贴在博客上，大家有兴趣的话可以看看。</p>
@@ -598,6 +581,23 @@
       </categories>
       <tags>
         <tag>作文</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>西江月·夜里写作业</title>
+    <url>/2021/02/01/%E8%A5%BF%E6%B1%9F%E6%9C%88%C2%B7%E5%A4%9C%E9%87%8C%E5%86%99%E4%BD%9C%E4%B8%9A/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>明月别枝惊鹊，作业写到半夜。</p>
+<a id="more"></a>
+
+<p>稻花香里说丰年，一篇作文写两年。</p>
+<p>七八篇作文像座塔，两三本练习写到傻。</p>
+<p>旧时茅厕马桶边，作文练习堆上天！</p>
+]]></content>
+      <categories>
+        <category>创作（瞎搞）</category>
+      </categories>
+      <tags>
+        <tag>作业</tag>
       </tags>
   </entry>
   <entry>
